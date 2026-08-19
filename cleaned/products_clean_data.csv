@@ -1,0 +1,2001 @@
+ProductID,ProductName,Category,Subcategory,Brand,CostPrice,SellingPrice,Rating
+P00001,Zenova Outdoor B366,Sports & Fitness,Outdoor,Zenova,1788.18,2507.17,3.9
+P00002,Echo Footwear C863,Fashion,Footwear,Echo,845.18,1328.42,4.0
+P00003,Kairo Non-Fiction D326,Books,Non-Fiction,Kairo,373.6,480.82,4.1
+P00004,Aster Smartphones E615,Electronics,Smartphones,Aster,11102.85,22999.99,4.0
+P00005,Echo Bedding F477,Home & Kitchen,Bedding,Echo,1502.75,3092.52,3.9
+P00006,Altura Nutrition Accessories G780,Sports & Fitness,Nutrition Accessories,Altura,5818.13,10279.31,4.3
+P00007,Rivon Personal Care H289,Beauty,Personal Care,Rivon,956.88,1388.89,3.4
+P00008,Nexa Laptops I826,Electronics,Laptops,Nexa,6983.11,9409.61,4.1
+P00009,Solace Nutrition Accessories J609,Sports & Fitness,Nutrition Accessories,Solace,1921.32,3444.77,5.0
+P00010,Zenix Cleaning K397,Appliances,Cleaning,Zenix,8476.73,11959.69,3.8
+P00011,PrimeNest Hair Care L873,Beauty,Hair Care,Primenest,728.61,1244.1,3.9
+P00012,Aster Furniture M919,Home & Kitchen,Furniture,Aster,2176.85,3150.25,4.1
+P00013,Vistara Footwear N18,Fashion,Footwear,Vistara,677.89,921.15,3.7
+P00014,UrbanPeak Sportswear O12,Sports & Fitness,Sportswear,Urbanpeak,2598.5,3118.82,3.8
+P00015,MintLeaf Fragrance P860,Beauty,Fragrance,Mintleaf,304.97,468.21,3.1
+P00016,Nexa Headphones Q633,Electronics,Headphones,Nexa,16530.45,19834.82,3.7
+P00017,PrimeNest Yoga R998,Sports & Fitness,Yoga,Primenest,2512.89,3357.19,3.9
+P00018,Nova Home Appliances S912,Appliances,Home Appliances,Nova,3308.37,4755.02,3.6
+P00019,Cresta Watches T505,Fashion,Watches,Cresta,1053.44,1429.27,4.0
+P00020,MintLeaf Personal Care U470,Beauty,Personal Care,Mintleaf,843.87,1337.07,4.2
+P00021,Kairo Footwear V442,Fashion,Footwear,Kairo,798.94,1677.45,5.0
+P00022,Nexa Men Clothing W275,Fashion,Men Clothing,Nexa,3108.64,5639.38,5.0
+P00023,Orbito Bedding X510,Home & Kitchen,Unknown,Orbito,3346.11,5844.63,5.0
+P00024,UrbanPeak Fiction Y45,Books,Fiction,Urbanpeak,645.18,714.34,3.3
+P00025,Nexa Footwear Z518,Fashion,Footwear,Nexa,1953.26,4042.26,4.0
+P00026,Vistara Makeup A528,Beauty,Unknown,Vistara,486.09,865.96,
+P00027,Mira Personal Care B93,Beauty,Personal Care,Mira,1031.66,1501.01,4.0
+P00028,Cresta Outdoor C540,Appliances,Outdoor,Cresta,2443.14,4328.33,3.0
+P00029,Echo Cookware D665,Home & Kitchen,Cookware,Echo,1783.56,2619.91,4.5
+P00030,Nexa Outdoor E50,Sports & Fitness,Outdoor,Nexa,1670.24,2731.88,3.8
+P00031,Cresta Sportswear F868,Sports & Fitness,Sportswear,Cresta,2302.14,3030.89,3.9
+P00032,BlueArc Cookware G529,Home & Kitchen,Cookware,Bluearc,1229.32,1527.48,4.2
+P00033,Echo Accessories H174,Electronics,Accessories,Echo,8338.3,14972.49,3.9
+P00034,Altura Furniture I376,Home & Kitchen,Furniture,Altura,1691.85,3078.22,4.3
+P00035,Altura Storage J783,Home & Kitchen,Storage,Altura,2802.75,3798.0,3.9
+P00036,UrbanPeak Storage K162,Home & Kitchen,Storage,Urbanpeak,2091.43,3105.0,4.7
+P00037,Vertex Cookware L899,Home & Kitchen,Cookware,Vertex,1454.55,1860.64,4.0
+P00038,Zenova Watches M635,Fashion,Watches,Zenova,914.8,1513.19,4.4
+P00039,Nova Bedding N16,Home & Kitchen,Bedding,Nova,2444.12,4503.27,3.4
+P00040,Solace Fiction O928,Books,Fiction,Solace,361.27,610.58,3.2
+P00041,Kairo Bedding P840,Home & Kitchen,Bedding,Kairo,2322.73,4630.91,3.9
+P00042,Vistara Accessories Q220,Electronics,Accessories,Vistara,10381.71,16309.12,4.1
+P00043,Cresta Outdoor R937,Sports & Fitness,Outdoor,Cresta,2047.7,2721.26,4.0
+P00044,Echo Cooling S528,Appliances,Cooling,Echo,3113.21,5260.88,2.5
+P00045,MintLeaf Footwear T21,Fashion,Footwear,Mintleaf,869.12,1108.91,3.6
+P00046,Rivon Accessories U829,Electronics,Accessories,Rivon,0.0,21504.69,3.3
+P00047,NEXA CHILDREN V269,Books,Children,Nexa,367.69,745.39,4.2
+P00048,Vistara Smart Watches W55,Electronics,Smart Watches,Vistara,16216.86,23646.03,3.7
+P00049,Zenova Cooling X24,Appliances,Cooling,Zenova,3981.64,5455.01,5.0
+P00050,Nexa Staples Y383,Grocery,Staples,Nexa,569.6,1102.21,4.4
+P00051,UrbanPeak Laptops Z257,Electronics,Laptops,Urbanpeak,10779.47,19660.73,4.1
+P00052,BlueArc Storage A66,Home & Kitchen,Storage,Bluearc,2462.91,3169.38,4.5
+P00053,Nexa Fragrance B314,Beauty,Fragrance,Nexa,549.99,1129.6,4.7
+P00054,Zenix Cooling C509,Appliances,Cooling,Zenix,2073.51,3314.31,4.0
+P00055,UrbanPeak Personal Care D857,Beauty,Personal Care,Urbanpeak,715.75,1198.89,3.5
+P00056,Orbito Smart Watches E155,Electronics,Smart Watches,Orbito,7353.55,17266.95,4.2
+P00057,Vistara Skin Care F499,Beauty,Skin Care,Vistara,945.1,1691.02,3.5
+P00058,Echo Cleaning G578,Appliances,Cleaning,Echo,3372.61,6661.3,3.9
+P00059,Orbito Home Decor H29,Home & Kitchen,Home Decor,Orbito,1490.29,2863.74,4.3
+P00060,Aster Fitness Equipment I918,Sports & Fitness,Fitness Equipment,Aster,1777.49,2426.63,3.8
+P00061,Rivon Skin Care J863,Fashion,Skin Care,Rivon,1170.74,2374.52,3.9
+P00062,Cresta Women Clothing K645,Fashion,Women Clothing,Cresta,1929.63,3920.12,4.1
+P00063,Vertex Smartphones L21,Electronics,Smartphones,Vertex,5595.84,7512.27,4.4
+P00064,Zenova Non-Fiction M374,Home & Kitchen,Non-Fiction,Zenova,240.36,434.93,4.0
+P00065,Nova Laptops N502,Electronics,Laptops,Nova,5494.16,10391.56,3.7
+P00066,MintLeaf Fragrance O853,Beauty,Fragrance,Mintleaf,786.44,1361.98,3.1
+P00067,Zenix Furniture P171,Home & Kitchen,Furniture,Zenix,2407.15,3902.68,3.7
+P00068,Zenova Cleaning Q498,Appliances,Cleaning,Zenova,3745.48,7363.67,3.3
+P00069,UrbanPeak Smartphones R966,Electronics,Smartphones,Urbanpeak,4866.47,6666.17,4.5
+P00070,Echo Small Appliances S440,Appliances,Small Appliances,Echo,6459.34,11330.59,3.6
+P00071,Zenova Headphones T955,Electronics,Headphones,Zenova,13717.37,28635.91,3.2
+P00072,Orbito Accessories U287,Electronics,Accessories,Orbito,14138.02,20073.19,4.5
+P00073,PrimeNest Women Clothing V771,Fashion,Women Clothing,Primenest,1073.86,1390.79,4.7
+P00074,Luma Men Clothing W96,Fashion,Men Clothing,Luma,881.59,1503.5,3.3
+P00075,Zenova Breakfast X331,Grocery,Breakfast,Zenova,198.96,410.54,3.5
+P00076,PrimeNest Breakfast Y843,Grocery,Breakfast,Primenest,214.89,414.01,4.7
+P00077,MintLeaf Cooling Z846,Home & Kitchen,Cooling,Mintleaf,4216.63,12093.21,4.0
+P00078,UrbanPeak Sportswear A326,Sports & Fitness,Sportswear,Urbanpeak,1785.2,3640.95,4.3
+P00079,Vertex Smartphones B608,Electronics,Smartphones,Vertex,7228.04,11055.71,4.0
+P00080,Aster Bedding C71,Home & Kitchen,Bedding,Aster,2015.93,2421.99,3.9
+P00081,Zenova Laptops D553,Electronics,Laptops,Zenova,9411.34,12474.85,4.9
+P00082,Zenix Bags E793,Fashion,Bags,Zenix,1043.1,1558.8,4.3
+P00083,UrbanPeak Men Clothing F753,Fashion,Men Clothing,Urbanpeak,743.58,894.74,3.2
+P00084,PrimeNest Makeup G993,Beauty,Makeup,Primenest,0.0,1058.25,3.7
+P00085,Orbito Smart Watches H523,Electronics,Smart Watches,Orbito,7098.94,10401.13,3.5
+P00086,Vistara Children I832,Books,Children,Vistara,458.45,902.31,3.8
+P00087,Zenova Skin Care J269,Beauty,Skin Care,Zenova,737.72,980.35,4.2
+P00088,Mira Fragrance K328,Beauty,Fragrance,Mira,516.14,847.06,4.6
+P00089,Rivon Staples L39,Grocery,Staples,Rivon,376.79,624.63,4.1
+P00090,Zenix Headphones M724,Electronics,Headphones,Zenix,8972.79,14100.42,4.2
+P00091,Zenova Home Decor N665,Home & Kitchen,Home Decor,Zenova,3231.71,6480.87,3.6
+P00092,Vistara Nutrition Accessories O942,Sports & Fitness,Nutrition Accessories,Vistara,1970.48,3624.65,3.6
+P00093,PrimeNest Sportswear P388,Electronics,Sportswear,Primenest,1478.71,2921.06,3.4
+P00094,Orbito Personal Care Q553,Beauty,Personal Care,Orbito,965.18,1710.71,4.2
+P00095,Aster Smart Watches R231,Electronics,Smart Watches,Aster,9257.89,13225.26,4.3
+P00096,Vistara Children S667,Electronics,Children,Vistara,672.06,975.56,3.5
+P00097,PrimeNest Hair Care T113,Beauty,Hair Care,Primenest,557.49,745.84,3.5
+P00098,Echo Makeup U555,Beauty,Makeup,Echo,828.17,1150.36,4.0
+P00099,BlueArc Beverages V364,Grocery,Beverages,Bluearc,666.24,1077.65,3.7
+P00100,Echo Hair Care W418,Beauty,Hair Care,Echo,662.73,1336.31,3.4
+P00101,Vertex Business X224,Books,Business,Vertex,549.39,922.72,3.4
+P00102,Nova Children Y480,Books,Children,Nova,372.85,646.82,4.4
+P00103,Altura Fragrance Z457,Sports & Fitness,Fragrance,Altura,389.42,667.06,2.9
+P00104,Vertex Footwear A278,Fashion,Footwear,Vertex,1537.44,1985.47,3.9
+P00105,Kairo Laptops B698,Electronics,Laptops,Kairo,9157.55,12092.68,3.7
+P00106,Altura Small Appliances C593,Appliances,Small Appliances,Altura,5804.94,7883.93,4.2
+P00107,UrbanPeak Women Clothing D297,Fashion,Women Clothing,Urbanpeak,1506.54,2861.82,3.2
+P00108,Aster Footwear E419,Fashion,Footwear,Aster,1059.36,1427.82,3.6
+P00109,Zenova Bedding F583,Home & Kitchen,Bedding,Zenova,2257.28,3052.57,4.3
+P00110,Zenova Smartphones G250,Electronics,Smartphones,Zenova,7198.46,12741.15,4.4
+P00111,Rivon Academic H891,Books,Academic,Rivon,594.37,1080.65,3.8
+P00112,Nova Fragrance I876,Beauty,Fragrance,Nova,896.55,1472.35,3.5
+P00113,Rivon Laptops J175,Fashion,Laptops,Rivon,15625.47,20773.97,2.8
+P00114,Nova Sportswear K309,Sports & Fitness,Sportswear,Nova,2794.79,4098.89,4.1
+P00115,Kairo Small Appliances L342,Appliances,Small Appliances,Kairo,4708.57,5597.48,4.3
+P00116,Vertex Fitness Equipment M67,Sports & Fitness,Fitness Equipment,Vertex,1292.25,2534.56,4.5
+P00117,Zenova Laptops N624,Electronics,Laptops,Zenova,14592.06,28485.99,4.5
+P00118,BlueArc Women Clothing O97,Fashion,Women Clothing,Bluearc,1510.26,1534.46,4.7
+P00119,PrimeNest Children P175,Books,Children,Primenest,391.65,515.51,3.9
+P00120,Mira Staples Q782,Sports & Fitness,Staples,Mira,363.43,1081.02,4.4
+P00121,Orbito Non-Fiction R441,Books,Non-Fiction,Orbito,374.15,516.26,3.7
+P00122,Vertex Women Clothing S30,Fashion,Women Clothing,Vertex,1201.38,1712.55,4.2
+P00123,Solace Cooling T650,Appliances,Cooling,Solace,3167.58,6015.66,3.7
+P00124,Nova Bags U550,Fashion,Unknown,Nova,1514.77,2553.45,4.2
+P00125,Nova Furniture V926,Home & Kitchen,Furniture,Nova,1375.39,1927.74,4.4
+P00126,Mira Small Appliances W415,Appliances,Small Appliances,Mira,2640.66,3177.99,4.1
+P00127,Unknown,Fashion,Women Clothing,Aster,861.97,1267.9,3.9
+P00128,PrimeNest Women Clothing Y610,Fashion,Women Clothing,Primenest,1659.38,2995.6,3.7
+P00129,Zenova Academic Z242,Books,Academic,Zenova,413.24,285.04,3.7
+P00130,Luma Cookware A911,Home & Kitchen,Unknown,Luma,1887.33,2314.39,4.1
+P00131,Nexa Headphones B147,Electronics,Headphones,Nexa,4523.28,7343.4,3.5
+P00132,Altura Beverages C243,Grocery,Beverages,Altura,183.1,382.16,5.0
+P00133,Orbito Bedding D411,Home & Kitchen,Bedding,Orbito,2660.27,5029.76,4.5
+P00134,Kairo Watches E397,Fashion,Watches,Kairo,1635.47,2215.19,3.7
+P00135,Vistara Personal Care F562,Beauty,Personal Care,Vistara,1126.5,2178.11,4.2
+P00136,Echo Makeup G924,Beauty,Makeup,Echo,831.82,1004.6,3.6
+P00137,Vistara Footwear H13,Fashion,Footwear,Unknown,1632.11,3187.65,3.1
+P00138,Solace Smartphones I412,Electronics,Smartphones,Solace,9365.24,0.0,3.8
+P00139,Solace Hair Care J46,Beauty,Hair Care,Solace,1500.61,3082.56,3.7
+P00140,Vistara Bags K710,Fashion,Bags,Vistara,644.03,1293.21,4.7
+P00141,Cresta Bags L824,Fashion,Bags,Cresta,1647.36,2287.21,3.8
+P00142,UrbanPeak Cooling M26,Appliances,Cooling,Urbanpeak,3341.89,5801.67,4.5
+P00143,rivon footwear n799,Fashion,Footwear,Rivon,1199.66,1781.75,3.2
+P00144,Nova Makeup O585,Beauty,Makeup,Nova,774.22,1479.83,4.1
+P00145,Echo Fitness Equipment P746,Sports & Fitness,Fitness Equipment,Echo,1445.83,2160.03,3.2
+P00146,Nexa Academic Q239,Books,Academic,Nexa,325.49,554.69,3.9
+P00147,Cresta Men Clothing R984,Fashion,Men Clothing,Cresta,1118.16,1825.63,4.5
+P00148,Nova Home Decor S402,Home & Kitchen,Home Decor,Nova,2244.42,4257.77,3.8
+P00149,Altura Men Clothing T37,Fashion,Men Clothing,Altura,758.94,1523.14,4.4
+P00150,Orbito Smart Watches U952,Electronics,Smart Watches,Orbito,12998.85,26897.7,4.3
+P00151,Luma Yoga V28,Sports & Fitness,Yoga,Luma,1393.47,2542.46,4.8
+P00152,Nova Laptops W125,Electronics,Laptops,Nova,10492.93,12719.84,3.8
+P00153,BLUEARC STORAGE X129,Home & Kitchen,Storage,Bluearc,1855.59,3644.74,4.3
+P00154,Luma Footwear Y596,Fashion,Footwear,Luma,1003.13,1338.37,4.3
+P00155,MintLeaf Smart Watches Z202,Unknown,Smart Watches,Mintleaf,8396.08,16819.11,3.6
+P00156,Rivon Smartphones A496,Electronics,Smartphones,Rivon,7335.51,12408.28,4.1
+P00157,Luma Fitness Equipment B582,Sports & Fitness,Fitness Equipment,Luma,1777.49,5052.87,3.7
+P00158,UrbanPeak Sportswear C965,Sports & Fitness,Sportswear,Urbanpeak,1811.7,2198.51,4.0
+P00159,UrbanPeak Cookware D248,Home & Kitchen,Cookware,Urbanpeak,2279.27,3867.68,4.4
+P00160,Orbito Packaged Food E477,Grocery,Packaged Food,Orbito,545.21,476.88,4.2
+P00161,Echo Laptops F77,Electronics,Laptops,Echo,8175.94,13338.15,3.5
+P00162,Solace Men Clothing G19,Fashion,Men Clothing,Solace,1460.05,2160.22,3.7
+P00163,Zenova-Laptops-H124,Electronics,Laptops,Zenova,8660.35,17073.64,4.7
+P00164,Vistara Accessories I121,Electronics,Accessories,Vistara,15791.94,22646.41,4.0
+P00165,Altura Kitchen Appliances J384,Appliances,Kitchen Appliances,Altura,3468.32,7200.03,4.1
+P00166,Zenova Fitness Equipment K567,Sports & Fitness,Fitness Equipment,Zenova,2398.28,4204.49,4.6
+P00167,Orbito Men Clothing L569,Fashion,Men Clothing,Orbito,2103.94,2674.22,4.9
+P00168,Unknown,Fashion,Watches,Aster,704.1,1367.87,4.1
+P00169,PrimeNest Bedding N273,Home & Kitchen,Bedding,Primenest,2674.07,5318.39,4.2
+P00170,Aster Smart Watches O231,Electronics,Smart Watches,Aster,9362.65,15692.86,3.4
+P00171,Unknown,Books,Children,Vertex,364.58,535.23,4.1
+P00172,Rivon Bedding Q580,Home & Kitchen,Bedding,Rivon,586.02,1216.73,3.9
+P00173,Vertex Packaged Food R89,Grocery,Packaged Food,Vertex,262.51,410.2,4.4
+P00174,Solace Furniture S668,Home & Kitchen,Furniture,Solace,1076.01,1565.01,4.4
+P00175,Vistara Smartphones T376,Electronics,Smartphones,Vistara,4464.02,5553.78,4.5
+P00176,Nova Kitchen Appliances U310,Appliances,Kitchen Appliances,Nova,4728.11,6319.64,4.2
+P00177,Kairo Home Decor V139,Home & Kitchen,Home Decor,Kairo,2372.91,2857.82,3.0
+P00178,Vistara Small Appliances W535,Appliances,Small Appliances,Vistara,3200.24,5759.93,3.9
+P00179,Aster Packaged Food X770,Grocery,Packaged Food,Aster,615.02,1209.56,3.8
+P00180,Rivon Bedding Y348,Home & Kitchen,Bedding,Rivon,1665.88,2505.72,3.5
+P00181,MintLeaf Breakfast Z744,Grocery,Breakfast,Mintleaf,457.53,463.02,3.2
+P00182,BlueArc Watches A385,Fashion,Watches,Bluearc,1602.44,1991.0,5.0
+P00183,Echo Skin Care B842,Beauty,Skin Care,Echo,1333.71,2371.45,3.8
+P00184,UrbanPeak Cooling C330,Appliances,Cooling,Urbanpeak,4077.07,6707.89,4.3
+P00185,Rivon Fiction D540,Books,Fiction,Rivon,1157.47,2099.84,3.7
+P00186,Zenix Watches E148,Fashion,Watches,Unknown,702.16,1445.75,2.7
+P00187,Mira Cookware F649,Home & Kitchen,Cookware,Mira,2123.82,2575.57,4.1
+P00188,Mira Personal Care G653,Beauty,Personal Care,Mira,649.65,1153.48,4.0
+P00189,Nexa Men Clothing H519,Fashion,Men Clothing,Nexa,985.68,1180.46,4.8
+P00190,Solace Nutrition Accessories I199,Sports & Fitness,Nutrition Accessories,Solace,2720.48,3690.21,4.1
+P00191,Nexa Accessories J102,Electronics,Accessories,Nexa,5945.0,11385.89,4.0
+P00192,Echo Smartphones K174,Electronics,Smartphones,Echo,9577.63,15225.51,3.7
+P00193,Echo Bags L220,Fashion,Bags,Echo,1706.31,3495.46,4.6
+P00194,MintLeaf Sportswear M474,Sports & Fitness,Sportswear,Mintleaf,3155.91,3853.28,3.8
+P00195,Vistara Laptops N927,Electronics,Laptops,Vistara,6195.96,11957.01,4.1
+P00196,Echo Personal Care O260,Beauty,Unknown,Echo,423.6,638.17,3.9
+P00197,Kairo Packaged Food P113,Grocery,Packaged Food,Kairo,687.43,1136.05,4.3
+P00198,MintLeaf Skin Care Q677,Beauty,Skin Care,Mintleaf,727.97,1341.87,2.7
+P00199,Zenix Yoga R776,Sports & Fitness,Yoga,Zenix,5148.98,10536.63,3.9
+P00200,BlueArc Bedding S672,Home & Kitchen,Bedding,Bluearc,3884.82,4841.8,3.6
+P00201,Cresta Storage T443,Home & Kitchen,Storage,Cresta,2316.17,2771.28,3.6
+P00202,Solace Makeup U456,Beauty,Makeup,Solace,620.63,747.63,4.5
+P00203,Zenova Men Clothing V344,Fashion,Men Clothing,Unknown,1663.87,2040.79,4.3
+P00204,Nexa Fiction W509,Books,Fiction,Nexa,301.01,520.31,5.0
+P00205,Vertex Men Clothing X555,Fashion,Men Clothing,Vertex,820.08,1226.64,4.4
+P00206,Luma Cooling Y856,Appliances,Cooling,Luma,7388.92,14564.55,4.4
+P00207,PrimeNest Accessories Z651,Electronics,Accessories,Primenest,13254.45,22040.54,3.7
+P00208,Luma Headphones A602,Electronics,Headphones,Luma,6359.59,11472.51,5.0
+P00209,Cresta Women Clothing B779,Fashion,Women Clothing,Cresta,977.36,1640.67,4.6
+P00210,Altura Fragrance C720,Beauty,Fragrance,Altura,877.56,1729.12,3.4
+P00211,UrbanPeak Women Clothing D378,Fashion,Women Clothing,Urbanpeak,870.87,1183.0,3.5
+P00212,Cresta Men Clothing E560,Fashion,Men Clothing,Cresta,925.37,1267.75,3.5
+P00213,BlueArc Accessories F241,Electronics,Accessories,Bluearc,5163.52,8536.33,3.0
+P00214,Nova Laptops G277,Electronics,Laptops,Nova,4324.29,8346.67,3.6
+P00215,Vertex Accessories H974,Electronics,Accessories,Vertex,8906.03,13384.77,3.9
+P00216,Cresta Fitness Equipment I598,Sports & Fitness,Fitness Equipment,Cresta,2887.43,4931.67,4.6
+P00217,PrimeNest Non-Fiction J181,Books,Non-Fiction,Primenest,376.39,686.49,3.9
+P00218,Solace Women Clothing K303,Fashion,Women Clothing,Solace,1200.35,1857.7,3.7
+P00219,Orbito Women Clothing L931,Fashion,Women Clothing,Orbito,2113.03,3485.45,3.2
+P00220,Zenova Hair Care M913,Beauty,Hair Care,Zenova,782.69,1230.7,3.8
+P00221,Echo Footwear N308,Fashion,Footwear,Echo,1231.68,1636.31,3.8
+P00222,Kairo Fragrance O725,Beauty,Fragrance,Kairo,330.94,508.48,4.2
+P00223,Cresta Home Decor P729,Home & Kitchen,Home Decor,Cresta,1953.69,3708.55,3.2
+P00224,Mira Fiction Q609,Books,Fiction,Mira,269.67,431.8,4.5
+P00225,UrbanPeak Smart Watches R304,Electronics,Smart Watches,Urbanpeak,16075.17,23987.66,4.7
+P00226,Echo Breakfast S241,Grocery,Breakfast,Echo,509.9,853.24,4.5
+P00227,Solace Cookware T466,Home & Kitchen,Cookware,Solace,901.63,1438.17,4.3
+P00228,Rivon Outdoor U546,Sports & Fitness,Outdoor,Rivon,1209.86,1754.5,4.6
+P00229,Zenova Outdoor V724,Sports & Fitness,Outdoor,Zenova,1377.1,2457.2,4.0
+P00230,MintLeaf Men Clothing W501,Fashion,Men Clothing,Mintleaf,877.61,1347.98,3.5
+P00231,Altura Cleaning X17,Appliances,Cleaning,Altura,4990.22,8386.29,4.9
+P00232,Zenix Outdoor Y800,Sports & Fitness,Outdoor,Zenix,1162.61,1448.33,5.0
+P00233,Vistara Sportswear Z335,Sports & Fitness,Sportswear,Vistara,2047.66,3980.06,4.0
+P00234,Kairo Fiction A977,Books,Fiction,Kairo,450.33,624.02,3.8
+P00235,Cresta Footwear B346,Fashion,Footwear,Cresta,2129.09,3043.5,4.7
+P00236,Solace Cookware C406,Home & Kitchen,Cookware,Solace,2233.72,3784.93,4.5
+P00237,Kairo Nutrition Accessories D15,Sports & Fitness,Nutrition Accessories,Kairo,2292.92,4788.46,4.0
+P00238,Zenix Breakfast E241,Grocery,Breakfast,Zenix,216.27,349.59,4.0
+P00239,Kairo Children F722,Unknown,Children,Kairo,224.6,287.99,4.4
+P00240,Cresta Makeup G90,Beauty,Makeup,Cresta,716.81,1879.01,4.7
+P00241,Zenova Yoga H400,Sports & Fitness,Yoga,Zenova,2232.67,4296.88,3.6
+P00242,Mira Staples I843,Grocery,Staples,Mira,448.58,939.33,3.6
+P00243,Rivon Smart Watches J461,Electronics,Smart Watches,Rivon,6600.92,11877.71,4.0
+P00244,Nova Watches K11,Fashion,Watches,Nova,1154.71,3586.38,4.1
+P00245,Luma Men Clothing L479,Fashion,Men Clothing,Luma,797.32,993.23,4.5
+P00246,Luma Staples M75,Grocery,Staples,Luma,299.66,368.52,4.3
+P00247,Solace Bags N249,Fashion,Bags,Solace,1119.59,1737.73,3.6
+P00248,Orbito Footwear O759,Fashion,Footwear,Orbito,2229.17,4122.4,3.5
+P00249,Echo Watches P285,Fashion,Watches,Echo,858.95,1458.35,4.9
+P00250,Zenova Fragrance Q173,Beauty,Fragrance,Zenova,966.09,1817.14,4.2
+P00251,Cresta Beverages R246,Grocery,Beverages,Cresta,213.35,154.43,4.6
+P00252,PrimeNest Smart Watches S803,Electronics,Smart Watches,Primenest,5025.06,12082.66,3.8
+P00253,Mira Storage T230,Home & Kitchen,Storage,Mira,1363.49,1959.97,3.6
+P00254,Zenova Fitness Equipment U454,Sports & Fitness,Fitness Equipment,Zenova,828.6,1160.55,3.8
+P00255,Nexa Bedding V666,Home & Kitchen,Bedding,Nexa,1817.39,2250.37,3.8
+P00256,Altura Fiction W291,Books,Fiction,Altura,1522.24,2349.12,3.6
+P00257,aster home decor x726,Home & Kitchen,Home Decor,Aster,2124.51,3049.68,3.7
+P00258,Echo Fiction Y329,Books,Fiction,Echo,1048.14,1716.1,4.4
+P00259,Kairo Men Clothing Z672,Fashion,Men Clothing,Kairo,1249.65,2550.2,3.1
+P00260,Vertex Small Appliances A171,Appliances,Small Appliances,Vertex,2792.92,5246.95,4.8
+P00261,MintLeaf Outdoor B667,Sports & Fitness,Outdoor,Mintleaf,1699.65,2039.19,4.3
+P00262,Altura Children C787,Books,Children,Altura,483.43,751.32,4.0
+P00263,Aster Storage D354,Home & Kitchen,Storage,Aster,1143.91,1976.41,3.6
+P00264,Solace Staples E497,Grocery,Staples,Solace,296.54,384.04,3.6
+P00265,Rivon Headphones F367,Electronics,Headphones,Rivon,3986.15,5893.28,4.6
+P00266,Orbito Bedding G186,Home & Kitchen,Bedding,Orbito,1453.34,1961.21,3.5
+P00267,Altura Cleaning H92,Electronics,Cleaning,Altura,3025.26,6026.33,4.0
+P00268,Rivon Accessories I580,Electronics,Accessories,Rivon,9333.2,13526.41,3.8
+P00269,Kairo Cleaning J615,Appliances,Unknown,Kairo,2425.14,4361.52,4.5
+P00270,Zenix Women Clothing K110,Fashion,Women Clothing,Zenix,1419.66,2123.67,4.1
+P00271,Nova Headphones L805,Electronics,Headphones,Nova,4232.34,7735.63,4.1
+P00272,Aster Non-Fiction M359,Books,Non-Fiction,Aster,315.93,635.48,3.4
+P00273,Orbito Headphones N44,Electronics,Headphones,Orbito,2197.16,4133.63,3.7
+P00274,Altura Watches O225,Fashion,Watches,Altura,1237.49,2478.6,4.1
+P00275,Zenix Fragrance P667,Beauty,Fragrance,Zenix,578.03,1004.3,3.8
+P00276,Vertex Non-Fiction Q313,Books,Non-Fiction,Vertex,428.96,648.01,4.2
+P00277,Cresta Packaged Food R971,Grocery,Packaged Food,Cresta,301.69,442.92,3.6
+P00278,Kairo Snacks S486,Grocery,Snacks,Kairo,344.87,573.28,3.2
+P00279,Orbito Laptops T294,Electronics,Laptops,Orbito,12460.89,22249.73,3.2
+P00280,Nova Women Clothing U477,Fashion,Women Clothing,Nova,1104.88,1907.74,3.9
+P00281,Rivon Hair Care V661,Beauty,Hair Care,Rivon,967.87,1677.3,4.6
+P00282,Zenova Home Appliances W515,Appliances,Home Appliances,Zenova,0.0,6338.14,2.5
+P00283,Solace Academic X631,Books,Academic,Solace,814.65,1318.99,3.3
+P00284,Nexa Men Clothing Y77,Fashion,Men Clothing,Nexa,1855.3,3759.82,4.1
+P00285,Nova Bedding Z949,Home & Kitchen,Bedding,Nova,1703.47,3145.68,4.0
+P00286,Vertex Cleaning A673,Appliances,Cleaning,Vertex,3748.07,7670.4,3.5
+P00287,Zenix Watches B87,Fashion,Watches,Zenix,1620.83,3300.66,4.1
+P00288,Echo Headphones C284,Electronics,Headphones,Echo,5484.67,8052.7,2.9
+P00289,Orbito Bedding D655,Home & Kitchen,Bedding,Orbito,631.48,958.99,3.6
+P00290,MintLeaf Skin Care E217,Beauty,Skin Care,Mintleaf,869.38,1348.16,4.5
+P00291,Altura Men Clothing F800,Fashion,Men Clothing,Altura,502.71,1014.62,4.4
+P00292,Kairo Headphones G708,Electronics,Headphones,Kairo,4899.01,9058.34,4.0
+P00293,Kairo Watches H182,Fashion,Watches,Kairo,1498.6,3004.71,3.0
+P00294,Mira Accessories I464,Electronics,Accessories,Mira,8761.48,15068.46,4.6
+P00295,Zenova Laptops J832,Electronics,Laptops,Zenova,12521.75,23563.12,3.0
+P00296,UrbanPeak Beverages K948,Grocery,Beverages,Urbanpeak,135.45,248.72,4.4
+P00297,MintLeaf Home Decor L789,Home & Kitchen,Home Decor,Mintleaf,2274.63,4538.46,3.5
+P00298,Altura Storage M440,Home & Kitchen,Storage,Altura,1531.65,2659.88,4.0
+P00299,Kairo Home Appliances N655,Appliances,Home Appliances,Kairo,5169.21,7094.55,4.9
+P00300,Altura Headphones O161,Electronics,Headphones,Altura,21398.61,33604.84,3.3
+P00301,BlueArc Smart Watches P965,Electronics,Smart Watches,Bluearc,8578.05,12521.95,3.9
+P00302,Orbito Home Appliances Q817,Appliances,Home Appliances,Orbito,9441.51,14174.05,4.3
+P00303,Zenova Staples R450,Electronics,Staples,Zenova,363.43,469.96,3.1
+P00304,Mira Bedding S480,Home & Kitchen,Bedding,Unknown,4245.58,5890.21,3.6
+P00305,Cresta Footwear T951,Fashion,Footwear,Cresta,988.36,1843.02,4.9
+P00306,Nova Bags U851,Fashion,Bags,Nova,1240.86,2227.03,3.3
+P00307,UrbanPeak Makeup V138,Beauty,Makeup,Urbanpeak,741.65,886.79,4.1
+P00308,Solace Storage W716,Home & Kitchen,Storage,Solace,5175.76,8701.51,3.2
+P00309,MintLeaf Kitchen Appliances X965,Appliances,Kitchen Appliances,Mintleaf,3343.11,5837.87,3.7
+P00310,Vistara Fiction Y569,Books,Fiction,Vistara,461.9,786.13,4.8
+P00311,Vertex Academic Z64,Books,Academic,Vertex,342.95,453.71,4.1
+P00312,PrimeNest Women Clothing A823,Appliances,Women Clothing,Primenest,1191.1,2235.48,3.8
+P00313,UrbanPeak Laptops B755,Electronics,Laptops,Urbanpeak,4226.7,5264.32,4.2
+P00314,Rivon Bags C596,Fashion,Bags,Rivon,1053.33,1772.12,5.0
+P00315,Zenix Footwear D246,Fashion,Footwear,Zenix,2511.23,4364.32,3.7
+P00316,PrimeNest Hair Care E939,Beauty,Hair Care,Primenest,1134.2,2151.11,3.8
+P00317,Zenix Accessories F488,Electronics,Accessories,Zenix,14284.34,28661.9,4.8
+P00318,Vertex Yoga G143,Sports & Fitness,Yoga,Vertex,1203.01,1999.49,3.6
+P00319,Solace Laptops H589,Electronics,Laptops,Solace,12646.23,17845.75,4.5
+P00320,Zenova Accessories I373,Electronics,Accessories,Zenova,3723.6,4529.06,4.1
+P00321,BlueArc Business J531,Books,Business,Bluearc,310.27,570.6,4.3
+P00322,Mira Makeup K823,Beauty,Makeup,Mira,613.97,1194.32,3.8
+P00323,Rivon Men Clothing L689,Fashion,Men Clothing,Rivon,798.23,1180.1,3.6
+P00324,Orbito Women Clothing M327,Fashion,Women Clothing,Orbito,1090.2,1499.2,4.2
+P00325,Mira Packaged Food N29,Grocery,Packaged Food,Mira,154.76,221.86,3.4
+P00326,BlueArc Footwear O812,Home & Kitchen,Footwear,Bluearc,1528.15,2171.16,3.7
+P00327,PrimeNest Cleaning P326,Appliances,Cleaning,Primenest,8613.81,15595.31,4.2
+P00328,PrimeNest Accessories Q253,Electronics,Accessories,Primenest,6126.45,9883.98,4.4
+P00329,UrbanPeak Academic R829,Appliances,Academic,Urbanpeak,661.09,1346.4,4.5
+P00330,Luma Smartphones S479,Sports & Fitness,Smartphones,Luma,8704.05,11660.45,3.9
+P00331,Nova Accessories T751,Electronics,Accessories,Nova,7996.55,16246.63,4.2
+P00332,UrbanPeak Accessories U93,Electronics,Accessories,Urbanpeak,3439.6,6418.26,4.0
+P00333,Vertex Children V492,Books,Children,Vertex,208.09,371.78,4.5
+P00334,Echo Business W746,Books,Business,Echo,330.97,578.86,4.7
+P00335,Nexa Furniture X932,Home & Kitchen,Furniture,Nexa,2116.36,5110.52,3.5
+P00336,Altura Cooling Y204,Appliances,Cooling,Altura,8271.45,15678.65,4.3
+P00337,Vertex Home Decor Z676,Home & Kitchen,Home Decor,Vertex,990.48,1300.19,3.8
+P00338,Vistara Makeup A327,Beauty,Makeup,Vistara,890.45,1068.14,4.3
+P00339,Luma Breakfast B626,Grocery,Breakfast,Luma,353.69,690.8,4.0
+P00340,Cresta Hair Care C545,Beauty,Hair Care,Cresta,658.9,821.62,4.0
+P00341,Orbito Personal Care D650,Beauty,Personal Care,Orbito,757.78,968.28,3.5
+P00342,BlueArc Furniture E654,Home & Kitchen,Furniture,Bluearc,3400.96,6637.73,4.2
+P00343,PrimeNest Outdoor F801,Sports & Fitness,Outdoor,Primenest,1272.08,1995.84,3.8
+P00344,BlueArc Men Clothing G808,Fashion,Men Clothing,Bluearc,784.63,965.95,4.9
+P00345,Unknown,Grocery,Snacks,Urbanpeak,385.89,534.22,3.8
+P00346,Zenova Small Appliances I230,Appliances,Small Appliances,Zenova,3958.68,5741.37,3.2
+P00347,UrbanPeak Footwear J533,Fashion,Footwear,Urbanpeak,938.76,1892.7,2.9
+P00348,Vistara Storage K440,Home & Kitchen,Storage,Vistara,2059.63,4161.04,4.4
+P00349,Nova Cooling L146,Appliances,Cooling,Nova,3863.3,7800.7,4.4
+P00350,Luma Women Clothing M263,Fashion,Women Clothing,Luma,505.86,795.47,3.4
+P00351,UrbanPeak Storage N528,Home & Kitchen,Storage,Urbanpeak,2132.83,3412.78,4.4
+P00352,BlueArc Small Appliances O688,Appliances,Small Appliances,Bluearc,7320.58,11996.94,4.4
+P00353,Luma-Women-Clothing-P979,Fashion,Women Clothing,Luma,1724.04,2280.14,4.3
+P00354,PrimeNest Accessories Q625,Electronics,Accessories,Primenest,14039.04,26222.34,4.3
+P00355,Echo Staples R900,Grocery,Staples,Echo,411.79,647.72,3.8
+P00356,Echo Footwear S173,Fashion,Footwear,Echo,754.21,1412.97,4.8
+P00357,Vertex Cooling T62,Appliances,Cooling,Vertex,4643.7,8559.55,3.3
+P00358,Mira Cookware U58,Home & Kitchen,Cookware,Mira,2720.62,4266.59,4.1
+P00359,Echo Home Decor V760,Home & Kitchen,Home Decor,Echo,1474.35,2239.2,4.0
+P00360,Echo Watches W499,Fashion,Watches,Echo,1154.71,1533.88,3.8
+P00361,Rivon Beverages X147,Grocery,Beverages,Rivon,345.16,454.81,4.5
+P00362,Zenix Furniture Y427,Home & Kitchen,Furniture,Zenix,2439.98,3144.49,4.5
+P00363,Vertex Fitness Equipment Z253,Sports & Fitness,Fitness Equipment,Vertex,2788.31,4615.97,3.3
+P00364,UrbanPeak Footwear A551,Fashion,Footwear,Urbanpeak,2010.27,2424.94,3.6
+P00365,UrbanPeak Women Clothing B913,Fashion,Women Clothing,Urbanpeak,644.2,762.53,4.0
+P00366,Luma Breakfast C304,Grocery,Breakfast,Luma,196.43,256.03,3.8
+P00367,Kairo Breakfast D248,Grocery,Breakfast,Kairo,492.04,849.95,3.3
+P00368,Mira Women Clothing E733,Fashion,Unknown,Mira,2673.01,3486.6,3.5
+P00369,Altura Skin Care F171,Beauty,Skin Care,Altura,780.96,1615.59,4.0
+P00370,Echo Personal Care G906,Beauty,Personal Care,Echo,703.17,1468.98,3.8
+P00371,Nexa Fitness Equipment H299,Sports & Fitness,Fitness Equipment,Nexa,2037.9,3043.05,3.0
+P00372,Vistara Accessories I19,Electronics,Accessories,Vistara,11613.13,17725.81,4.2
+P00373,Nova Headphones J367,Electronics,Headphones,Nova,6875.01,9603.25,4.4
+P00374,Orbito Staples K971,Unknown,Staples,Orbito,373.38,550.33,4.6
+P00375,Rivon-Cooling-L285,Appliances,Cooling,Rivon,4077.07,6864.18,2.8
+P00376,zenix bedding m562,Home & Kitchen,Bedding,Zenix,5546.25,7541.56,4.1
+P00377,Zenova Home Decor N871,Electronics,Home Decor,Zenova,1283.55,2242.22,3.4
+P00378,MintLeaf Personal Care O573,Beauty,Personal Care,Mintleaf,537.92,1086.55,4.5
+P00379,Cresta Accessories P162,Electronics,Accessories,Cresta,5376.36,8169.78,4.2
+P00380,Echo Storage Q977,Home & Kitchen,Storage,Echo,2105.48,4003.24,4.0
+P00381,Solace Bags R52,Fashion,Unknown,Solace,846.28,1577.25,5.0
+P00382,Nexa Furniture S778,Home & Kitchen,Furniture,Nexa,2039.32,2626.85,4.1
+P00383,UrbanPeak Fragrance T713,Beauty,Fragrance,Urbanpeak,1005.13,1515.51,3.6
+P00384,Kairo Footwear U964,Fashion,Footwear,Kairo,868.99,1120.46,4.2
+P00385,Aster Furniture V669,Home & Kitchen,Furniture,Aster,1736.77,3266.6,4.2
+P00386,Cresta Smart Watches W575,Electronics,Smart Watches,Cresta,2960.57,4619.87,4.1
+P00387,Vistara Storage X478,Home & Kitchen,Storage,Vistara,1063.82,2115.71,3.0
+P00388,Vistara Laptops Y606,Electronics,Laptops,Vistara,6132.3,10699.4,4.6
+P00389,nova home decor z305,Home & Kitchen,Home Decor,Nova,2172.62,3214.58,4.1
+P00390,UrbanPeak Smart Watches A951,Electronics,Smart Watches,Urbanpeak,7430.41,11281.91,4.3
+P00391,Rivon Smart Watches B247,Electronics,Smart Watches,Rivon,5169.53,9487.69,4.2
+P00392,Rivon Breakfast C539,Grocery,Breakfast,Rivon,296.28,436.26,4.0
+P00393,PrimeNest Business D751,Books,Business,Primenest,325.84,505.36,4.5
+P00394,Luma Bags E413,Fashion,Bags,Luma,504.6,818.6,4.2
+P00395,BlueArc Bags F534,Fashion,Bags,Bluearc,1130.75,1873.7,4.5
+P00396,Cresta Home Decor G460,Home & Kitchen,Home Decor,Cresta,3483.89,0.0,3.8
+P00397,Altura Sportswear H479,Sports & Fitness,Sportswear,Altura,3086.53,4557.4,4.1
+P00398,UrbanPeak Bedding I256,Home & Kitchen,Bedding,Urbanpeak,5449.31,9589.9,4.9
+P00399,BlueArc Smart Watches J115,Electronics,Smart Watches,Bluearc,5273.68,8645.09,3.6
+P00400,Aster Hair Care K609,Beauty,Hair Care,Aster,0.0,2260.16,3.5
+P00401,Orbito Women Clothing L640,Fashion,Women Clothing,Orbito,1329.75,2285.28,4.0
+P00402,Mira Academic M608,Books,Academic,Mira,750.75,1130.4,4.0
+P00403,UrbanPeak Academic N218,Books,Academic,Urbanpeak,374.9,651.69,3.3
+P00404,PrimeNest Skin Care O110,Beauty,Skin Care,Primenest,259.79,480.63,4.0
+P00405,Orbito Skin Care P65,Beauty,Skin Care,Orbito,561.92,792.55,4.1
+P00406,Vistara Personal Care Q566,Beauty,Personal Care,Unknown,809.12,1439.75,3.9
+P00407,Nova Cleaning R591,Appliances,Cleaning,Nova,1734.95,2486.77,3.8
+P00408,Cresta Children S915,Books,Children,Cresta,361.63,598.07,4.5
+P00409,UrbanPeak Footwear T589,Fashion,Footwear,Urbanpeak,2284.92,3783.91,4.3
+P00410,KAIRO SNACKS U915,Grocery,Snacks,Kairo,638.21,1307.42,4.5
+P00411,MintLeaf Furniture V449,Home & Kitchen,Furniture,Unknown,2002.51,2571.89,4.3
+P00412,Kairo Sportswear W919,Sports & Fitness,Sportswear,Kairo,834.93,1250.8,3.4
+P00413,Mira Smart Watches X86,Electronics,Smart Watches,Mira,18012.73,27581.39,3.3
+P00414,UrbanPeak Nutrition Accessories Y377,Sports & Fitness,Nutrition Accessories,Urbanpeak,3572.45,5504.81,4.5
+P00415,Vistara Home Decor Z121,Home & Kitchen,Home Decor,Vistara,1054.89,2063.78,3.7
+P00416,UrbanPeak Packaged Food A104,Grocery,Packaged Food,Urbanpeak,527.41,699.62,3.5
+P00417,Echo Non-Fiction B455,Books,Non-Fiction,Echo,411.29,678.15,3.5
+P00418,Orbito Packaged Food C946,Grocery,Packaged Food,Orbito,174.95,265.08,4.0
+P00419,Vistara Yoga D938,Sports & Fitness,Yoga,Vistara,1721.43,2924.6,3.5
+P00420,Zenix Cookware E914,Home & Kitchen,Cookware,Zenix,2402.97,3069.81,4.5
+P00421,Vistara Beverages F698,Electronics,Beverages,Vistara,375.37,0.0,4.0
+P00422,Zenix Watches G402,Sports & Fitness,Watches,Zenix,2269.77,4421.45,4.8
+P00423,Altura Bedding H164,Home & Kitchen,Bedding,Altura,2321.54,4034.65,4.0
+P00424,Aster Cleaning I642,Appliances,Cleaning,Aster,3837.79,5783.87,4.2
+P00425,Rivon Watches J679,Fashion,Watches,Rivon,1040.37,1300.06,4.4
+P00426,cresta headphones k670,Electronics,Headphones,Cresta,7882.49,15997.59,4.5
+P00427,Rivon Smart Watches L289,Electronics,Smart Watches,Unknown,16151.38,26263.37,3.9
+P00428,Rivon Smart Watches M981,Electronics,Smart Watches,Rivon,3877.37,7341.92,4.4
+P00429,Altura Watches N223,Fashion,Watches,Altura,925.93,1941.48,3.4
+P00430,Mira Smartphones O666,Electronics,Smartphones,Mira,21827.18,32630.41,3.8
+P00431,BlueArc Cleaning P294,Appliances,Cleaning,Bluearc,2677.01,5083.24,4.0
+P00432,PrimeNest Snacks Q418,Grocery,Snacks,Primenest,187.11,280.07,3.2
+P00433,Kairo Kitchen Appliances R883,Appliances,Unknown,Kairo,10326.09,14481.88,3.3
+P00434,Aster Hair Care S881,Beauty,Hair Care,Aster,962.18,1619.71,3.9
+P00435,UrbanPeak Non-Fiction T612,Books,Non-Fiction,Urbanpeak,466.48,731.41,3.9
+P00436,Solace Academic U773,Books,Academic,Solace,549.97,651.69,5.0
+P00437,UrbanPeak Cookware V363,Home & Kitchen,Cookware,Urbanpeak,1352.7,1923.86,4.0
+P00438,Vertex Laptops W281,Electronics,Laptops,Vertex,5812.46,8557.23,3.4
+P00439,UrbanPeak Cooling X635,Appliances,Cooling,Urbanpeak,3232.43,4374.85,4.9
+P00440,Altura Headphones Y142,Electronics,Headphones,Altura,4979.87,6233.94,4.0
+P00441,Echo Men Clothing Z707,Fashion,Men Clothing,Echo,1254.65,1867.67,3.6
+P00442,Zenix Headphones A218,Electronics,Headphones,Zenix,5155.28,9114.26,3.8
+P00443,Solace Kitchen Appliances B958,Appliances,Kitchen Appliances,Solace,4728.11,9755.76,3.8
+P00444,Mira Bags C524,Fashion,Bags,Mira,1310.66,1907.59,3.8
+P00445,Orbito Watches D969,Fashion,Watches,Orbito,1127.89,1910.81,4.0
+P00446,Mira Snacks E512,Grocery,Snacks,Mira,174.89,265.05,3.8
+P00447,Echo Storage F257,Home & Kitchen,Storage,Echo,2488.62,3739.18,2.9
+P00448,Nova Business G931,Books,Business,Nova,452.4,801.33,4.2
+P00449,BlueArc Storage H226,Home & Kitchen,Storage,Bluearc,3110.44,4304.04,4.1
+P00450,Mira Watches I578,Fashion,Watches,Mira,1468.44,2424.65,4.1
+P00451,Vertex Footwear J199,Unknown,Footwear,Vertex,2232.66,2974.58,3.9
+P00452,Nexa Non-Fiction K430,Books,Non-Fiction,Nexa,552.4,766.27,4.0
+P00453,Kairo Men Clothing L573,Fashion,Men Clothing,Kairo,1110.44,1410.09,3.9
+P00454,Altura Men Clothing M709,Fashion,Men Clothing,Altura,955.45,1971.27,4.6
+P00455,PRIMENEST NUTRITION ACCESSORIES N288,Sports & Fitness,Nutrition Accessories,Primenest,871.3,1464.64,3.6
+P00456,Orbito Watches O115,Fashion,Watches,Orbito,541.64,893.21,4.4
+P00457,Echo Storage P44,Home & Kitchen,Storage,Echo,2480.16,4679.22,4.0
+P00458,Echo Cooling Q552,Appliances,Cooling,Echo,4216.63,13347.7,3.9
+P00459,Rivon Personal Care R142,Beauty,Personal Care,Rivon,650.44,1258.22,4.8
+P00460,Zenix Hair Care S590,Beauty,Hair Care,Zenix,948.04,1857.89,3.3
+P00461,Vistara Smart Watches T668,Electronics,Smart Watches,Vistara,5828.9,7392.98,4.0
+P00462,Solace Sportswear U935,Sports & Fitness,Sportswear,Solace,1455.94,1977.46,4.5
+P00463,Zenova Staples V194,Grocery,Staples,Zenova,481.86,842.92,3.3
+P00464,Mira Snacks W187,Grocery,Snacks,Mira,152.43,301.69,4.7
+P00465,Cresta Academic X296,Books,Academic,Cresta,498.63,635.49,4.7
+P00466,Vistara Cookware Y121,Home & Kitchen,Cookware,Vistara,2200.43,3412.09,4.5
+P00467,Vistara Women Clothing Z354,Fashion,Women Clothing,Vistara,1129.17,1960.45,4.9
+P00468,zenix furniture a56,Home & Kitchen,Furniture,Zenix,708.43,983.13,4.4
+P00469,Nexa Cleaning B527,Appliances,Cleaning,Nexa,4152.12,6372.67,5.0
+P00470,Nexa Business C296,Books,Business,Nexa,1091.85,2186.36,3.9
+P00471,Vertex Children D794,Books,Children,Vertex,783.97,1631.39,3.6
+P00472,Nexa Smart Watches E479,Electronics,Smart Watches,Nexa,9216.42,17741.69,4.3
+P00473,Vistara Furniture F81,Home & Kitchen,Furniture,Vistara,2720.5,3331.94,3.7
+P00474,Cresta Men Clothing G835,Fashion,Men Clothing,Cresta,790.46,1216.25,4.1
+P00475,Echo Fitness Equipment H599,Sports & Fitness,Fitness Equipment,Echo,2053.11,2773.29,4.9
+P00476,Nexa Cleaning I23,Appliances,Cleaning,Nexa,2578.12,4243.36,4.0
+P00477,BlueArc Nutrition Accessories J413,Sports & Fitness,Nutrition Accessories,Bluearc,1888.26,3095.59,4.9
+P00478,Altura Bags K140,Fashion,Bags,Altura,2932.6,5888.23,4.0
+P00479,Nova Storage L804,Home & Kitchen,Storage,Nova,2088.03,4118.47,4.2
+P00480,Echo Footwear M820,Fashion,Footwear,Echo,2648.95,5158.99,3.6
+P00481,Nexa Headphones N781,Electronics,Headphones,Nexa,8969.64,11930.53,3.8
+P00482,PrimeNest Skin Care O476,Beauty,Skin Care,Primenest,369.77,750.3,4.4
+P00483,Aster Breakfast P984,Grocery,Breakfast,Aster,729.62,1283.3,3.1
+P00484,UrbanPeak Headphones Q956,Electronics,Headphones,Urbanpeak,16021.83,30922.05,4.1
+P00485,Rivon Smart Watches R727,Electronics,Smart Watches,Rivon,13375.88,26503.32,3.9
+P00486,Zenova Makeup S358,Beauty,Makeup,Zenova,1098.99,1871.74,4.4
+P00487,Kairo Skin Care T933,Beauty,Skin Care,Kairo,1266.78,1742.66,3.8
+P00488,BlueArc Skin Care U80,Beauty,Skin Care,Bluearc,532.07,660.41,3.9
+P00489,Altura Men Clothing V495,Fashion,Men Clothing,Altura,1166.09,2423.25,4.8
+P00490,BlueArc Fragrance W455,Beauty,Fragrance,Bluearc,821.54,2026.49,3.8
+P00491,PrimeNest Bedding X334,Home & Kitchen,Bedding,Primenest,2461.99,4343.57,4.0
+P00492,Luma Yoga Y41,Sports & Fitness,Yoga,Luma,1602.41,2947.87,3.7
+P00493,UrbanPeak Business Z139,Books,Business,Urbanpeak,318.77,513.55,4.1
+P00494,Vistara Fragrance A142,Beauty,Fragrance,Vistara,1349.65,1724.99,4.0
+P00495,Zenix Watches B338,Fashion,Watches,Zenix,943.99,1359.96,3.6
+P00496,PrimeNest Hair Care C118,Beauty,Hair Care,Primenest,707.26,1412.28,5.0
+P00497,BlueArc Bags D973,Fashion,Bags,Bluearc,1431.38,2830.82,4.6
+P00498,MintLeaf Packaged Food E155,Grocery,Packaged Food,Mintleaf,0.0,476.67,4.1
+P00499,PrimeNest Footwear F257,Fashion,Footwear,Primenest,1370.25,2117.58,3.5
+P00500,Solace Home Decor G773,Home & Kitchen,Home Decor,Solace,3068.14,4205.65,3.2
+P00501,Orbito Non-Fiction H743,Unknown,Non-Fiction,Orbito,380.69,559.78,4.4
+P00502,BlueArc Home Decor I958,Home & Kitchen,Home Decor,Bluearc,3120.82,5428.67,4.7
+P00503,Mira Headphones J823,Electronics,Headphones,Mira,8494.23,12784.15,4.4
+P00504,MintLeaf Footwear K756,Fashion,Footwear,Mintleaf,1716.92,2549.3,4.0
+P00505,Mira Furniture L67,Home & Kitchen,Furniture,Mira,4187.63,6845.13,3.9
+P00506,MintLeaf Cooling M86,Appliances,Cooling,Mintleaf,7213.62,14419.6,3.9
+P00507,Rivon Accessories N702,Electronics,Accessories,Rivon,8103.0,12238.91,3.7
+P00508,Zenova Skin Care O411,Beauty,Skin Care,Zenova,1003.65,2103.46,4.8
+P00509,Cresta Women Clothing P401,Fashion,Women Clothing,Cresta,1201.38,1425.29,4.3
+P00510,Luma Children Q900,Books,Children,Luma,487.97,1124.37,3.8
+P00511,Echo Headphones R298,Electronics,Headphones,Echo,11987.05,22605.44,3.5
+P00512,MintLeaf Smartphones S572,Electronics,Smartphones,Mintleaf,8533.0,11786.05,4.4
+P00513,Nexa Accessories T765,Electronics,Accessories,Nexa,7257.33,10697.38,4.2
+P00514,Kairo Children U227,Books,Children,Kairo,695.91,1102.38,3.9
+P00515,Aster Watches V467,Fashion,Watches,Aster,1045.5,1815.39,4.9
+P00516,PrimeNest Cookware W55,Home & Kitchen,Cookware,Unknown,0.0,3823.79,3.8
+P00517,Cresta Storage X109,Home & Kitchen,Storage,Cresta,1745.38,2424.6,3.8
+P00518,Aster Watches Y521,Fashion,Watches,Aster,1822.27,3650.48,3.4
+P00519,BlueArc Bags Z628,Fashion,Bags,Bluearc,805.29,1166.03,4.6
+P00520,PrimeNest Hair Care A800,Beauty,Hair Care,Primenest,709.12,1243.87,4.0
+P00521,Vistara Smart Watches B305,Electronics,Smart Watches,Vistara,0.0,10219.48,4.3
+P00522,Luma Home Decor C670,Home & Kitchen,Home Decor,Luma,3435.95,5431.09,4.1
+P00523,BlueArc Home Decor D840,Home & Kitchen,Home Decor,Bluearc,674.43,804.28,4.9
+P00524,Kairo Non-Fiction E590,Books,Non-Fiction,Kairo,490.31,635.48,4.5
+P00525,Vistara Headphones F588,Electronics,Headphones,Vistara,2558.57,12556.22,3.7
+P00526,Mira Cookware G472,Home & Kitchen,Cookware,Mira,3122.39,5208.96,3.6
+P00527,Vistara Headphones H215,Electronics,Headphones,Vistara,11685.64,16292.29,3.2
+P00528,Solace Footwear I680,Fashion,Footwear,Solace,1846.43,3054.73,4.5
+P00529,Solace Skin Care J370,Beauty,Skin Care,Solace,646.5,816.2,4.4
+P00530,Rivon Watches K326,Fashion,Watches,Rivon,1056.83,2186.33,4.1
+P00531,BlueArc Non-Fiction L530,Books,Non-Fiction,Bluearc,420.01,690.6,3.5
+P00532,Luma Cooling M908,Appliances,Cooling,Luma,7012.54,8421.81,3.9
+P00533,Rivon Children N265,Books,Children,Rivon,408.39,661.5,3.5
+P00534,Solace Sportswear O637,Sports & Fitness,Sportswear,Solace,468.74,719.79,3.8
+P00535,Aster Small Appliances P467,Appliances,Small Appliances,Aster,3743.33,4602.51,4.0
+P00536,Vistara Fragrance Q564,Beauty,Fragrance,Vistara,763.27,1067.14,4.4
+P00537,Vistara Skin Care R729,Beauty,Skin Care,Vistara,854.94,1586.64,4.2
+P00538,Rivon Women Clothing S841,Fashion,Women Clothing,Rivon,0.0,2065.03,3.7
+P00539,BlueArc Fitness Equipment T909,Sports & Fitness,Fitness Equipment,Bluearc,1330.02,2121.37,4.3
+P00540,Zenix Personal Care U190,Beauty,Personal Care,Zenix,694.08,946.09,4.6
+P00541,Aster Fragrance V515,Beauty,Fragrance,Aster,788.49,1390.98,3.8
+P00542,MintLeaf Outdoor W650,Sports & Fitness,Outdoor,Mintleaf,768.17,1596.16,3.6
+P00543,Vertex Smart Watches X318,Electronics,Smart Watches,Vertex,7271.51,13227.87,3.7
+P00544,BlueArc Men Clothing Y209,Appliances,Men Clothing,Bluearc,655.37,851.98,3.1
+P00545,Kairo Personal Care Z152,Beauty,Personal Care,Kairo,438.22,724.51,3.7
+P00546,Mira Headphones A906,Electronics,Headphones,Mira,11961.91,18570.77,4.3
+P00547,Zenova Furniture B554,Home & Kitchen,Furniture,Zenova,1378.91,1690.03,3.9
+P00548,Vertex Accessories C392,Electronics,Accessories,Vertex,10013.88,13470.65,4.1
+P00549,PrimeNest Men Clothing D242,Fashion,Men Clothing,Primenest,1069.78,1944.52,5.0
+P00550,Cresta Kitchen Appliances E30,Appliances,Kitchen Appliances,Cresta,5669.02,10198.64,4.6
+P00551,UrbanPeak Headphones F778,Electronics,Headphones,Urbanpeak,5143.96,7201.91,3.3
+P00552,Rivon Non-Fiction G702,Books,Non-Fiction,Rivon,349.8,443.37,3.8
+P00553,Echo Watches H857,Fashion,Watches,Echo,1154.71,2407.63,4.2
+P00554,MintLeaf Snacks I206,Grocery,Snacks,Mintleaf,413.16,643.27,3.9
+P00555,Kairo Headphones J177,Electronics,Headphones,Kairo,13323.42,20828.41,4.9
+P00556,PrimeNest Staples K842,Grocery,Staples,Primenest,193.93,257.52,3.7
+P00557,Zenova Snacks L617,Grocery,Snacks,Zenova,145.77,289.97,4.6
+P00558,Cresta Business M222,Books,Business,Cresta,720.67,1283.77,4.4
+P00559,UrbanPeak Smartphones N909,Electronics,Smartphones,Urbanpeak,8413.4,12926.23,3.5
+P00560,PrimeNest Furniture O85,Home & Kitchen,Furniture,Primenest,3789.02,7701.19,4.3
+P00561,Nexa Yoga P353,Sports & Fitness,Yoga,Nexa,1191.18,797.18,3.3
+P00562,PrimeNest Men Clothing Q342,Fashion,Men Clothing,Primenest,1459.45,2401.1,4.3
+P00563,UrbanPeak Kitchen Appliances R366,Appliances,Kitchen Appliances,Urbanpeak,2415.19,4610.73,4.4
+P00564,Luma Cookware S446,Home & Kitchen,Cookware,Luma,1107.33,3199.34,3.8
+P00565,PrimeNest Skin Care T48,Beauty,Unknown,Primenest,817.71,1130.85,3.6
+P00566,Vistara Home Appliances U337,Appliances,Home Appliances,Vistara,5851.56,7336.28,4.1
+P00567,Altura Accessories V134,Electronics,Accessories,Altura,13981.93,17331.87,4.1
+P00568,UrbanPeak Accessories W509,Electronics,Accessories,Urbanpeak,9299.1,13637.41,4.8
+P00569,BlueArc Smart Watches X163,Electronics,Smart Watches,Bluearc,7475.57,11183.87,3.7
+P00570,BlueArc Home Decor Y593,Home & Kitchen,Home Decor,Bluearc,2254.88,3512.36,3.4
+P00571,PrimeNest Staples Z659,Grocery,Staples,Primenest,293.95,522.53,3.6
+P00572,UrbanPeak Laptops A457,Electronics,Laptops,Urbanpeak,9894.61,15148.39,4.6
+P00573,Echo Men Clothing B528,Fashion,Men Clothing,Echo,1020.44,1506.92,4.2
+P00574,Mira Furniture C696,Home & Kitchen,Furniture,Mira,1742.59,2253.84,4.0
+P00575,Echo Home Decor D573,Home & Kitchen,Home Decor,Echo,2348.97,4554.08,4.4
+P00576,Zenova Smart Watches E998,Electronics,Smart Watches,Zenova,5989.01,12535.16,3.4
+P00577,Mira Sportswear F199,Sports & Fitness,Sportswear,Mira,5041.27,9252.07,4.3
+P00578,Rivon Smart Watches G721,Electronics,Smart Watches,Rivon,3322.2,6180.13,4.0
+P00579,Cresta Footwear H762,Fashion,Footwear,Cresta,668.85,843.75,3.4
+P00580,Cresta Home Appliances I590,Appliances,Home Appliances,Cresta,3569.72,4989.1,3.5
+P00581,Rivon Furniture J663,Home & Kitchen,Furniture,Rivon,3834.03,6982.02,4.7
+P00582,PrimeNest Laptops K115,Electronics,Laptops,Primenest,6168.04,12986.76,4.5
+P00583,Orbito Snacks L27,Grocery,Snacks,Orbito,325.64,545.35,4.1
+P00584,Echo Cookware M315,Home & Kitchen,Cookware,Echo,687.72,1060.52,4.2
+P00585,Altura Smart Watches N705,Electronics,Unknown,Altura,22813.91,33407.41,3.5
+P00586,Solace Smart Watches O754,Electronics,Smart Watches,Solace,7807.31,13593.17,4.0
+P00587,Zenix Snacks P820,Grocery,Snacks,Zenix,262.72,343.91,3.3
+P00588,Vistara Home Decor Q324,Home & Kitchen,Home Decor,Vistara,2180.7,1830.03,4.2
+P00589,Rivon Non-Fiction R368,Books,Non-Fiction,Rivon,309.09,486.89,3.8
+P00590,Mira Furniture S456,Home & Kitchen,Furniture,Mira,3262.1,4984.96,3.1
+P00591,Altura Personal Care T75,Beauty,Personal Care,Altura,213.61,417.47,4.0
+P00592,Luma Non-Fiction U96,Books,Non-Fiction,Luma,554.03,875.15,3.1
+P00593,Nova Men Clothing V843,Fashion,Men Clothing,Nova,997.26,2082.49,2.8
+P00594,Solace Furniture W927,Home & Kitchen,Furniture,Solace,1815.25,3174.96,3.8
+P00595,Zenix Personal Care X556,Beauty,Personal Care,Zenix,241.14,286.02,3.8
+P00596,Kairo Children Y157,Books,Children,Kairo,944.93,1244.07,3.3
+P00597,UrbanPeak Cookware Z25,Home & Kitchen,Cookware,Urbanpeak,3759.52,3199.34,4.2
+P00598,Luma Small Appliances A94,Appliances,Small Appliances,Luma,4766.24,9015.56,3.7
+P00599,Vistara Men Clothing B988,Fashion,Men Clothing,Vistara,1423.9,1772.5,4.4
+P00600,Aster-Accessories-C820,Electronics,Accessories,Aster,16086.39,21121.26,4.6
+P00601,PrimeNest Skin Care D111,Beauty,Skin Care,Primenest,725.54,1568.91,4.5
+P00602,Rivon Home Decor E245,Home & Kitchen,Home Decor,Rivon,1965.8,3599.42,3.9
+P00603,Aster Small Appliances F200,Appliances,Small Appliances,Aster,3934.08,5123.62,3.5
+P00604,Rivon Yoga G767,Sports & Fitness,Yoga,Rivon,1284.6,2087.95,4.1
+P00605,MintLeaf Bedding H496,Home & Kitchen,Bedding,Mintleaf,2322.93,3720.78,4.2
+P00606,Zenix Bags I913,Fashion,Bags,Zenix,944.95,1597.56,4.6
+P00607,MintLeaf Packaged Food J651,Grocery,Packaged Food,Mintleaf,447.36,546.92,3.8
+P00608,MintLeaf Cookware K744,Home & Kitchen,Cookware,Mintleaf,1984.67,4028.84,3.8
+P00609,Mira Cookware L764,Home & Kitchen,Cookware,Mira,2117.0,2620.57,3.6
+P00610,Zenova Hair Care M390,Beauty,Hair Care,Zenova,614.32,1135.41,3.2
+P00611,BlueArc Cooling N475,Appliances,Cooling,Bluearc,2530.89,3847.52,4.6
+P00612,MintLeaf Skin Care O772,Beauty,Skin Care,Mintleaf,849.48,1019.86,3.9
+P00613,zenix women clothing p497,Fashion,Women Clothing,Zenix,2345.6,4471.7,4.1
+P00614,MintLeaf Hair Care Q673,Electronics,Hair Care,Mintleaf,518.71,701.6,3.3
+P00615,MintLeaf Men Clothing R727,Fashion,Men Clothing,Mintleaf,1116.76,1894.3,3.5
+P00616,Cresta Cooling S976,Appliances,Cooling,Cresta,2620.01,4741.16,4.5
+P00617,Aster Smartphones T511,Electronics,Smartphones,Aster,7228.04,8456.88,4.8
+P00618,Vistara Footwear U704,Sports & Fitness,Footwear,Vistara,2983.2,3963.51,3.5
+P00619,Luma Footwear V535,Fashion,Footwear,Luma,1022.67,1759.8,2.8
+P00620,Solace Headphones W264,Electronics,Headphones,Solace,8964.23,17250.13,3.8
+P00621,Mira-Smartphones-X400,Electronics,Smartphones,Mira,5467.38,9406.25,3.2
+P00622,Zenova-Outdoor-Y108,Sports & Fitness,Outdoor,Zenova,643.79,824.47,4.1
+P00623,Nexa Laptops Z603,Fashion,Laptops,Nexa,3285.39,4726.1,4.5
+P00624,Cresta Watches A48,Fashion,Watches,Cresta,1073.17,1432.09,4.4
+P00625,Zenova Kitchen Appliances B297,Appliances,Kitchen Appliances,Zenova,4855.3,6342.01,4.4
+P00626,PrimeNest Outdoor C650,Sports & Fitness,Outdoor,Primenest,1037.17,1985.88,5.0
+P00627,Unknown,Electronics,Laptops,Vistara,10242.46,18334.22,3.7
+P00628,UrbanPeak Watches E326,Fashion,Unknown,Urbanpeak,1176.52,1684.94,4.4
+P00629,Echo Laptops F708,Electronics,Laptops,Echo,4139.87,6493.18,4.5
+P00630,Mira Smart Watches G267,Electronics,Smart Watches,Mira,10091.27,21027.22,4.3
+P00631,Nexa Footwear H913,Fashion,Footwear,Nexa,834.79,1713.52,4.3
+P00632,Mira Cookware I738,Home & Kitchen,Cookware,Mira,3439.7,4593.87,3.6
+P00633,Rivon Watches J981,Fashion,Watches,Rivon,512.63,386.25,4.8
+P00634,MintLeaf Fragrance K587,Beauty,Fragrance,Mintleaf,855.57,1564.59,3.8
+P00635,MintLeaf Personal Care L126,Beauty,Unknown,Mintleaf,574.42,1066.86,4.2
+P00636,Orbito Men Clothing M136,Fashion,Men Clothing,Orbito,1489.86,2200.49,4.1
+P00637,Zenix Yoga N809,Sports & Fitness,Yoga,Zenix,1365.37,1896.62,4.2
+P00638,BlueArc Women Clothing O743,Fashion,Women Clothing,Bluearc,898.8,1736.69,3.0
+P00639,Luma Children P229,Books,Children,Luma,216.06,420.82,4.2
+P00640,Cresta Smartphones Q936,Electronics,Smartphones,Cresta,7106.42,11920.31,4.2
+P00641,Vistara Academic R301,Books,Academic,Vistara,303.43,378.83,3.4
+P00642,Altura Men Clothing S80,Electronics,Unknown,Altura,1115.34,1805.56,3.6
+P00643,Zenix Outdoor T409,Sports & Fitness,Outdoor,Zenix,1644.54,3066.15,3.8
+P00644,UrbanPeak Yoga U762,Sports & Fitness,Yoga,Urbanpeak,1602.26,2626.13,3.4
+P00645,Nexa Kitchen Appliances V365,Appliances,Kitchen Appliances,Nexa,2248.79,4623.47,3.7
+P00646,Nexa Headphones W910,Electronics,Headphones,Nexa,9452.45,19831.35,3.8
+P00647,Zenix Makeup X257,Beauty,Makeup,Zenix,721.71,1430.75,4.1
+P00648,Zenix Nutrition Accessories Y226,Sports & Fitness,Nutrition Accessories,Zenix,2141.06,2784.41,3.5
+P00649,Aster Laptops Z239,Electronics,Laptops,Aster,6875.15,12700.3,5.0
+P00650,Vistara Bags A678,Fashion,Bags,Vistara,1002.19,1835.95,4.2
+P00651,Solace Non-Fiction B929,Books,Non-Fiction,Solace,369.56,622.96,4.4
+P00652,UrbanPeak Storage C425,Home & Kitchen,Storage,Urbanpeak,2679.76,4290.61,3.8
+P00653,Luma Breakfast D886,Grocery,Breakfast,Luma,298.63,308.42,4.5
+P00654,Echo Cleaning E670,Appliances,Cleaning,Echo,3334.12,11210.33,4.5
+P00655,Vertex Accessories F466,Electronics,Accessories,Vertex,5531.71,7289.43,3.5
+P00656,PrimeNest Cleaning G865,Appliances,Cleaning,Primenest,7787.31,9683.77,4.3
+P00657,PrimeNest Storage H824,Home & Kitchen,Storage,Primenest,1084.15,1825.69,3.5
+P00658,Vertex Men Clothing I258,Fashion,Men Clothing,Vertex,714.38,1089.32,3.7
+P00659,Vertex Accessories J187,Electronics,Accessories,Vertex,9687.73,18267.77,3.6
+P00660,Nova Packaged Food K523,Home & Kitchen,Packaged Food,Nova,208.98,429.76,4.5
+P00661,BlueArc Outdoor L528,Sports & Fitness,Outdoor,Bluearc,2463.11,3814.18,3.9
+P00662,Echo Bags M850,Fashion,Bags,Echo,1071.28,1631.2,4.6
+P00663,Aster Hair Care N46,Beauty,Hair Care,Aster,592.18,812.08,4.2
+P00664,UrbanPeak Accessories O666,Electronics,Accessories,Urbanpeak,8499.27,14600.28,4.8
+P00665,Luma Headphones P700,Electronics,Headphones,Luma,7069.91,12383.89,4.5
+P00666,Nova Women Clothing Q822,Fashion,Women Clothing,Nova,1201.38,1156.84,4.7
+P00667,Kairo Headphones R546,Unknown,Headphones,Kairo,4544.12,8607.66,3.2
+P00668,Nexa Laptops S737,Electronics,Laptops,Nexa,11326.01,20970.62,4.7
+P00669,Zenova Home Decor T251,Home & Kitchen,Home Decor,Zenova,3246.88,5000.75,4.1
+P00670,Zenix Home Decor U351,Home & Kitchen,Home Decor,Zenix,572.16,814.34,3.6
+P00671,Vertex Smartphones V937,Electronics,Smartphones,Vertex,3466.4,5471.92,2.9
+P00672,Orbito Beverages W221,Grocery,Beverages,Orbito,398.27,798.98,4.1
+P00673,Cresta Laptops X133,Electronics,Laptops,Cresta,6507.97,8853.4,4.1
+P00674,Nova Laptops Y799,Fashion,Laptops,Nova,15922.19,19392.92,3.8
+P00675,Cresta Footwear Z327,Fashion,Footwear,Cresta,1104.69,1384.46,4.5
+P00676,Nova Breakfast A523,Grocery,Breakfast,Nova,499.69,781.37,4.3
+P00677,Zenova Furniture B852,Home & Kitchen,Furniture,Zenova,2627.65,4241.2,4.3
+P00678,Altura Furniture C233,Home & Kitchen,Furniture,Altura,1202.22,2153.38,3.5
+P00679,Vertex Skin Care D642,Beauty,Skin Care,Vertex,963.45,1558.65,4.7
+P00680,Rivon Skin Care E751,Beauty,Skin Care,Rivon,754.59,1153.9,4.4
+P00681,Vertex Cooling F232,Appliances,Cooling,Vertex,1869.66,2911.19,4.0
+P00682,Vistara Storage G844,Home & Kitchen,Storage,Vistara,2619.09,4541.0,4.2
+P00683,Altura Smart Watches H357,Electronics,Smart Watches,Altura,4722.55,7948.53,4.5
+P00684,Solace Fragrance I699,Beauty,Fragrance,Solace,821.54,1144.43,4.0
+P00685,Altura Watches J553,Fashion,Watches,Altura,1505.1,1825.11,4.5
+P00686,Cresta Fiction K215,Books,Fiction,Cresta,742.57,1384.36,4.0
+P00687,Solace Outdoor L620,Sports & Fitness,Outdoor,Solace,1708.91,2402.15,3.9
+P00688,PrimeNest Smartphones M171,Electronics,Smartphones,Primenest,10548.17,15551.38,4.9
+P00689,Mira Hair Care N123,Beauty,Hair Care,Mira,409.37,735.75,3.6
+P00690,Aster Laptops O694,Electronics,Laptops,Aster,16197.25,20635.31,3.8
+P00691,Nova Academic P714,Books,Academic,Nova,413.24,578.28,4.0
+P00692,Aster Women Clothing Q899,Fashion,Women Clothing,Aster,734.78,1258.47,3.9
+P00693,Cresta Personal Care R703,Beauty,Personal Care,Cresta,1054.18,2134.05,4.0
+P00694,Aster-Bags-S369,Fashion,Bags,Aster,1323.41,2697.33,3.6
+P00695,Solace Headphones T262,Electronics,Headphones,Solace,5936.97,10499.07,3.6
+P00696,Cresta Bags U219,Fashion,Bags,Cresta,1355.19,2829.17,4.5
+P00697,Vertex Men Clothing V189,Fashion,Men Clothing,Vertex,880.05,1405.08,3.7
+P00698,Rivon Outdoor W597,Sports & Fitness,Outdoor,Rivon,1278.56,2457.73,3.4
+P00699,Rivon Furniture X474,Home & Kitchen,Furniture,Rivon,2373.91,3490.96,4.6
+P00700,Vistara Kitchen Appliances Y556,Appliances,Kitchen Appliances,Vistara,6355.84,12983.82,4.7
+P00701,Nexa Makeup Z494,Beauty,Makeup,Nexa,1271.24,1717.01,3.4
+P00702,Zenova Small Appliances A995,Appliances,Small Appliances,Zenova,3706.71,4427.12,3.7
+P00703,Mira Fiction B181,Books,Fiction,Mira,376.49,624.9,3.9
+P00704,Vertex Non-Fiction C813,Sports & Fitness,Non-Fiction,Vertex,272.23,344.25,3.7
+P00705,Mira Cooling D449,Appliances,Cooling,Mira,5355.54,10540.29,4.0
+P00706,Vistara Headphones E469,Electronics,Headphones,Vistara,9880.15,15263.3,2.3
+P00707,Mira Home Appliances F793,Appliances,Home Appliances,Mira,5326.89,7277.59,4.1
+P00708,UrbanPeak Accessories G777,Electronics,Accessories,Urbanpeak,5460.34,11442.8,3.2
+P00709,Zenix Headphones H903,Electronics,Headphones,Zenix,8127.15,10111.69,4.0
+P00710,Zenova Smart Watches I839,Electronics,Smart Watches,Zenova,7266.99,12082.66,4.8
+P00711,Zenix Bedding J961,Home & Kitchen,Bedding,Zenix,3090.61,6296.88,3.2
+P00712,Nova Footwear K788,Fashion,Footwear,Nova,608.24,1196.83,4.3
+P00713,Rivon Outdoor L842,Sports & Fitness,Outdoor,Rivon,1699.65,1215.03,3.7
+P00714,Luma Fitness Equipment M780,Sports & Fitness,Fitness Equipment,Luma,1402.66,1717.26,3.0
+P00715,Mira Smartphones N82,Electronics,Smartphones,Mira,4286.28,12761.97,4.4
+P00716,Aster Bedding O365,Home & Kitchen,Bedding,Aster,1289.35,2015.29,3.4
+P00717,Luma Women Clothing P397,Fashion,Women Clothing,Luma,886.63,1121.98,4.9
+P00718,Kairo Non-Fiction Q950,Books,Non-Fiction,Kairo,449.48,895.3,4.0
+P00719,BlueArc Fitness Equipment R372,Sports & Fitness,Fitness Equipment,Bluearc,1777.49,1858.85,4.5
+P00720,Rivon Laptops S941,Electronics,Laptops,Rivon,7038.75,8834.15,4.3
+P00721,UrbanPeak Sportswear T989,Sports & Fitness,Sportswear,Urbanpeak,1100.42,1828.99,4.3
+P00722,Solace Cookware U939,Home & Kitchen,Cookware,Solace,737.55,1075.48,3.5
+P00723,Cresta Men Clothing V985,Fashion,Men Clothing,Cresta,1474.01,2809.25,4.6
+P00724,Nexa Skin Care W198,Beauty,Skin Care,Nexa,604.85,1218.74,4.6
+P00725,Aster Personal Care X802,Beauty,Personal Care,Aster,746.03,1067.74,3.1
+P00726,UrbanPeak Fragrance Y824,Beauty,Fragrance,Urbanpeak,330.64,655.42,3.9
+P00727,Vertex Headphones Z238,Electronics,Headphones,Vertex,6115.41,9770.14,4.5
+P00728,Mira Hair Care A411,Beauty,Hair Care,Mira,453.06,935.36,4.0
+P00729,Echo Headphones B943,Electronics,Headphones,Echo,7995.5,15483.53,3.7
+P00730,Altura Non-Fiction C981,Appliances,Non-Fiction,Altura,476.38,926.6,3.8
+P00731,UrbanPeak Women Clothing D649,Fashion,Women Clothing,Urbanpeak,2542.17,3774.46,4.5
+P00732,Nexa Women Clothing E876,Fashion,Women Clothing,Nexa,2004.18,3740.26,4.5
+P00733,Vistara Home Decor F658,Home & Kitchen,Home Decor,Vistara,1358.43,1843.26,3.9
+P00734,Echo Bags G11,Fashion,Bags,Echo,803.26,1413.58,4.6
+P00735,PrimeNest Watches H703,Fashion,Watches,Primenest,1329.8,2011.64,4.1
+P00736,Kairo Headphones I273,Electronics,Headphones,Kairo,8027.25,10477.82,4.2
+P00737,Rivon Headphones J590,Electronics,Headphones,Rivon,6465.41,7994.53,4.0
+P00738,Zenix Academic K838,Books,Academic,Zenix,434.05,695.81,3.3
+P00739,Orbito Accessories L671,Electronics,Accessories,Orbito,18596.17,24436.38,4.0
+P00740,PrimeNest Small Appliances M717,Appliances,Small Appliances,Primenest,5325.3,10005.91,3.9
+P00741,Solace Fiction N635,Books,Fiction,Solace,219.39,423.32,3.4
+P00742,Nexa Smartphones O506,Electronics,Smartphones,Nexa,7979.36,14688.49,4.9
+P00743,Luma Cookware P681,Home & Kitchen,Cookware,Luma,1829.4,3383.63,3.7
+P00744,PrimeNest Laptops Q869,Electronics,Laptops,Primenest,14343.4,13031.01,4.1
+P00745,UrbanPeak Smart Watches R631,Electronics,Smart Watches,Urbanpeak,10481.32,12082.66,3.3
+P00746,Zenova Packaged Food S790,Grocery,Packaged Food,Zenova,175.1,306.9,5.0
+P00747,MintLeaf Fiction T787,Books,Fiction,Mintleaf,218.51,331.05,3.6
+P00748,Rivon Makeup U198,Beauty,Makeup,Rivon,483.9,980.81,4.2
+P00749,BlueArc Cooling V957,Appliances,Cooling,Unknown,6722.75,11624.05,3.8
+P00750,BlueArc Home Appliances W984,Appliances,Home Appliances,Bluearc,6694.05,13366.69,3.1
+P00751,Aster Business X451,Books,Business,Aster,544.88,926.42,5.0
+P00752,Unknown,Electronics,Smartphones,Vistara,8672.93,12782.79,3.1
+P00753,PrimeNest Storage Z655,Home & Kitchen,Storage,Primenest,2325.97,2789.7,5.0
+P00754,Nova Non-Fiction A697,Books,Non-Fiction,Nova,380.69,541.35,4.2
+P00755,MintLeaf Kitchen Appliances B915,Appliances,Kitchen Appliances,Mintleaf,5919.88,10932.75,3.5
+P00756,Altura Laptops C812,Electronics,Laptops,Altura,5442.69,9598.59,3.7
+P00757,Rivon Cookware D96,Home & Kitchen,Cookware,Rivon,2054.0,4163.73,4.7
+P00758,Vertex Smart Watches E929,Electronics,Smart Watches,Vertex,8134.11,13359.82,2.9
+P00759,Zenix Men Clothing F470,Fashion,Men Clothing,Zenix,790.87,1894.3,3.7
+P00760,Aster Skin Care G389,Beauty,Skin Care,Aster,1149.79,1461.77,3.8
+P00761,Altura Storage H147,Home & Kitchen,Storage,Altura,2525.22,5232.61,4.9
+P00762,Echo Storage I359,Home & Kitchen,Storage,Echo,1803.91,3777.2,4.2
+P00763,Cresta Packaged Food J284,Grocery,Packaged Food,Cresta,237.39,341.17,3.5
+P00764,Rivon Home Decor K320,Home & Kitchen,Home Decor,Rivon,2492.53,4289.08,3.8
+P00765,Vistara Hair Care L349,Beauty,Hair Care,Vistara,526.35,916.47,3.6
+P00766,Solace Cleaning M997,Appliances,Cleaning,Solace,10205.93,13754.46,3.3
+P00767,Mira Nutrition Accessories N672,Sports & Fitness,Nutrition Accessories,Mira,968.77,2019.16,3.7
+P00768,UrbanPeak Bedding O852,Home & Kitchen,Bedding,Urbanpeak,1717.83,3094.35,2.8
+P00769,Altura Kitchen Appliances P171,Appliances,Kitchen Appliances,Altura,3512.3,6932.21,4.8
+P00770,PrimeNest Footwear Q233,Fashion,Footwear,Primenest,1003.46,1556.73,3.5
+P00771,Orbito Home Decor R199,Home & Kitchen,Home Decor,Orbito,2238.4,3015.7,4.4
+P00772,Luma Fitness Equipment S854,Sports & Fitness,Fitness Equipment,Luma,1339.68,2528.72,4.5
+P00773,Rivon Watches T831,Fashion,Watches,Rivon,1363.17,1679.91,4.2
+P00774,Kairo Cooling U359,Appliances,Cooling,Kairo,4356.19,8513.69,3.9
+P00775,Aster Bedding V882,Home & Kitchen,Bedding,Aster,3495.25,5985.2,4.7
+P00776,Orbito Breakfast W205,Grocery,Breakfast,Orbito,229.6,363.85,4.0
+P00777,Luma Breakfast X126,Grocery,Breakfast,Luma,156.85,457.33,3.4
+P00778,Kairo Home Decor Y452,Home & Kitchen,Home Decor,Kairo,2660.89,3590.49,4.5
+P00779,Orbito Cooling Z176,Appliances,Cooling,Orbito,2181.46,3271.13,3.4
+P00780,Rivon Smartphones A475,Electronics,Smartphones,Rivon,3959.36,5477.15,3.3
+P00781,Altura Home Appliances B533,Appliances,Home Appliances,Altura,3694.54,5312.92,3.0
+P00782,Nova Bags C847,Fashion,Bags,Nova,1432.53,1859.83,3.6
+P00783,PrimeNest Smartphones D89,Electronics,Smartphones,Primenest,7175.91,13472.11,3.6
+P00784,Nexa Storage E340,Home & Kitchen,Storage,Nexa,1556.92,3005.05,4.5
+P00785,Solace Makeup F589,Beauty,Makeup,Solace,720.12,1483.68,4.6
+P00786,Zenix Yoga G609,Sports & Fitness,Yoga,Zenix,1936.94,2830.22,4.5
+P00787,Kairo Bedding H872,Home & Kitchen,Bedding,Kairo,2222.29,4410.27,5.0
+P00788,Echo Non-Fiction I49,Books,Non-Fiction,Echo,554.71,689.59,3.1
+P00789,Solace Makeup J68,Beauty,Makeup,Solace,757.73,1066.21,3.5
+P00790,Echo Small Appliances K742,Appliances,Small Appliances,Echo,9209.87,19024.17,2.9
+P00791,Nexa Bedding L199,Home & Kitchen,Bedding,Nexa,2920.7,4779.01,4.3
+P00792,BlueArc Fragrance M697,Beauty,Fragrance,Bluearc,1305.36,2167.23,4.4
+P00793,Solace Nutrition Accessories N214,Sports & Fitness,Nutrition Accessories,Solace,482.52,600.63,3.9
+P00794,Kairo Smart Watches O834,Electronics,Smart Watches,Kairo,16341.27,27860.93,4.0
+P00795,Rivon Accessories P52,Electronics,Accessories,Rivon,9667.22,11949.37,3.9
+P00796,Nova Storage Q149,Home & Kitchen,Storage,Nova,4774.87,5911.38,4.6
+P00797,Kairo Academic R104,Books,Academic,Kairo,225.62,356.16,4.3
+P00798,BlueArc Non-Fiction S352,Books,Non-Fiction,Bluearc,314.3,635.48,4.1
+P00799,Orbito Yoga T751,Home & Kitchen,Yoga,Orbito,1230.04,1966.57,4.8
+P00800,BlueArc Headphones U623,Electronics,Headphones,Bluearc,6973.31,10699.37,4.5
+P00801,PrimeNest Bags V343,Fashion,Bags,Primenest,1108.17,1751.74,3.3
+P00802,MINTLEAF CHILDREN W507,Books,Children,Mintleaf,425.23,777.99,4.8
+P00803,Luma Bags X259,Fashion,Bags,Luma,1468.94,2727.3,3.9
+P00804,Orbito Cooling Y253,Appliances,Cooling,Orbito,4400.09,8033.27,3.3
+P00805,Solace Bedding Z279,Home & Kitchen,Bedding,Solace,1491.97,2373.8,4.4
+P00806,Vistara Beverages A696,Grocery,Beverages,Vistara,163.92,282.72,3.8
+P00807,UrbanPeak Women Clothing B422,Fashion,Women Clothing,Urbanpeak,1528.78,1809.16,3.5
+P00808,Nova Fitness Equipment C409,Sports & Fitness,Fitness Equipment,Nova,1418.29,2927.16,4.4
+P00809,Rivon Skin Care D159,Beauty,Skin Care,Rivon,731.26,1259.37,4.9
+P00810,Cresta Bags E719,Fashion,Bags,Cresta,769.5,1325.05,3.6
+P00811,Kairo Headphones F317,Electronics,Headphones,Kairo,6185.97,12069.17,5.0
+P00812,Zenova Personal Care G311,Beauty,Personal Care,Zenova,1071.87,1518.88,4.0
+P00813,Aster Home Decor H717,Home & Kitchen,Unknown,Aster,1602.54,2372.28,3.6
+P00814,Kairo Cookware I554,Home & Kitchen,Cookware,Kairo,1668.4,2385.09,5.0
+P00815,MintLeaf Home Decor J609,Fashion,Home Decor,Mintleaf,2935.5,4778.91,3.9
+P00816,BlueArc Business K321,Books,Business,Bluearc,293.96,417.01,3.7
+P00817,Kairo Cookware L125,Home & Kitchen,Cookware,Kairo,2501.03,4404.04,2.9
+P00818,Vertex Laptops M191,Electronics,Laptops,Vertex,19202.35,25937.0,4.7
+P00819,Rivon Yoga N64,Electronics,Yoga,Rivon,2107.99,3914.19,4.2
+P00820,Altura Smart Watches O462,Electronics,Smart Watches,Altura,4763.02,9216.45,3.7
+P00821,Luma Makeup P191,Beauty,Makeup,Luma,615.63,777.05,3.6
+P00822,Aster Bags Q649,Fashion,Bags,Aster,940.96,0.0,4.2
+P00823,Cresta Yoga R650,Sports & Fitness,Yoga,Cresta,0.0,9531.27,4.8
+P00824,Kairo Watches S821,Fashion,Watches,Kairo,788.85,932.42,4.1
+P00825,Zenix Sportswear T379,Sports & Fitness,Sportswear,Zenix,2512.47,5272.74,4.1
+P00826,Vertex Bedding U781,Home & Kitchen,Bedding,Vertex,4327.5,7005.34,4.6
+P00827,Aster Makeup V506,Beauty,Makeup,Aster,527.12,1020.09,4.5
+P00828,Vistara Accessories W988,Electronics,Accessories,Vistara,17780.14,23151.5,3.8
+P00829,Rivon Smartphones X22,Electronics,Smartphones,Rivon,7335.51,29519.14,3.1
+P00830,Orbito Furniture Y120,Home & Kitchen,Furniture,Orbito,3342.48,4162.38,4.0
+P00831,Nexa Accessories Z661,Electronics,Accessories,Nexa,4806.21,6160.41,3.2
+P00832,Nova Home Appliances A428,Appliances,Home Appliances,Nova,8057.34,11596.45,4.0
+P00833,Zenix Hair Care B275,Beauty,Hair Care,Zenix,716.78,1300.88,4.2
+P00834,Cresta Makeup C471,Home & Kitchen,Makeup,Cresta,1161.4,2323.31,4.2
+P00835,UrbanPeak Bedding D873,Home & Kitchen,Bedding,Urbanpeak,2498.72,4034.65,4.2
+P00836,Nova Fiction E859,Books,Fiction,Nova,315.88,481.78,3.4
+P00837,URBANPEAK NON-FICTION F469,Books,Non-Fiction,Urbanpeak,762.76,1299.87,3.6
+P00838,Rivon Storage G59,Home & Kitchen,Storage,Rivon,1506.19,1846.13,3.9
+P00839,Mira Women Clothing H365,Fashion,Women Clothing,Mira,881.49,550.58,3.3
+P00840,BlueArc Outdoor I737,Sports & Fitness,Outdoor,Bluearc,2506.35,4425.78,4.6
+P00841,Solace Small Appliances J494,Appliances,Small Appliances,Solace,6259.14,9870.8,3.4
+P00842,Aster Cooling K75,Appliances,Cooling,Aster,4844.26,7117.59,5.0
+P00843,Mira Bedding L396,Home & Kitchen,Bedding,Mira,2036.21,3924.63,4.3
+P00844,Kairo Home Appliances M984,Appliances,Home Appliances,Kairo,5332.67,10480.81,3.8
+P00845,Echo Outdoor N782,Sports & Fitness,Outdoor,Echo,2625.41,4086.7,3.5
+P00846,Orbito Fitness Equipment O135,Sports & Fitness,Fitness Equipment,Orbito,1029.35,1812.08,4.0
+P00847,PrimeNest Furniture P513,Home & Kitchen,Furniture,Primenest,2295.78,3577.44,4.0
+P00848,Nova Furniture Q27,Home & Kitchen,Furniture,Nova,2223.95,3949.14,4.5
+P00849,Nova Fiction R85,Books,Fiction,Nova,368.56,755.05,3.7
+P00850,Vistara Storage S457,Home & Kitchen,Storage,Vistara,2137.17,3869.6,3.7
+P00851,Orbito Nutrition Accessories T823,Sports & Fitness,Nutrition Accessories,Orbito,1845.31,2510.32,4.3
+P00852,Echo Fragrance U399,Beauty,Fragrance,Echo,1118.55,1617.77,4.2
+P00853,Altura Smartphones V788,Electronics,Smartphones,Altura,14663.47,17731.7,4.5
+P00854,Solace Home Decor W268,Home & Kitchen,Home Decor,Solace,1054.84,1415.0,3.6
+P00855,Echo Home Appliances X550,Appliances,Home Appliances,Echo,13434.08,17265.49,3.0
+P00856,Mira Bedding Y711,Home & Kitchen,Bedding,Mira,3597.42,4590.71,4.1
+P00857,Vistara Laptops Z245,Electronics,Laptops,Vistara,4966.92,9277.59,5.0
+P00858,Echo Hair Care A734,Beauty,Hair Care,Echo,362.8,543.14,3.6
+P00859,Rivon Home Decor B825,Home & Kitchen,Home Decor,Rivon,1198.24,2164.65,4.6
+P00860,Vistara Cookware C693,Home & Kitchen,Cookware,Vistara,2065.33,3387.04,3.7
+P00861,UrbanPeak Kitchen Appliances D856,Appliances,Kitchen Appliances,Urbanpeak,3866.49,5374.27,3.6
+P00862,Rivon Children E396,Books,Children,Rivon,532.37,752.21,4.5
+P00863,BlueArc Smart Watches F233,Electronics,Smart Watches,Bluearc,0.0,10338.07,4.0
+P00864,Cresta Smart Watches G226,Electronics,Smart Watches,Cresta,3631.38,5889.87,3.4
+P00865,Zenix Makeup H289,Beauty,Makeup,Zenix,709.61,1081.9,4.1
+P00866,Mira Watches I139,Fashion,Watches,Mira,1637.8,2572.24,3.8
+P00867,UrbanPeak Kitchen Appliances J293,Appliances,Kitchen Appliances,Urbanpeak,3405.86,6656.96,3.2
+P00868,Cresta Cookware K781,Home & Kitchen,Cookware,Cresta,5083.99,9546.02,3.7
+P00869,Kairo Home Appliances L72,Appliances,Home Appliances,Kairo,2190.56,0.0,4.0
+P00870,Zenova Smart Watches M126,Electronics,Smart Watches,Zenova,15504.14,19124.34,3.7
+P00871,Solace Smart Watches N221,Electronics,Smart Watches,Solace,6598.18,11648.52,4.8
+P00872,Zenix Kitchen Appliances O30,Appliances,Kitchen Appliances,Zenix,5277.9,6396.44,4.0
+P00873,Mira Nutrition Accessories P368,Sports & Fitness,Nutrition Accessories,Mira,3474.33,6264.35,4.3
+P00874,Nexa Footwear Q922,Fashion,Footwear,Nexa,1171.74,1759.8,4.2
+P00875,Zenova Kitchen Appliances R665,Appliances,Kitchen Appliances,Zenova,7248.8,9897.55,4.8
+P00876,Nova Men Clothing S137,Fashion,Men Clothing,Nova,628.09,1020.14,3.1
+P00877,Aster Storage T308,Home & Kitchen,Storage,Aster,3507.05,5107.62,3.9
+P00878,Zenix Home Decor U40,Home & Kitchen,Home Decor,Zenix,2561.27,4996.09,3.8
+P00879,MintLeaf Furniture V844,Home & Kitchen,Furniture,Mintleaf,4188.3,7751.38,4.4
+P00880,Zenova Children W567,Books,Children,Zenova,505.82,719.16,4.1
+P00881,Rivon Watches X190,Fashion,Watches,Rivon,2568.51,3344.22,4.1
+P00882,Vistara Footwear Y215,Fashion,Footwear,Vistara,0.0,1759.8,3.5
+P00883,UrbanPeak Fitness Equipment Z143,Sports & Fitness,Fitness Equipment,Urbanpeak,1092.76,2067.1,3.0
+P00884,Zenix Kitchen Appliances A679,Appliances,Kitchen Appliances,Zenix,6051.0,9363.8,4.1
+P00885,Altura Yoga B379,Sports & Fitness,Yoga,Altura,1056.36,1285.48,4.0
+P00886,BlueArc Smartphones C965,Electronics,Smartphones,Bluearc,7739.71,13283.19,4.2
+P00887,Nova Makeup D351,Beauty,Makeup,Nova,483.02,1007.3,4.4
+P00888,Echo Storage E850,Home & Kitchen,Storage,Echo,2317.87,3285.25,3.9
+P00889,Orbito Women Clothing F748,Fashion,Women Clothing,Orbito,1940.47,2476.99,4.2
+P00890,BlueArc Smart Watches G84,Electronics,Smart Watches,Bluearc,5610.1,8995.88,4.6
+P00891,UrbanPeak Cooling H770,Appliances,Cooling,Urbanpeak,6299.86,12771.51,4.0
+P00892,MintLeaf Storage I804,Home & Kitchen,Storage,Mintleaf,3648.99,7110.32,4.8
+P00893,Vistara Snacks J537,Appliances,Snacks,Vistara,232.07,353.23,5.0
+P00894,UrbanPeak Yoga K157,Sports & Fitness,Yoga,Urbanpeak,2992.59,4308.67,3.1
+P00895,BlueArc Cleaning L377,Appliances,Cleaning,Bluearc,2971.47,4535.02,3.5
+P00896,Nova Hair Care M578,Beauty,Hair Care,Nova,578.13,1110.39,4.1
+P00897,Mira Headphones N546,Electronics,Headphones,Mira,7101.08,10053.35,5.0
+P00898,Zenix Smart Watches O334,Electronics,Smart Watches,Zenix,9644.08,15168.15,4.3
+P00899,UrbanPeak Yoga P731,Sports & Fitness,Yoga,Urbanpeak,2297.48,4465.45,4.4
+P00900,Vertex Storage Q791,Home & Kitchen,Storage,Vertex,1950.3,2393.36,4.5
+P00901,PrimeNest Personal Care R396,Beauty,Personal Care,Primenest,1379.71,1984.01,3.8
+P00902,Orbito Home Appliances S27,Appliances,Home Appliances,Orbito,7284.42,11872.07,4.1
+P00903,Kairo Nutrition Accessories T768,Sports & Fitness,Nutrition Accessories,Kairo,3673.35,7557.72,3.8
+P00904,Aster Fitness Equipment U995,Sports & Fitness,Fitness Equipment,Unknown,1683.61,3383.15,3.9
+P00905,BlueArc Outdoor V262,Sports & Fitness,Outdoor,Bluearc,1445.78,1760.23,3.7
+P00906,MintLeaf Headphones W419,Electronics,Headphones,Mintleaf,6611.64,12556.22,3.9
+P00907,Zenix Smart Watches X890,Electronics,Smart Watches,Zenix,2678.59,5301.07,4.0
+P00908,Zenix Sportswear Y862,Sports & Fitness,Sportswear,Zenix,1755.58,3118.82,4.5
+P00909,Nexa Men Clothing Z424,Fashion,Men Clothing,Unknown,1796.82,2606.74,4.1
+P00910,Zenova Watches A932,Fashion,Watches,Zenova,1618.23,2022.69,4.0
+P00911,PrimeNest Cooling B733,Appliances,Cooling,Primenest,5535.6,7805.75,3.4
+P00912,Vistara Women Clothing C324,Fashion,Women Clothing,Vistara,2026.88,2467.36,5.0
+P00913,UrbanPeak Kitchen Appliances D523,Appliances,Kitchen Appliances,Urbanpeak,4054.12,5058.39,2.9
+P00914,Zenix Furniture E328,Home & Kitchen,Furniture,Zenix,1666.99,3403.91,4.8
+P00915,Orbito Accessories F205,Electronics,Accessories,Orbito,8994.82,0.0,3.9
+P00916,Luma Bags G699,Fashion,Bags,Luma,2395.61,3197.52,3.9
+P00917,Cresta Accessories H639,Electronics,Accessories,Cresta,5561.24,9660.83,3.9
+P00918,Vistara Furniture I768,Home & Kitchen,Furniture,Vistara,1943.84,0.0,3.4
+P00919,PrimeNest Accessories J239,Electronics,Accessories,Primenest,9526.16,11634.32,4.0
+P00920,Vistara Business K180,Sports & Fitness,Business,Vistara,338.58,473.41,2.9
+P00921,Unknown,Home & Kitchen,Furniture,Vertex,1703.25,2979.19,4.3
+P00922,Nexa Snacks M552,Grocery,Snacks,Nexa,471.83,878.82,4.4
+P00923,Nova Fitness Equipment N804,Sports & Fitness,Fitness Equipment,Nova,2238.5,3632.41,5.0
+P00924,Nexa Accessories O104,Electronics,Accessories,Nexa,16473.93,24282.83,4.3
+P00925,Nova Furniture P752,Home & Kitchen,Furniture,Nova,3092.98,5265.6,4.1
+P00926,Nexa Laptops Q603,Electronics,Laptops,Nexa,11655.72,16268.78,4.1
+P00927,Mira Staples R742,Grocery,Staples,Mira,161.41,236.33,3.3
+P00928,Rivon Headphones S714,Electronics,Headphones,Rivon,16177.48,28129.22,5.0
+P00929,Vistara Home Decor T648,Home & Kitchen,Home Decor,Vistara,1748.69,3224.14,4.7
+P00930,PrimeNest-Furniture-U74,Home & Kitchen,Furniture,Primenest,1948.62,3767.45,2.9
+P00931,Aster Smart Watches V342,Electronics,Smart Watches,Aster,9584.93,19554.76,4.5
+P00932,Zenix Storage W927,Home & Kitchen,Storage,Zenix,5430.31,6812.79,3.8
+P00933,Nexa Kitchen Appliances X939,Appliances,Kitchen Appliances,Nexa,4682.58,7116.05,3.8
+P00934,Echo Home Appliances Y111,Appliances,Home Appliances,Echo,1674.56,2502.54,3.7
+P00935,UrbanPeak Fragrance Z290,Beauty,Fragrance,Urbanpeak,966.24,1767.58,3.5
+P00936,Mira Children A436,Books,Children,Mira,893.51,1180.85,4.5
+P00937,MintLeaf Packaged Food B605,Grocery,Packaged Food,Mintleaf,636.44,838.26,3.5
+P00938,Orbito Hair Care C118,Beauty,Hair Care,Orbito,569.06,698.59,4.9
+P00939,Aster Personal Care D554,Beauty,Personal Care,Aster,1000.08,1185.71,3.7
+P00940,MintLeaf Footwear E540,Fashion,Footwear,Mintleaf,922.98,1394.03,3.9
+P00941,Aster Bags F910,Fashion,Bags,Aster,689.61,1410.38,4.2
+P00942,Nova Women Clothing G493,Fashion,Women Clothing,Nova,524.08,1071.7,4.1
+P00943,Luma Home Appliances H140,Appliances,Home Appliances,Luma,3598.27,5453.83,3.1
+P00944,UrbanPeak Home Appliances I391,Appliances,Home Appliances,Urbanpeak,3051.28,4523.78,3.9
+P00945,Aster Fitness Equipment J147,Sports & Fitness,Fitness Equipment,Aster,1324.76,1807.62,3.9
+P00946,MintLeaf Cookware K487,Home & Kitchen,Cookware,Mintleaf,2663.89,3199.34,3.8
+P00947,Solace Makeup L855,Beauty,Makeup,Solace,841.71,1316.05,4.4
+P00948,Nexa Non-Fiction M875,Books,Non-Fiction,Nexa,554.69,809.05,3.6
+P00949,Nexa Watches N514,Fashion,Watches,Nexa,1089.17,1564.32,3.0
+P00950,Nova Nutrition Accessories O379,Sports & Fitness,Nutrition Accessories,Nova,3688.26,4358.41,4.7
+P00951,Echo Men Clothing P181,Fashion,Men Clothing,Echo,1757.8,2802.08,4.1
+P00952,primenest smart watches q719,Electronics,Smart Watches,Primenest,12202.39,16737.11,3.6
+P00953,Orbito Smartphones R528,Electronics,Smartphones,Orbito,16664.97,19903.94,3.5
+P00954,BlueArc Men Clothing S444,Fashion,Men Clothing,Bluearc,1799.28,2273.26,4.1
+P00955,Zenova Furniture T561,Home & Kitchen,Furniture,Zenova,2690.99,4704.35,4.3
+P00956,BlueArc Storage U829,Home & Kitchen,Storage,Bluearc,3733.26,6356.66,3.9
+P00957,Vistara Fitness Equipment V161,Sports & Fitness,Fitness Equipment,Vistara,3156.76,3819.76,4.3
+P00958,Solace Hair Care W985,Beauty,Hair Care,Solace,542.83,1075.06,3.6
+P00959,VERTEX WATCHES X142,Fashion,Watches,Vertex,837.29,1758.02,3.8
+P00960,MintLeaf Accessories Y393,Electronics,Accessories,Mintleaf,9503.13,14771.87,3.4
+P00961,Aster Personal Care Z985,Beauty,Personal Care,Aster,750.3,1414.27,4.1
+P00962,Zenix Personal Care A84,Beauty,Personal Care,Zenix,474.48,863.04,5.0
+P00963,Kairo Laptops B366,Electronics,Laptops,Kairo,7722.59,12511.13,3.9
+P00964,Kairo Personal Care C978,Beauty,Personal Care,Kairo,1529.99,2613.92,3.6
+P00965,PrimeNest Women Clothing D184,Fashion,Women Clothing,Primenest,2127.25,4180.5,2.9
+P00966,Aster Hair Care E175,Beauty,Hair Care,Aster,462.78,874.05,3.7
+P00967,PrimeNest Sportswear F855,Sports & Fitness,Sportswear,Primenest,976.25,1382.42,4.8
+P00968,Kairo Sportswear G39,Sports & Fitness,Sportswear,Kairo,2043.09,2442.26,4.1
+P00969,Luma Personal Care H107,Beauty,Personal Care,Luma,407.04,853.87,4.1
+P00970,PrimeNest Laptops I862,Electronics,Laptops,Primenest,7568.08,10792.23,4.3
+P00971,Mira Headphones J918,Electronics,Headphones,Mira,4151.92,7387.78,3.1
+P00972,Cresta Bedding K132,Home & Kitchen,Bedding,Cresta,1498.49,2192.68,4.9
+P00973,PrimeNest Cleaning L546,Appliances,Cleaning,Primenest,4857.95,5905.1,4.6
+P00974,MintLeaf Men Clothing M372,Fashion,Men Clothing,Mintleaf,685.17,1056.05,4.6
+P00975,PrimeNest Personal Care N814,Beauty,Personal Care,Primenest,560.52,669.88,4.0
+P00976,Orbito Footwear O81,Sports & Fitness,Footwear,Orbito,2292.48,3158.9,4.3
+P00977,Solace Sportswear P548,Sports & Fitness,Sportswear,Solace,2442.06,3899.24,3.7
+P00978,Mira Yoga Q558,Sports & Fitness,Yoga,Mira,1697.19,3242.62,3.4
+P00979,Nova Personal Care R399,Beauty,Personal Care,Nova,639.61,887.88,3.6
+P00980,UrbanPeak Women Clothing S500,Fashion,Women Clothing,Urbanpeak,1201.38,1752.76,4.1
+P00981,MintLeaf Accessories T128,Electronics,Accessories,Mintleaf,3822.87,5741.65,3.2
+P00982,Orbito Watches U591,Fashion,Watches,Orbito,1081.89,1363.62,5.0
+P00983,Mira Yoga V603,Sports & Fitness,Yoga,Mira,2831.63,5268.02,4.0
+P00984,Vertex Business W526,Books,Business,Vertex,536.46,896.35,4.5
+P00985,Rivon Personal Care X863,Beauty,Personal Care,Rivon,569.7,1129.57,3.8
+P00986,Nova Home Appliances Y354,Appliances,Home Appliances,Nova,4344.16,6227.78,3.7
+P00987,Zenix Smart Watches Z79,Electronics,Smart Watches,Zenix,6976.1,12211.14,4.6
+P00988,Zenix Furniture A913,Home & Kitchen,Furniture,Zenix,1243.8,1660.03,3.7
+P00989,BlueArc Cookware B115,Home & Kitchen,Unknown,Bluearc,1367.06,2379.24,4.2
+P00990,Zenix Women Clothing C644,Fashion,Women Clothing,Zenix,0.0,2084.11,3.9
+P00991,BlueArc Bags D574,Fashion,Bags,Bluearc,2636.56,3300.11,4.1
+P00992,Aster Bags E885,Fashion,Bags,Aster,470.17,761.72,3.0
+P00993,BlueArc Sportswear F779,Sports & Fitness,Sportswear,Bluearc,3315.35,3915.29,4.3
+P00994,Altura Sportswear G737,Sports & Fitness,Sportswear,Altura,1842.66,3830.6,3.8
+P00995,Luma Headphones H451,Electronics,Headphones,Unknown,5142.88,8691.3,4.7
+P00996,MintLeaf Academic I979,Books,Academic,Mintleaf,704.45,1365.6,3.6
+P00997,Nova Fragrance J928,Beauty,Fragrance,Nova,446.26,703.97,4.0
+P00998,Kairo Storage K318,Home & Kitchen,Storage,Kairo,1769.72,3539.07,4.6
+P00999,Vistara Home Appliances L281,Appliances,Home Appliances,Vistara,7623.67,11312.14,4.4
+P01000,Cresta Hair Care M443,Beauty,Hair Care,Cresta,314.43,427.12,3.4
+P01001,Rivon Bedding N732,Home & Kitchen,Bedding,Rivon,3042.36,4425.04,4.3
+P01002,Rivon Bags O570,Electronics,Bags,Rivon,759.4,1540.1,4.7
+P01003,Solace Women Clothing P908,Fashion,Women Clothing,Solace,1884.88,3087.12,3.8
+P01004,Rivon Laptops Q358,Electronics,Laptops,Rivon,11482.49,16491.56,5.0
+P01005,Nexa Watches R561,Fashion,Watches,Nexa,2544.37,3081.92,3.3
+P01006,Zenova Hair Care S554,Beauty,Hair Care,Zenova,589.22,950.95,4.2
+P01007,zenova fitness equipment t368,Sports & Fitness,Fitness Equipment,Zenova,1987.38,2863.2,3.8
+P01008,Kairo Watches U825,Fashion,Watches,Kairo,1754.68,2759.05,5.0
+P01009,Nexa Nutrition Accessories V334,Sports & Fitness,Nutrition Accessories,Nexa,925.34,1744.04,4.9
+P01010,Echo Academic W573,Books,Academic,Echo,506.2,806.55,3.6
+P01011,Nexa Fragrance X880,Beauty,Fragrance,Nexa,312.16,539.39,3.1
+P01012,Nexa Home Decor Y550,Home & Kitchen,Home Decor,Nexa,1248.53,2136.21,3.6
+P01013,PrimeNest Watches Z711,Fashion,Watches,Primenest,1114.98,1955.35,4.0
+P01014,Rivon Business A443,Books,Business,Rivon,817.68,1705.64,4.2
+P01015,UrbanPeak Storage B884,Home & Kitchen,Storage,Urbanpeak,4674.37,3656.02,3.9
+P01016,Nexa Cookware C121,Home & Kitchen,Cookware,Nexa,1533.02,3199.34,3.8
+P01017,Echo Home Appliances D400,Appliances,Home Appliances,Echo,7386.52,8918.38,4.2
+P01018,Rivon Cooling E926,Appliances,Cooling,Rivon,4434.91,5361.73,4.2
+P01019,Cresta Breakfast F33,Grocery,Breakfast,Cresta,273.4,445.93,5.0
+P01020,Vertex Cooling G457,Appliances,Cooling,Vertex,2888.49,5786.34,4.9
+P01021,Zenova Skin Care H137,Beauty,Skin Care,Zenova,533.61,806.56,3.8
+P01022,Zenova Women Clothing I379,Fashion,Women Clothing,Zenova,2686.1,5028.64,3.5
+P01023,Nova Smart Watches J909,Electronics,Smart Watches,Nova,6372.36,11331.15,3.8
+P01024,Luma-Bedding-K439,Home & Kitchen,Bedding,Luma,6350.75,7670.24,3.6
+P01025,Nova Skin Care L624,Beauty,Skin Care,Nova,641.09,808.42,4.6
+P01026,Rivon Fragrance M848,Beauty,Fragrance,Rivon,1719.22,2704.45,3.5
+P01027,Nova Women Clothing N534,Fashion,Women Clothing,Nova,2749.13,3373.13,3.5
+P01028,urbanpeak nutrition accessories o583,Sports & Fitness,Nutrition Accessories,Urbanpeak,1160.05,1676.52,4.6
+P01029,PrimeNest Laptops P468,Electronics,Laptops,Primenest,8227.31,12649.04,3.2
+P01030,UrbanPeak Storage Q269,Home & Kitchen,Storage,Urbanpeak,2023.85,3586.64,4.6
+P01031,Echo Kitchen Appliances R353,Appliances,Kitchen Appliances,Echo,5493.75,11523.69,4.6
+P01032,Mira Staples S840,Grocery,Staples,Mira,368.95,540.86,4.6
+P01033,Mira Men Clothing T670,Fashion,Men Clothing,Mira,1606.4,2013.97,3.0
+P01034,Solace Storage U655,Home & Kitchen,Storage,Solace,793.35,1492.09,3.9
+P01035,Orbito Home Decor V91,Home & Kitchen,Home Decor,Orbito,1700.2,2316.84,3.6
+P01036,Echo Hair Care W24,Beauty,Hair Care,Echo,798.27,1104.25,4.8
+P01037,Rivon Makeup X151,Beauty,Makeup,Rivon,366.33,729.73,4.0
+P01038,PrimeNest Fiction Y625,Books,Fiction,Primenest,787.3,1540.75,3.6
+P01039,Mira Watches Z487,Fashion,Watches,Mira,916.05,1772.87,2.9
+P01040,Mira Women Clothing A436,Fashion,Women Clothing,Mira,860.7,1296.49,3.1
+P01041,Vertex Kitchen Appliances B998,Appliances,Kitchen Appliances,Vertex,8403.97,13396.78,3.2
+P01042,MintLeaf Men Clothing C852,Fashion,Men Clothing,Mintleaf,810.51,1274.47,4.8
+P01043,Mira Skin Care D520,Beauty,Skin Care,Mira,334.08,577.92,4.2
+P01044,Solace Cookware E137,Home & Kitchen,Cookware,Solace,2513.9,3199.34,3.8
+P01045,Mira Accessories F913,Electronics,Accessories,Mira,10881.14,21268.93,5.0
+P01046,Zenova Makeup G824,Beauty,Makeup,Zenova,413.68,573.69,4.7
+P01047,Nexa Outdoor H753,Sports & Fitness,Outdoor,Nexa,1367.43,2439.26,4.6
+P01048,PrimeNest Personal Care I910,Beauty,Personal Care,Primenest,452.33,931.75,4.6
+P01049,Vertex Packaged Food J547,Grocery,Packaged Food,Vertex,208.14,270.26,4.1
+P01050,UrbanPeak Watches K894,Fashion,Watches,Urbanpeak,1587.25,1927.6,3.5
+P01051,Echo Makeup L75,Beauty,Makeup,Echo,830.18,1562.04,3.8
+P01052,Aster Breakfast M996,Grocery,Breakfast,Aster,399.28,488.65,4.5
+P01053,Luma Home Decor N882,Home & Kitchen,Home Decor,Luma,2259.16,2789.68,4.2
+P01054,Nova Furniture O793,Home & Kitchen,Furniture,Nova,2790.78,4505.3,4.0
+P01055,Cresta Footwear P295,Fashion,Footwear,Cresta,750.81,1518.14,4.2
+P01056,Luma Yoga Q496,Sports & Fitness,Yoga,Luma,1783.93,2668.85,4.1
+P01057,Zenova Beverages R132,Unknown,Beverages,Zenova,467.5,0.0,3.6
+P01058,Zenova Footwear S964,Fashion,Footwear,Zenova,1221.7,2538.43,3.7
+P01059,Aster Fiction T748,Books,Fiction,Aster,430.87,822.95,4.3
+P01060,Vistara Footwear U127,Fashion,Footwear,Vistara,1305.52,2493.63,4.3
+P01061,Luma Children V741,Books,Children,Luma,713.73,1493.85,4.2
+P01062,Vertex Home Decor W311,Home & Kitchen,Home Decor,Unknown,3440.37,4631.32,4.9
+P01063,Altura Headphones X349,Electronics,Headphones,Altura,9530.8,12556.22,3.7
+P01064,Orbito Smart Watches Y358,Electronics,Smart Watches,Orbito,4135.92,5882.84,3.6
+P01065,Vertex Storage Z400,Home & Kitchen,Storage,Vertex,2215.15,3656.02,5.0
+P01066,PrimeNest Accessories A517,Electronics,Accessories,Primenest,4062.37,0.0,3.5
+P01067,Mira Laptops B228,Electronics,Laptops,Mira,5041.36,4080.46,3.8
+P01068,Vistara Sportswear C745,Sports & Fitness,Sportswear,Vistara,1786.53,3379.03,5.0
+P01069,Echo Smartphones D388,Electronics,Smartphones,Echo,2500.33,4574.29,4.6
+P01070,Aster Makeup E758,Beauty,Makeup,Aster,349.73,460.18,4.0
+P01071,PrimeNest Laptops F923,Electronics,Laptops,Primenest,4149.94,8330.31,3.9
+P01072,Altura Fitness Equipment G400,Sports & Fitness,Fitness Equipment,Altura,3986.95,5574.75,4.6
+P01073,Solace Packaged Food H54,Grocery,Packaged Food,Solace,346.81,518.66,3.7
+P01074,Cresta Small Appliances I925,Appliances,Small Appliances,Cresta,6457.32,8358.1,3.4
+P01075,Vistara Headphones J525,Electronics,Headphones,Unknown,8126.41,12558.3,3.5
+P01076,Vertex Cookware K239,Home & Kitchen,Cookware,Vertex,1649.86,2921.26,3.2
+P01077,Zenova Nutrition Accessories L982,Sports & Fitness,Nutrition Accessories,Zenova,1688.05,2880.61,3.5
+P01078,Altura Packaged Food M96,Grocery,Packaged Food,Altura,321.58,578.37,3.7
+P01079,UrbanPeak Bedding N686,Home & Kitchen,Bedding,Urbanpeak,2705.66,3321.13,3.6
+P01080,Cresta Fiction O224,Electronics,Fiction,Cresta,746.58,1219.95,4.5
+P01081,MintLeaf Kitchen Appliances P904,Appliances,Kitchen Appliances,Mintleaf,4728.11,6892.13,4.3
+P01082,Kairo Outdoor Q768,Appliances,Outdoor,Kairo,2088.23,2638.98,4.8
+P01083,PrimeNest Snacks R417,Grocery,Snacks,Primenest,192.83,368.45,4.8
+P01084,Vistara Sportswear S775,Sports & Fitness,Sportswear,Vistara,1706.86,3079.91,4.2
+P01085,UrbanPeak Footwear T255,Fashion,Footwear,Urbanpeak,906.42,1818.51,5.0
+P01086,UrbanPeak Laptops U731,Electronics,Laptops,Urbanpeak,9885.7,15880.49,4.4
+P01087,Rivon Footwear V223,Unknown,Footwear,Rivon,1172.13,2350.01,3.8
+P01088,Solace Home Appliances W904,Appliances,Home Appliances,Solace,3986.16,7394.98,3.7
+P01089,Zenix Watches X272,Fashion,Watches,Zenix,1297.9,2600.97,4.2
+P01090,Aster Packaged Food Y599,Grocery,Packaged Food,Aster,191.72,299.16,4.9
+P01091,Vertex Snacks Z538,Grocery,Snacks,Vertex,438.84,752.94,4.0
+P01092,MintLeaf Smartphones A245,Electronics,Smartphones,Mintleaf,13283.74,27758.62,3.7
+P01093,Luma Kitchen Appliances B583,Appliances,Kitchen Appliances,Luma,4728.11,5870.21,4.9
+P01094,Orbito Storage C683,Home & Kitchen,Storage,Orbito,2391.85,4989.24,3.7
+P01095,Nexa Cookware D755,Home & Kitchen,Cookware,Nexa,2080.09,2470.98,3.3
+P01096,UrbanPeak Bags E703,Fashion,Bags,Urbanpeak,930.01,1162.14,3.7
+P01097,Zenix Smartphones F182,Electronics,Smartphones,Zenix,7159.06,13480.98,4.0
+P01098,Solace Outdoor G746,Sports & Fitness,Outdoor,Solace,1558.26,1905.52,4.2
+P01099,Rivon Packaged Food H207,Grocery,Packaged Food,Rivon,344.85,688.0,5.0
+P01100,Aster Skin Care I566,Beauty,Skin Care,Aster,587.46,1153.9,4.5
+P01101,Altura Headphones J955,Electronics,Headphones,Altura,9281.14,13320.28,4.0
+P01102,Nova Smartphones K781,Electronics,Smartphones,Nova,5456.52,8402.0,4.7
+P01103,Zenix Women Clothing L38,Fashion,Women Clothing,Zenix,1306.53,1762.09,4.3
+P01104,Vistara Bedding M661,Home & Kitchen,Bedding,Vistara,1073.17,1897.97,4.5
+P01105,UrbanPeak Kitchen Appliances N520,Appliances,Kitchen Appliances,Urbanpeak,4832.02,7543.48,4.3
+P01106,Nexa Men Clothing O248,Fashion,Men Clothing,Nexa,701.0,954.27,4.3
+P01107,MintLeaf Smartphones P775,Electronics,Smartphones,Mintleaf,4478.5,9393.71,3.9
+P01108,MintLeaf Cookware Q235,Fashion,Cookware,Mintleaf,2553.98,5080.29,3.3
+P01109,Nexa Home Decor R697,Home & Kitchen,Home Decor,Nexa,1987.17,3233.7,4.2
+P01110,Solace Watches S566,Fashion,Watches,Solace,1608.68,2243.68,4.6
+P01111,Aster Academic T32,Books,Academic,Aster,351.67,417.22,3.1
+P01112,Vistara Academic U415,Books,Academic,Vistara,379.75,733.95,3.6
+P01113,Altura Laptops V629,Electronics,Laptops,Altura,7572.28,12898.26,3.8
+P01114,Solace Laptops W396,Appliances,Laptops,Solace,12983.22,17255.83,4.1
+P01115,mira snacks x263,Grocery,Snacks,Mira,273.24,437.35,3.5
+P01116,PrimeNest Women Clothing Y960,Fashion,Women Clothing,Primenest,779.13,1059.67,4.2
+P01117,Altura Bedding Z163,Home & Kitchen,Bedding,Altura,3262.22,3940.26,4.8
+P01118,MintLeaf Smartphones A848,Electronics,Smartphones,Mintleaf,4632.58,8187.15,4.6
+P01119,Nova Staples B338,Grocery,Staples,Nova,242.68,479.26,3.4
+P01120,Luma Hair Care C664,Beauty,Hair Care,Luma,618.22,913.93,3.7
+P01121,Echo Women Clothing D329,Fashion,Women Clothing,Echo,664.57,1352.83,3.9
+P01122,Rivon Bedding E983,Home & Kitchen,Bedding,Rivon,1798.99,4034.65,4.4
+P01123,Zenix Skin Care F441,Beauty,Skin Care,Zenix,522.12,828.66,4.2
+P01124,Vertex Packaged Food G108,Grocery,Packaged Food,Vertex,454.39,825.42,3.7
+P01125,Luma Business H890,Books,Business,Luma,405.84,787.71,3.6
+P01126,MintLeaf Smart Watches I788,Electronics,Smart Watches,Mintleaf,7408.64,11633.71,4.2
+P01127,MintLeaf Cleaning J734,Fashion,Cleaning,Mintleaf,2736.98,3395.42,4.3
+P01128,Orbito Accessories K572,Electronics,Accessories,Orbito,9286.38,13764.03,3.3
+P01129,Nexa Nutrition Accessories L12,Appliances,Nutrition Accessories,Nexa,2492.44,3206.0,4.7
+P01130,Mira Hair Care M826,Beauty,Hair Care,Mira,627.64,807.25,4.0
+P01131,UrbanPeak Men Clothing N112,Fashion,Men Clothing,Urbanpeak,1320.6,2504.59,4.0
+P01132,Cresta Skin Care O225,Beauty,Skin Care,Cresta,822.72,1511.96,3.3
+P01133,Kairo Home Decor P808,Home & Kitchen,Home Decor,Kairo,755.47,1131.28,4.7
+P01134,Mira Packaged Food Q121,Grocery,Packaged Food,Mira,334.3,573.97,4.3
+P01135,Nexa Headphones R854,Electronics,Headphones,Nexa,5106.34,9450.13,5.0
+P01136,PrimeNest Home Decor S37,Home & Kitchen,Home Decor,Primenest,2188.79,3224.14,4.4
+P01137,Aster Men Clothing T531,Fashion,Men Clothing,Aster,814.36,1490.75,4.4
+P01138,Cresta Fitness Equipment U524,Sports & Fitness,Fitness Equipment,Cresta,2600.21,4982.46,3.3
+P01139,Orbito Fitness Equipment V880,Sports & Fitness,Fitness Equipment,Orbito,2988.16,3845.66,3.8
+P01140,BlueArc Fragrance W592,Beauty,Fragrance,Bluearc,326.54,599.01,4.8
+P01141,Zenova Furniture X774,Home & Kitchen,Furniture,Unknown,2818.49,3747.99,4.4
+P01142,Mira Footwear Y656,Fashion,Footwear,Mira,1307.34,2496.74,4.3
+P01143,MintLeaf Bedding Z99,Home & Kitchen,Bedding,Mintleaf,2118.08,4400.27,4.6
+P01144,Zenix Headphones A790,Electronics,Headphones,Zenix,10451.26,13324.97,3.3
+P01145,Cresta Academic B552,Books,Academic,Cresta,764.42,1523.4,4.8
+P01146,Luma Cookware C79,Home & Kitchen,Cookware,Luma,1472.63,1961.27,3.8
+P01147,Nova Sportswear D290,Sports & Fitness,Sportswear,Nova,2065.16,4094.22,4.5
+P01148,Aster Business E299,Books,Business,Aster,561.42,752.95,4.4
+P01149,Orbito Kitchen Appliances F165,Appliances,Kitchen Appliances,Orbito,5878.81,12177.15,4.2
+P01150,BlueArc Cookware G419,Home & Kitchen,Cookware,Bluearc,11708.92,23207.32,3.6
+P01151,MintLeaf Headphones H225,Electronics,Headphones,Mintleaf,10497.2,16878.85,3.4
+P01152,Mira Fitness Equipment I315,Sports & Fitness,Fitness Equipment,Mira,3222.34,5315.7,3.5
+P01153,Kairo Kitchen Appliances J157,Appliances,Kitchen Appliances,Kairo,4255.89,5148.87,4.5
+P01154,Nexa Laptops K19,Electronics,Laptops,Nexa,5716.94,9162.12,4.1
+P01155,Nova Women Clothing L900,Fashion,Women Clothing,Nova,925.03,1739.23,4.3
+P01156,MintLeaf Watches M377,Fashion,Watches,Mintleaf,1440.75,2758.95,4.2
+P01157,Nexa Hair Care N170,Beauty,Hair Care,Nexa,646.74,1217.45,4.2
+P01158,Aster Furniture O611,Home & Kitchen,Furniture,Aster,1145.12,2301.07,3.3
+P01159,KAIRO HAIR CARE P853,Beauty,Hair Care,Kairo,588.42,1211.0,4.2
+P01160,Altura Accessories Q677,Electronics,Accessories,Altura,5947.05,10094.04,3.8
+P01161,Echo Skin Care R135,Beauty,Skin Care,Echo,257.86,511.78,3.4
+P01162,Aster Snacks S349,Grocery,Snacks,Aster,385.31,801.54,3.8
+P01163,PrimeNest Smartphones T17,Electronics,Smartphones,Primenest,7596.87,13615.58,3.8
+P01164,UrbanPeak Watches U170,Fashion,Watches,Urbanpeak,2241.25,3201.94,3.6
+P01165,BlueArc Hair Care V591,Beauty,Hair Care,Bluearc,1234.35,2294.93,4.4
+P01166,PrimeNest Bags W52,Fashion,Bags,Primenest,1539.34,2486.38,4.0
+P01167,Solace Sportswear X536,Home & Kitchen,Sportswear,Unknown,2328.86,4038.99,4.0
+P01168,Altura Children Y714,Books,Children,Altura,330.47,0.0,4.2
+P01169,Nexa Snacks Z239,Grocery,Snacks,Nexa,230.7,299.44,4.2
+P01170,Vertex Home Decor A498,Home & Kitchen,Home Decor,Vertex,1743.62,2083.48,3.6
+P01171,Aster Accessories B489,Electronics,Accessories,Aster,2529.02,4743.63,4.3
+P01172,BlueArc Cleaning C97,Appliances,Cleaning,Bluearc,4319.02,7712.48,3.3
+P01173,Rivon Home Appliances D953,Appliances,Home Appliances,Rivon,2837.81,3723.31,4.5
+P01174,Cresta Cookware E207,Home & Kitchen,Cookware,Cresta,3460.66,6943.68,3.6
+P01175,Nova Kitchen Appliances F644,Appliances,Kitchen Appliances,Nova,3684.85,7342.82,3.8
+P01176,UrbanPeak Small Appliances G505,Appliances,Small Appliances,Urbanpeak,5169.35,8123.26,3.6
+P01177,Vistara-Fragrance-H925,Beauty,Fragrance,Vistara,1199.41,1300.84,5.0
+P01178,Echo Smart Watches I113,Electronics,Smart Watches,Echo,8237.61,15224.02,4.0
+P01179,Nova Headphones J324,Electronics,Headphones,Nova,13533.24,16652.94,4.0
+P01180,Altura Watches K921,Fashion,Watches,Altura,1427.64,2192.1,4.0
+P01181,Vertex Cooling L864,Appliances,Cooling,Vertex,5298.09,11057.05,4.3
+P01182,Orbito Personal Care M796,Beauty,Personal Care,Orbito,762.35,1232.97,4.6
+P01183,Mira Men Clothing N13,Fashion,Men Clothing,Mira,2778.22,3449.03,4.6
+P01184,Zenix Smart Watches O275,Electronics,Smart Watches,Zenix,15063.38,29912.08,4.4
+P01185,Mira Storage P583,Home & Kitchen,Storage,Mira,1097.48,1734.12,3.4
+P01186,Kairo Furniture Q194,Home & Kitchen,Furniture,Kairo,3362.4,5767.72,3.2
+P01187,Zenova Furniture R554,Home & Kitchen,Furniture,Zenova,4203.43,8610.74,2.9
+P01188,Aster Children S583,Unknown,Children,Aster,338.77,419.78,4.5
+P01189,Mira Smart Watches T262,Electronics,Smart Watches,Mira,6399.4,10677.85,4.0
+P01190,MintLeaf Accessories U401,Electronics,Accessories,Mintleaf,9337.49,12527.96,4.0
+P01191,Vistara Fitness Equipment V752,Sports & Fitness,Fitness Equipment,Vistara,3984.99,7172.33,3.1
+P01192,BlueArc Sportswear W511,Sports & Fitness,Sportswear,Bluearc,3014.19,3683.49,4.5
+P01193,Nexa Storage X752,Home & Kitchen,Storage,Nexa,1968.63,2647.66,3.9
+P01194,KAIRO MEN CLOTHING Y480,Fashion,Men Clothing,Kairo,1295.76,2395.68,4.0
+P01195,UrbanPeak Women Clothing Z46,Fashion,Women Clothing,Urbanpeak,1481.43,2920.49,3.5
+P01196,PrimeNest Personal Care A848,Beauty,Personal Care,Primenest,1291.47,1645.03,3.3
+P01197,Altura Smartphones B613,Electronics,Smartphones,Altura,7442.98,8801.82,3.9
+P01198,Echo Staples C423,Grocery,Staples,Echo,0.0,565.08,3.4
+P01199,Luma Makeup D316,Beauty,Makeup,Luma,1082.78,2204.53,3.6
+P01200,Aster Business E722,Books,Business,Aster,348.69,603.14,4.0
+P01201,Solace Small Appliances F364,Appliances,Small Appliances,Solace,3860.05,6937.67,4.0
+P01202,Solace Breakfast G639,Grocery,Breakfast,Solace,517.55,848.21,4.6
+P01203,Mira Men Clothing H648,Fashion,Men Clothing,Mira,1118.16,2150.68,4.3
+P01204,Nova Makeup I692,Beauty,Makeup,Nova,947.96,1494.33,4.3
+P01205,Nova Home Appliances J669,Appliances,Home Appliances,Nova,6593.84,11940.26,3.7
+P01206,Vistara Bedding K24,Home & Kitchen,Bedding,Vistara,2140.05,2613.72,4.4
+P01207,ZENIX FURNITURE L542,Home & Kitchen,Furniture,Zenix,1721.58,2932.0,3.6
+P01208,Zenova Men Clothing M930,Fashion,Men Clothing,Zenova,1709.9,2458.21,3.2
+P01209,Orbito Academic N750,Fashion,Academic,Orbito,821.0,651.69,3.7
+P01210,Orbito Home Decor O824,Home & Kitchen,Home Decor,Orbito,3582.18,5656.99,4.9
+P01211,Zenova Breakfast P953,Grocery,Breakfast,Zenova,350.07,572.02,4.2
+P01212,BlueArc Personal Care Q747,Beauty,Personal Care,Bluearc,757.23,1254.9,4.6
+P01213,Nexa Smartphones R205,Electronics,Smartphones,Nexa,10019.33,17621.67,3.6
+P01214,Nova Cookware S906,Home & Kitchen,Cookware,Nova,1237.03,1795.72,3.2
+P01215,UrbanPeak Furniture T161,Home & Kitchen,Furniture,Urbanpeak,1868.02,3758.54,4.0
+P01216,Nova Home Appliances U886,Appliances,Home Appliances,Nova,3580.75,6698.17,4.2
+P01217,Luma Academic V961,Books,Academic,Luma,581.08,900.21,4.5
+P01218,Orbito Women Clothing W654,Fashion,Women Clothing,Orbito,1201.38,1465.58,3.4
+P01219,Nexa Women Clothing X960,Fashion,Women Clothing,Nexa,1386.01,1919.35,3.9
+P01220,MintLeaf Fitness Equipment Y58,Sports & Fitness,Fitness Equipment,Mintleaf,2455.65,3899.7,5.0
+P01221,Orbito Bedding Z440,Home & Kitchen,Bedding,Orbito,2576.98,5211.91,3.7
+P01222,Zenix Snacks A444,Grocery,Snacks,Zenix,381.31,736.23,4.1
+P01223,Vistara Watches B681,Fashion,Watches,Vistara,1263.48,2195.19,3.8
+P01224,Kairo Non-Fiction C311,Books,Non-Fiction,Kairo,184.8,316.44,3.6
+P01225,PrimeNest Hair Care D761,Beauty,Hair Care,Primenest,854.66,1320.33,4.0
+P01226,Zenix Non-Fiction E678,Books,Non-Fiction,Unknown,293.11,612.77,3.4
+P01227,Zenova Academic F209,Books,Academic,Zenova,304.77,407.78,3.9
+P01228,Luma Smart Watches G186,Electronics,Smart Watches,Luma,8005.65,13438.31,4.4
+P01229,Kairo Accessories H710,Electronics,Accessories,Kairo,9524.76,11627.82,4.3
+P01230,PrimeNest Fitness Equipment I309,Sports & Fitness,Fitness Equipment,Primenest,1001.34,1482.44,3.8
+P01231,Vertex Home Appliances J320,Appliances,Home Appliances,Vertex,1372.96,2678.58,3.0
+P01232,Orbito Bedding K23,Home & Kitchen,Bedding,Orbito,3049.43,5593.36,4.5
+P01233,MintLeaf Watches L695,Fashion,Watches,Mintleaf,1274.05,1572.43,4.6
+P01234,Aster Small Appliances M128,Appliances,Small Appliances,Aster,4071.76,7693.18,4.5
+P01235,Vistara Yoga N603,Sports & Fitness,Yoga,Vistara,1559.48,1861.66,3.6
+P01236,Cresta Makeup O699,Beauty,Makeup,Cresta,694.71,1238.56,4.2
+P01237,Mira Staples P386,Grocery,Staples,Mira,430.11,607.76,3.3
+P01238,Nova Hair Care Q592,Beauty,Hair Care,Nova,658.9,1763.97,4.0
+P01239,Nova Fragrance R796,Beauty,Fragrance,Nova,658.0,930.91,3.3
+P01240,UrbanPeak Small Appliances S13,Appliances,Small Appliances,Urbanpeak,6784.69,12278.03,4.5
+P01241,UrbanPeak Hair Care T915,Beauty,Hair Care,Urbanpeak,789.22,1521.04,5.0
+P01242,Rivon Cleaning U252,Appliances,Cleaning,Rivon,3002.34,4621.3,4.0
+P01243,Solace Footwear V576,Fashion,Footwear,Solace,889.67,1862.58,3.6
+P01244,Solace Smartphones W847,Electronics,Smartphones,Solace,10994.7,16102.33,3.9
+P01245,Zenova Smart Watches X832,Electronics,Smart Watches,Zenova,22117.14,29242.3,3.9
+P01246,Nexa Fitness Equipment Y533,Sports & Fitness,Fitness Equipment,Nexa,915.34,1499.25,3.9
+P01247,Mira Fragrance Z516,Beauty,Fragrance,Mira,886.12,1259.15,3.3
+P01248,Vistara Smart Watches A412,Electronics,Smart Watches,Vistara,4639.7,6224.37,4.7
+P01249,Altura Home Appliances B491,Appliances,Home Appliances,Altura,4715.68,9554.09,4.4
+P01250,Cresta Nutrition Accessories C477,Sports & Fitness,Nutrition Accessories,Cresta,2487.3,4702.98,3.7
+P01251,UrbanPeak Outdoor D641,Fashion,Outdoor,Urbanpeak,1573.5,3275.32,4.3
+P01252,Vertex Bags E720,Fashion,Bags,Unknown,1345.12,2376.58,4.0
+P01253,Unknown,Electronics,Smart Watches,Primenest,6834.43,13370.69,4.8
+P01254,Mira Beverages G392,Grocery,Beverages,Mira,302.11,562.01,4.3
+P01255,Vistara Makeup H521,Beauty,Makeup,Vistara,693.67,858.37,4.1
+P01256,BlueArc Furniture I643,Home & Kitchen,Furniture,Bluearc,2384.61,4093.35,4.0
+P01257,Zenix Women Clothing J515,Fashion,Women Clothing,Zenix,2618.65,5299.11,3.8
+P01258,Mira Small Appliances K379,Appliances,Small Appliances,Mira,3745.0,6423.24,4.6
+P01259,Nova Children L827,Books,Children,Nova,619.6,1189.1,4.8
+P01260,Vistara Cookware M780,Home & Kitchen,Unknown,Vistara,3723.18,7152.24,2.8
+P01261,Rivon Laptops N884,Electronics,Laptops,Rivon,11176.28,15317.18,3.3
+P01262,Vertex Yoga O353,Sports & Fitness,Yoga,Vertex,4930.85,6888.16,3.8
+P01263,Aster Staples P837,Grocery,Staples,Aster,194.52,318.93,4.0
+P01264,Vertex Headphones Q801,Electronics,Headphones,Vertex,7995.5,9632.41,4.7
+P01265,BlueArc Sportswear R483,Sports & Fitness,Sportswear,Bluearc,1566.77,1995.01,2.8
+P01266,Rivon Men Clothing S952,Fashion,Men Clothing,Rivon,2220.09,2840.83,3.5
+P01267,BlueArc Makeup T594,Beauty,Makeup,Bluearc,713.21,1069.11,4.8
+P01268,PrimeNest Footwear U841,Fashion,Footwear,Primenest,1151.51,1744.46,4.7
+P01269,Cresta Breakfast V474,Grocery,Breakfast,Cresta,209.81,380.16,4.0
+P01270,BlueArc Bags W23,Fashion,Bags,Bluearc,1088.72,1485.31,3.3
+P01271,PrimeNest Yoga X391,Sports & Fitness,Yoga,Primenest,1748.6,3188.14,2.7
+P01272,Vistara Hair Care Y920,Beauty,Hair Care,Unknown,592.47,1217.45,3.8
+P01273,BlueArc Small Appliances Z652,Appliances,Small Appliances,Bluearc,1869.83,3117.04,3.3
+P01274,Mira Beverages A191,Grocery,Beverages,Mira,177.88,213.19,4.1
+P01275,Mira Men Clothing B660,Fashion,Men Clothing,Mira,1582.89,2622.69,3.3
+P01276,Cresta Business C870,Books,Business,Cresta,462.7,807.59,4.3
+P01277,BlueArc Home Appliances D337,Appliances,Home Appliances,Bluearc,2197.13,3725.08,3.7
+P01278,Aster Academic E65,Books,Academic,Aster,240.96,448.26,3.8
+P01279,Zenix Small Appliances F212,Appliances,Small Appliances,Zenix,3204.11,6170.97,4.2
+P01280,Zenix Sportswear G109,Sports & Fitness,Sportswear,Zenix,1927.53,3776.82,5.0
+P01281,Mira Smart Watches H32,Electronics,Smart Watches,Mira,8342.56,10306.54,3.6
+P01282,BlueArc Outdoor I853,Sports & Fitness,Outdoor,Bluearc,826.46,1564.26,4.0
+P01283,Nova Men Clothing J674,Fashion,Men Clothing,Nova,2145.9,2549.37,3.0
+P01284,Kairo Storage K18,Home & Kitchen,Storage,Kairo,2958.37,5371.26,3.1
+P01285,Altura Hair Care L495,Beauty,Hair Care,Altura,1233.51,1689.33,4.3
+P01286,Nexa Cookware M838,Home & Kitchen,Cookware,Nexa,3390.24,6008.69,4.2
+P01287,Vertex Bags N616,Fashion,Bags,Vertex,1772.83,3528.09,2.9
+P01288,Luma Kitchen Appliances O495,Appliances,Kitchen Appliances,Luma,3905.07,8123.41,4.2
+P01289,Nexa Skin Care P741,Beauty,Skin Care,Nexa,1457.6,2729.67,4.1
+P01290,Nexa Small Appliances Q926,Appliances,Small Appliances,Nexa,3516.7,5718.33,4.0
+P01291,Aster Personal Care R216,Beauty,Personal Care,Aster,836.14,1613.18,4.2
+P01292,Zenix Bags S429,Electronics,Bags,Zenix,1211.2,2350.91,4.1
+P01293,Luma Yoga T488,Sports & Fitness,Yoga,Luma,604.59,819.11,3.9
+P01294,Unknown,Grocery,Breakfast,Zenova,300.98,527.47,2.9
+P01295,UrbanPeak Headphones V164,Electronics,Headphones,Urbanpeak,8877.81,14373.37,3.6
+P01296,Mira Smartphones W320,Electronics,Smartphones,Mira,6176.84,11092.23,4.8
+P01297,Nova Sportswear X229,Sports & Fitness,Sportswear,Nova,2250.79,4583.31,3.9
+P01298,Mira Women Clothing Y828,Fashion,Women Clothing,Mira,667.4,998.03,4.2
+P01299,PrimeNest Non-Fiction Z228,Books,Non-Fiction,Primenest,307.11,487.46,3.8
+P01300,Vertex Yoga A23,Sports & Fitness,Yoga,Vertex,1342.4,2630.12,2.3
+P01301,Nexa Children B23,Books,Children,Nexa,423.46,580.65,4.5
+P01302,Echo Cleaning C980,Appliances,Cleaning,Unknown,3098.5,3918.68,3.5
+P01303,Vistara Business D955,Books,Business,Vistara,691.67,1171.02,4.7
+P01304,Unknown,Electronics,Headphones,Nova,15956.76,28984.27,3.9
+P01305,Altura Home Appliances F986,Appliances,Home Appliances,Altura,3840.39,5925.95,3.7
+P01306,BlueArc Accessories G315,Electronics,Accessories,Bluearc,10223.42,15907.15,3.6
+P01307,Cresta Hair Care H348,Beauty,Hair Care,Cresta,616.07,833.89,3.2
+P01308,Aster Laptops I433,Electronics,Laptops,Aster,12981.5,19092.36,2.8
+P01309,Rivon Fragrance J116,Beauty,Fragrance,Rivon,970.1,1536.81,4.6
+P01310,Vistara Women Clothing K917,Fashion,Women Clothing,Vistara,2737.61,5084.33,4.2
+P01311,BlueArc Laptops L51,Electronics,Laptops,Bluearc,15019.66,22771.42,4.6
+P01312,Kairo Hair Care M632,Appliances,Hair Care,Kairo,1057.52,1356.51,4.3
+P01313,Altura Yoga N233,Sports & Fitness,Yoga,Altura,1170.69,1596.87,3.9
+P01314,Zenova Headphones O942,Electronics,Headphones,Zenova,8645.41,17591.63,2.9
+P01315,Vertex Footwear P202,Fashion,Footwear,Vertex,890.97,1740.4,3.7
+P01316,MintLeaf Packaged Food Q537,Grocery,Packaged Food,Mintleaf,324.58,568.21,3.6
+P01317,Mira Skin Care R232,Beauty,Skin Care,Mira,1317.63,2583.06,3.7
+P01318,Echo Children S514,Books,Children,Echo,290.64,575.51,3.1
+P01319,Luma Laptops T89,Electronics,Laptops,Luma,8175.94,12405.43,3.2
+P01320,Zenix Bedding U114,Electronics,Bedding,Zenix,2835.93,4765.27,4.7
+P01321,Orbito Fiction V973,Books,Fiction,Orbito,587.08,1014.43,4.4
+P01322,Zenova Nutrition Accessories W760,Sports & Fitness,Nutrition Accessories,Zenova,3428.99,6119.16,4.2
+P01323,BlueArc Cleaning X197,Appliances,Cleaning,Bluearc,3295.62,4052.5,4.1
+P01324,Rivon Personal Care Y953,Beauty,Personal Care,Rivon,932.57,1680.18,4.0
+P01325,Vertex Packaged Food Z972,Grocery,Packaged Food,Vertex,219.4,420.06,3.5
+P01326,Cresta Bedding A196,Home & Kitchen,Bedding,Cresta,2371.55,3290.39,4.9
+P01327,Vertex Sportswear B593,Sports & Fitness,Sportswear,Vertex,2096.05,3805.08,4.8
+P01328,Vistara Bags C480,Fashion,Bags,Vistara,2033.56,3500.3,4.0
+P01329,Orbito Academic D89,Books,Academic,Orbito,390.62,681.3,3.3
+P01330,Nova Smart Watches E410,Electronics,Smart Watches,Nova,5075.9,6524.78,4.0
+P01331,MintLeaf Men Clothing F455,Fashion,Men Clothing,Mintleaf,2080.1,3918.79,4.1
+P01332,MintLeaf Men Clothing G703,Fashion,Men Clothing,Mintleaf,856.14,1257.97,3.3
+P01333,Altura Children H702,Books,Children,Unknown,476.78,563.08,4.0
+P01334,UrbanPeak Children I52,Appliances,Children,Urbanpeak,853.01,1629.85,4.6
+P01335,UrbanPeak Yoga J633,Sports & Fitness,Yoga,Unknown,2040.06,4272.58,3.7
+P01336,Rivon Bags K874,Fashion,Bags,Rivon,3765.75,5784.13,3.9
+P01337,Zenix Headphones L591,Electronics,Headphones,Zenix,6697.33,9389.89,3.8
+P01338,Vistara Women Clothing M126,Fashion,Women Clothing,Vistara,836.05,1210.65,4.2
+P01339,MintLeaf Laptops N752,Electronics,Laptops,Mintleaf,3440.19,7092.59,4.9
+P01340,Nova Kitchen Appliances O139,Electronics,Kitchen Appliances,Nova,1767.94,2112.75,3.3
+P01341,Nexa Breakfast P667,Grocery,Breakfast,Nexa,546.97,966.95,4.5
+P01342,BlueArc Business Q503,Books,Business,Bluearc,364.3,547.18,3.5
+P01343,Aster Fragrance R433,Beauty,Fragrance,Aster,382.19,479.13,4.7
+P01344,Zenova Academic S102,Books,Academic,Zenova,614.35,1285.79,4.2
+P01345,Luma Children T447,Appliances,Children,Luma,805.01,1177.7,3.8
+P01346,Solace Accessories U616,Electronics,Accessories,Solace,4216.21,6936.33,4.8
+P01347,Zenova Men Clothing V885,Fashion,Men Clothing,Zenova,2028.87,2862.29,4.2
+P01348,Orbito Headphones W367,Electronics,Headphones,Orbito,4648.48,7541.94,3.6
+P01349,Cresta Staples X49,Grocery,Staples,Unknown,219.28,356.37,5.0
+P01350,UrbanPeak Packaged Food Y496,Grocery,Packaged Food,Urbanpeak,254.12,473.06,4.1
+P01351,MintLeaf Home Appliances Z517,Appliances,Home Appliances,Mintleaf,4320.83,7835.18,4.4
+P01352,Mira Cooling A322,Appliances,Cooling,Mira,2971.3,4041.51,3.6
+P01353,Luma Staples B849,Grocery,Staples,Luma,219.74,357.51,3.5
+P01354,BlueArc Storage C973,Home & Kitchen,Storage,Bluearc,2972.93,6170.83,4.3
+P01355,Echo Laptops D91,Electronics,Laptops,Echo,2897.89,4411.85,3.7
+P01356,BlueArc Children E270,Books,Children,Bluearc,508.55,915.16,4.7
+P01357,Solace Bags F336,Fashion,Bags,Solace,1531.76,2060.25,4.3
+P01358,PrimeNest Headphones G723,Electronics,Headphones,Primenest,6616.11,9989.18,4.7
+P01359,BlueArc Cooling H173,Appliances,Cooling,Bluearc,5964.49,10562.61,4.3
+P01360,PrimeNest Bedding I287,Home & Kitchen,Bedding,Primenest,2386.88,4544.98,3.7
+P01361,PrimeNest Home Decor J525,Home & Kitchen,Home Decor,Primenest,3790.32,5137.01,4.3
+P01362,Rivon Smartphones K265,Electronics,Unknown,Rivon,6233.82,10096.13,3.9
+P01363,vistara packaged food l225,Grocery,Packaged Food,Vistara,354.5,425.81,4.2
+P01364,Nexa Sportswear M145,Sports & Fitness,Sportswear,Nexa,1044.09,1598.87,4.5
+P01365,Altura Home Appliances N463,Appliances,Home Appliances,Altura,5287.68,10778.7,3.8
+P01366,Nova Hair Care O453,Beauty,Hair Care,Nova,409.26,653.83,4.3
+P01367,Cresta Nutrition Accessories P905,Sports & Fitness,Nutrition Accessories,Cresta,2147.12,4210.75,4.1
+P01368,Nexa Smartphones Q237,Electronics,Smartphones,Nexa,14164.86,27143.34,4.0
+P01369,Vistara Laptops R320,Electronics,Laptops,Vistara,3563.54,4580.05,4.2
+P01370,Echo Laptops S819,Electronics,Laptops,Echo,7997.75,9458.39,3.9
+P01371,Vertex Bags T298,Fashion,Bags,Vertex,944.57,1835.95,3.7
+P01372,PrimeNest Outdoor U263,Sports & Fitness,Outdoor,Primenest,3065.3,5817.22,4.8
+P01373,Rivon Accessories V937,Electronics,Accessories,Rivon,13295.71,27836.1,4.7
+P01374,Aster Headphones W633,Electronics,Headphones,Aster,8954.66,17896.05,4.9
+P01375,Echo Cookware X148,Home & Kitchen,Cookware,Echo,1229.74,2432.66,3.9
+P01376,PrimeNest Women Clothing Y683,Fashion,Women Clothing,Primenest,1039.38,2024.2,3.6
+P01377,Nova Academic Z203,Books,Academic,Nova,355.77,481.46,3.3
+P01378,Mira Headphones A705,Electronics,Headphones,Mira,13612.65,20607.72,2.7
+P01379,Zenova Skin Care B48,Beauty,Skin Care,Zenova,723.12,1184.21,4.0
+P01380,Zenova Men Clothing C591,Fashion,Men Clothing,Zenova,472.81,970.86,3.8
+P01381,Solace Laptops D79,Electronics,Laptops,Solace,5855.96,11483.33,3.9
+P01382,Luma Hair Care E748,Beauty,Hair Care,Luma,933.84,1719.07,4.8
+P01383,Echo Home Appliances F156,Appliances,Home Appliances,Echo,3536.46,7199.13,4.5
+P01384,Vistara Headphones G660,Electronics,Headphones,Vistara,16904.56,26428.58,3.8
+P01385,Altura Small Appliances H417,Appliances,Small Appliances,Altura,8155.4,16326.5,5.0
+P01386,Cresta Headphones I261,Electronics,Headphones,Cresta,4979.69,7138.72,3.1
+P01387,Kairo Footwear J895,Fashion,Footwear,Kairo,790.81,1167.43,4.6
+P01388,Rivon Packaged Food K297,Grocery,Packaged Food,Rivon,607.13,882.45,4.6
+P01389,solace cookware l462,Home & Kitchen,Cookware,Solace,1465.64,2719.55,4.3
+P01390,UrbanPeak Hair Care M245,Beauty,Hair Care,Urbanpeak,353.95,599.53,4.1
+P01391,Vertex Yoga N763,Sports & Fitness,Yoga,Vertex,3187.33,5797.15,3.9
+P01392,Cresta Makeup O583,Beauty,Makeup,Cresta,845.39,1070.08,3.6
+P01393,Orbito Fragrance P593,Beauty,Fragrance,Orbito,656.71,1225.84,3.4
+P01394,BlueArc Headphones Q726,Electronics,Headphones,Bluearc,21148.98,32879.72,3.7
+P01395,Mira Packaged Food R67,Grocery,Packaged Food,Mira,179.24,266.83,3.8
+P01396,Nova Laptops S133,Electronics,Laptops,Nova,7915.72,16023.38,4.0
+P01397,Aster Smart Watches T337,Electronics,Smart Watches,Unknown,11725.98,13904.46,4.6
+P01398,Zenova Home Appliances U72,Appliances,Home Appliances,Zenova,7430.6,10074.46,4.4
+P01399,PrimeNest Breakfast V418,Grocery,Breakfast,Primenest,179.48,301.51,3.4
+P01400,Mira Storage W30,Home & Kitchen,Storage,Mira,2850.07,4492.95,4.5
+P01401,UrbanPeak Home Appliances X657,Appliances,Home Appliances,Urbanpeak,8319.14,10703.23,4.3
+P01402,Nexa Accessories Y67,Electronics,Accessories,Nexa,9515.6,17093.98,5.0
+P01403,Solace Bags Z369,Fashion,Bags,Solace,1001.57,1538.2,4.0
+P01404,Aster Sportswear A232,Sports & Fitness,Sportswear,Aster,1310.1,2634.46,4.1
+P01405,Solace Yoga B447,Sports & Fitness,Yoga,Solace,2553.33,4812.86,3.9
+P01406,Echo Makeup C788,Beauty,Makeup,Echo,1018.25,1893.47,3.7
+P01407,Orbito Accessories D198,Electronics,Accessories,Orbito,29999.3,35944.16,3.9
+P01408,Solace Men Clothing E790,Fashion,Men Clothing,Solace,2061.2,4154.74,3.7
+P01409,Luma Smart Watches F489,Electronics,Smart Watches,Luma,5771.21,7444.71,4.4
+P01410,MintLeaf Home Appliances G170,Appliances,Home Appliances,Mintleaf,4482.8,8173.42,3.8
+P01411,Vistara Men Clothing H554,Fashion,Men Clothing,Vistara,675.79,1260.9,4.3
+P01412,Aster Accessories I592,Electronics,Accessories,Aster,5659.64,11724.4,2.6
+P01413,Zenova Staples J797,Grocery,Staples,Zenova,653.7,1342.08,3.4
+P01414,Vistara Makeup K815,Beauty,Makeup,Vistara,716.81,879.5,3.4
+P01415,Unknown,Sports & Fitness,Yoga,Rivon,2694.73,5390.82,3.8
+P01416,Nexa Small Appliances M231,Appliances,Small Appliances,Nexa,4328.61,5118.18,4.0
+P01417,Zenix Sportswear N453,Sports & Fitness,Sportswear,Zenix,2122.6,2723.37,3.5
+P01418,BlueArc Women Clothing O730,Fashion,Women Clothing,Bluearc,1008.59,1488.44,3.8
+P01419,Aster Personal Care P316,Electronics,Personal Care,Aster,572.44,918.69,3.4
+P01420,Zenova Accessories Q836,Electronics,Accessories,Zenova,13016.12,18182.41,3.4
+P01421,Vertex Accessories R898,Electronics,Accessories,Vertex,5517.93,10700.15,4.4
+P01422,MintLeaf Nutrition Accessories S802,Sports & Fitness,Nutrition Accessories,Mintleaf,1398.11,1952.53,3.1
+P01423,Nexa Smartphones T489,Electronics,Smartphones,Nexa,6618.34,13895.16,3.1
+P01424,UrbanPeak Kitchen Appliances U43,Appliances,Kitchen Appliances,Urbanpeak,4211.52,8360.01,5.0
+P01425,UrbanPeak Beverages V253,Grocery,Beverages,Urbanpeak,411.93,641.33,3.4
+P01426,Orbito Breakfast W276,Grocery,Breakfast,Orbito,274.99,482.41,3.5
+P01427,Vistara Women Clothing X888,Fashion,Women Clothing,Vistara,2724.38,3906.13,3.9
+P01428,Vertex Bags Y987,Fashion,Bags,Vertex,545.09,689.78,3.8
+P01429,Altura Children Z110,Books,Children,Altura,567.2,819.78,4.2
+P01430,MintLeaf Accessories A372,Electronics,Accessories,Unknown,3808.11,5115.39,3.6
+P01431,Echo Skin Care B63,Beauty,Skin Care,Echo,696.52,1355.27,4.5
+P01432,UrbanPeak Kitchen Appliances C480,Appliances,Kitchen Appliances,Urbanpeak,6683.64,12974.23,3.3
+P01433,Zenix Accessories D513,Electronics,Accessories,Zenix,15949.77,29936.35,3.8
+P01434,Kairo Smart Watches E182,Electronics,Smart Watches,Kairo,6057.27,10753.4,4.1
+P01435,PrimeNest Small Appliances F358,Appliances,Small Appliances,Primenest,4019.26,6589.57,3.9
+P01436,Vertex Accessories G742,Electronics,Accessories,Vertex,9083.6,11911.18,4.0
+P01437,Echo Makeup H972,Beauty,Makeup,Echo,1312.08,1989.97,4.4
+P01438,Vistara Bags I228,Fashion,Bags,Vistara,961.68,1190.11,2.9
+P01439,Mira Accessories J203,Electronics,Accessories,Mira,5405.4,7874.24,3.4
+P01440,Mira Home Appliances K705,Appliances,Home Appliances,Mira,3415.6,6510.29,4.9
+P01441,Zenix Packaged Food L964,Grocery,Packaged Food,Zenix,179.57,250.81,4.0
+P01442,Solace Hair Care M34,Beauty,Hair Care,Solace,812.45,1700.23,3.4
+P01443,Solace Packaged Food N24,Grocery,Packaged Food,Solace,358.88,480.18,4.6
+P01444,Luma Fragrance O866,Beauty,Fragrance,Luma,847.98,1165.18,4.1
+P01445,MintLeaf Beverages P260,Home & Kitchen,Beverages,Mintleaf,331.04,404.85,4.7
+P01446,Solace Headphones Q38,Electronics,Headphones,Solace,6947.95,14174.9,3.3
+P01447,Nova Smart Watches R567,Electronics,Smart Watches,Nova,5328.03,8733.8,2.8
+P01448,Kairo Outdoor S310,Sports & Fitness,Outdoor,Kairo,1749.4,0.0,3.4
+P01449,Kairo Home Appliances T152,Appliances,Home Appliances,Kairo,2347.5,4030.87,4.1
+P01450,Altura Fiction U681,Home & Kitchen,Fiction,Altura,539.27,673.64,4.1
+P01451,MintLeaf Fitness Equipment V697,Sports & Fitness,Fitness Equipment,Mintleaf,1570.88,2562.56,4.7
+P01452,Solace Accessories W754,Electronics,Accessories,Solace,11222.73,19910.05,2.9
+P01453,Zenix Smartphones X110,Electronics,Smartphones,Zenix,9671.07,12204.51,4.2
+P01454,BlueArc Bedding Y729,Home & Kitchen,Bedding,Bluearc,2165.85,4451.27,3.5
+P01455,Kairo Fragrance Z826,Beauty,Fragrance,Kairo,2643.04,4903.04,3.1
+P01456,Aster Nutrition Accessories A157,Sports & Fitness,Nutrition Accessories,Aster,3549.87,5704.44,4.1
+P01457,Cresta Headphones B579,Electronics,Headphones,Cresta,5437.1,10066.49,4.3
+P01458,Aster Footwear C822,Fashion,Footwear,Aster,1239.71,1759.8,3.0
+P01459,Zenova Beverages D133,Grocery,Beverages,Zenova,330.92,680.99,3.0
+P01460,Solace Storage E592,Home & Kitchen,Storage,Solace,1602.0,2450.77,2.9
+P01461,SOLACE FURNITURE F445,Home & Kitchen,Furniture,Solace,1650.72,2056.32,3.9
+P01462,Nexa Women Clothing G983,Fashion,Women Clothing,Nexa,1483.13,2302.22,4.2
+P01463,Vertex Accessories H910,Electronics,Accessories,Vertex,5691.45,7853.3,4.2
+P01464,Altura Laptops I539,Electronics,Laptops,Altura,14574.33,26916.85,4.6
+P01465,Orbito Cleaning J867,Appliances,Cleaning,Orbito,6627.19,9828.44,5.0
+P01466,Aster Storage K629,Home & Kitchen,Storage,Aster,7170.71,9461.42,3.7
+P01467,Vistara Watches L959,Fashion,Watches,Vistara,547.13,962.65,4.1
+P01468,Orbito Personal Care M574,Beauty,Personal Care,Orbito,394.31,812.88,3.5
+P01469,Echo Headphones N492,Electronics,Headphones,Echo,12394.06,24908.52,3.3
+P01470,Nova Fiction O436,Books,Fiction,Nova,471.28,827.18,4.5
+P01471,Echo Staples P190,Grocery,Staples,Echo,280.64,566.76,3.8
+P01472,Aster Smart Watches Q274,Electronics,Smart Watches,Aster,12569.14,17551.16,4.0
+P01473,UrbanPeak Packaged Food R622,Grocery,Packaged Food,Urbanpeak,534.41,885.42,4.1
+P01474,Nexa Outdoor S739,Sports & Fitness,Outdoor,Nexa,1841.52,3596.21,4.1
+P01475,Zenova Smart Watches T805,Electronics,Smart Watches,Zenova,11496.65,16907.78,4.2
+P01476,Vistara Laptops U673,Electronics,Laptops,Vistara,4881.28,6120.02,4.5
+P01477,Solace Furniture V597,Electronics,Furniture,Solace,1773.68,2191.47,4.0
+P01478,Luma Sportswear W503,Sports & Fitness,Sportswear,Luma,1534.17,1953.27,4.1
+P01479,BlueArc Skin Care X113,Beauty,Unknown,Bluearc,324.24,453.45,5.0
+P01480,PrimeNest Small Appliances Y157,Appliances,Small Appliances,Primenest,2717.49,4240.03,2.7
+P01481,Mira Home Appliances Z550,Appliances,Unknown,Mira,2780.49,3413.78,3.5
+P01482,Orbito Sportswear A666,Sports & Fitness,Sportswear,Orbito,6261.92,7806.48,4.4
+P01483,MintLeaf-Laptops-B576,Electronics,Laptops,Mintleaf,8707.76,14762.51,4.2
+P01484,Aster Laptops C63,Electronics,Laptops,Aster,5819.26,11559.1,4.4
+P01485,MintLeaf Laptops D258,Electronics,Laptops,Mintleaf,7246.7,14242.26,3.8
+P01486,Zenova Women Clothing E661,Fashion,Women Clothing,Zenova,1979.13,2337.48,4.5
+P01487,Luma Storage F335,Home & Kitchen,Storage,Luma,1626.39,3062.49,3.7
+P01488,MintLeaf Smartphones G114,Electronics,Smartphones,Mintleaf,11380.85,20478.3,4.2
+P01489,Zenix Breakfast H591,Grocery,Breakfast,Zenix,366.62,468.72,4.6
+P01490,MintLeaf Outdoor I310,Home & Kitchen,Outdoor,Mintleaf,4292.33,5994.4,4.1
+P01491,Nova Hair Care J824,Beauty,Hair Care,Nova,935.92,1572.91,4.4
+P01492,Cresta Home Decor K614,Home & Kitchen,Home Decor,Cresta,6601.79,3224.14,3.9
+P01493,Altura Snacks L746,Grocery,Snacks,Altura,857.96,1066.16,3.9
+P01494,Vistara Women Clothing M970,Fashion,Women Clothing,Vistara,1330.52,1947.03,3.7
+P01495,Solace Business N957,Books,Business,Solace,431.06,604.94,3.7
+P01496,Rivon Breakfast O258,Grocery,Breakfast,Rivon,155.66,210.46,4.2
+P01497,UrbanPeak Watches P625,Fashion,Watches,Urbanpeak,2336.66,4845.01,3.4
+P01498,MintLeaf Packaged Food Q821,Grocery,Packaged Food,Mintleaf,205.75,304.48,4.6
+P01499,Nova Outdoor R118,Sports & Fitness,Outdoor,Nova,2142.77,4394.93,3.9
+P01500,Kairo Cookware S592,Home & Kitchen,Cookware,Kairo,1551.64,2156.66,3.3
+P01501,Zenova Watches T122,Fashion,Watches,Zenova,687.9,835.43,3.8
+P01502,Zenova Laptops U658,Electronics,Laptops,Zenova,3312.49,6677.92,3.2
+P01503,Altura Home Decor V682,Home & Kitchen,Home Decor,Altura,2382.46,4966.06,5.0
+P01504,Kairo Women Clothing W466,Fashion,Women Clothing,Kairo,1058.63,1938.51,3.7
+P01505,Aster Cookware X295,Home & Kitchen,Cookware,Aster,5394.64,8569.68,4.5
+P01506,Aster Beverages Y913,Grocery,Beverages,Aster,398.55,734.15,5.0
+P01507,Vistara Nutrition Accessories Z966,Sports & Fitness,Nutrition Accessories,Vistara,2871.78,4381.17,4.8
+P01508,UrbanPeak Fiction A427,Books,Fiction,Urbanpeak,968.43,1261.86,3.2
+P01509,Kairo Footwear B546,Fashion,Footwear,Kairo,733.44,1144.64,4.6
+P01510,Solace Home Decor C908,Home & Kitchen,Home Decor,Solace,1275.5,2273.45,4.1
+P01511,Zenix Sportswear D539,Sports & Fitness,Sportswear,Zenix,1150.59,2264.26,5.0
+P01512,Luma Nutrition Accessories E916,Sports & Fitness,Nutrition Accessories,Luma,1560.52,3460.67,3.1
+P01513,MintLeaf Skin Care F268,Beauty,Skin Care,Mintleaf,750.73,1026.98,3.9
+P01514,Vertex Headphones G538,Electronics,Headphones,Unknown,9446.6,16402.92,4.3
+P01515,Nova Cleaning H754,Appliances,Cleaning,Nova,5097.2,6311.58,4.0
+P01516,Zenova Bedding I750,Home & Kitchen,Bedding,Zenova,4463.93,6757.16,3.1
+P01517,Nexa Smart Watches J301,Electronics,Smart Watches,Nexa,13606.73,18843.14,3.8
+P01518,Nova Bags K136,Fashion,Bags,Nova,1552.03,2657.46,3.9
+P01519,Nexa Watches L348,Fashion,Watches,Nexa,753.59,1401.95,4.5
+P01520,Mira Fiction M868,Books,Fiction,Mira,605.28,880.84,3.9
+P01521,MintLeaf Accessories N379,Home & Kitchen,Accessories,Mintleaf,8152.83,16520.93,4.8
+P01522,Vertex Headphones O388,Electronics,Headphones,Vertex,7995.5,12505.66,3.8
+P01523,Solace Laptops P14,Electronics,Laptops,Solace,8751.62,11692.68,4.8
+P01524,Zenix Women Clothing Q619,Fashion,Women Clothing,Zenix,763.16,1491.82,4.1
+P01525,Vertex Smartphones R85,Electronics,Smartphones,Vertex,4220.56,6364.14,2.8
+P01526,Mira Staples S269,Grocery,Staples,Mira,540.73,979.72,3.8
+P01527,Rivon Bedding T319,Home & Kitchen,Bedding,Rivon,2406.15,4111.41,4.1
+P01528,Altura Fitness Equipment U966,Sports & Fitness,Fitness Equipment,Altura,1777.49,2236.27,4.8
+P01529,Zenova Personal Care V839,Beauty,Personal Care,Zenova,808.75,959.4,2.9
+P01530,Kairo Bedding W110,Home & Kitchen,Bedding,Kairo,2340.96,4423.2,4.5
+P01531,Aster Fragrance X579,Beauty,Fragrance,Aster,1305.24,1663.38,3.9
+P01532,Nova Cooling Y196,Appliances,Cooling,Nova,3554.48,6148.61,4.0
+P01533,PrimeNest Storage Z811,Home & Kitchen,Storage,Primenest,2788.05,5287.45,3.7
+P01534,Solace Headphones A383,Electronics,Headphones,Solace,9746.55,19189.9,3.8
+P01535,Solace Sportswear B148,Sports & Fitness,Sportswear,Solace,4796.94,9880.79,4.4
+P01536,Unknown,Beauty,Personal Care,Mintleaf,592.71,782.74,4.7
+P01537,Vertex Yoga D731,Sports & Fitness,Yoga,Vertex,881.62,1375.3,3.8
+P01538,Solace Nutrition Accessories E280,Sports & Fitness,Nutrition Accessories,Solace,2357.32,3126.63,3.9
+P01539,BlueArc Breakfast F36,Grocery,Breakfast,Bluearc,360.02,629.89,3.6
+P01540,Vertex Accessories G889,Electronics,Accessories,Vertex,4921.05,8617.56,4.0
+P01541,Altura Smart Watches H528,Electronics,Smart Watches,Altura,4157.64,8040.22,3.1
+P01542,Zenix Headphones I865,Electronics,Headphones,Zenix,6853.44,13003.33,3.5
+P01543,Cresta Watches J672,Fashion,Watches,Cresta,821.24,1581.92,4.2
+P01544,Rivon Kitchen Appliances K608,Appliances,Kitchen Appliances,Rivon,6107.13,11719.59,4.0
+P01545,Zenix Men Clothing L939,Fashion,Men Clothing,Zenix,498.21,765.34,4.3
+P01546,Nova Laptops M331,Unknown,Laptops,Nova,9943.57,19063.65,5.0
+P01547,Rivon Watches N931,Fashion,Watches,Rivon,618.39,866.73,4.1
+P01548,Aster Accessories O598,Electronics,Accessories,Aster,23807.42,42446.38,3.9
+P01549,Mira Men Clothing P40,Fashion,Men Clothing,Mira,1175.99,2383.3,3.9
+P01550,Orbito Business Q659,Books,Business,Orbito,390.46,653.44,4.4
+P01551,Solace Sportswear R687,Sports & Fitness,Sportswear,Solace,1219.7,2174.0,4.7
+P01552,Luma Smart Watches S114,Electronics,Smart Watches,Luma,3925.09,5553.7,3.8
+P01553,Zenix Women Clothing T805,Fashion,Women Clothing,Zenix,2397.0,4294.46,4.2
+P01554,MintLeaf Furniture U390,Home & Kitchen,Furniture,Mintleaf,2116.36,3152.39,4.0
+P01555,Zenova Nutrition Accessories V826,Sports & Fitness,Nutrition Accessories,Zenova,1644.5,3414.97,3.8
+P01556,Orbito Non-Fiction W451,Books,Non-Fiction,Orbito,380.69,603.38,3.5
+P01557,Solace Cooling X364,Appliances,Cooling,Solace,6369.73,11513.22,3.4
+P01558,Orbito Cookware Y924,Home & Kitchen,Cookware,Orbito,1373.82,2566.59,4.7
+P01559,Nova Furniture Z763,Home & Kitchen,Furniture,Nova,2116.36,2472.32,4.9
+P01560,Kairo Women Clothing A655,Fashion,Women Clothing,Kairo,1267.95,2544.4,3.5
+P01561,Echo Snacks B69,Grocery,Snacks,Echo,263.85,524.24,3.9
+P01562,Cresta Non-Fiction C25,Books,Non-Fiction,Cresta,411.47,743.19,4.3
+P01563,Nova Laptops D748,Electronics,Laptops,Nova,10017.4,15691.75,4.1
+P01564,Vistara Laptops E289,Electronics,Laptops,Vistara,22855.33,34810.31,4.1
+P01565,BlueArc Bags F992,Fashion,Bags,Bluearc,1044.99,1868.68,4.4
+P01566,Zenix Cookware G404,Home & Kitchen,Cookware,Zenix,2853.66,5293.23,3.4
+P01567,Zenix Kitchen Appliances H459,Appliances,Kitchen Appliances,Zenix,4728.11,4818.85,4.0
+P01568,Orbito Accessories I655,Electronics,Accessories,Orbito,8994.82,11206.64,4.1
+P01569,BlueArc Watches J785,Fashion,Watches,Bluearc,1039.38,2163.2,3.5
+P01570,Solace Bedding K687,Home & Kitchen,Bedding,Solace,2638.76,2420.48,3.6
+P01571,Solace Personal Care L673,Beauty,Personal Care,Solace,400.73,735.21,4.0
+P01572,Nova Packaged Food M900,Grocery,Packaged Food,Nova,386.79,635.48,3.0
+P01573,Aster Nutrition Accessories N210,Sports & Fitness,Nutrition Accessories,Aster,1945.9,4630.08,4.2
+P01574,Solace Headphones O909,Electronics,Headphones,Solace,5286.3,10397.91,4.2
+P01575,Kairo Kitchen Appliances P163,Appliances,Kitchen Appliances,Kairo,4435.01,7296.82,4.9
+P01576,Orbito Fiction Q470,Books,Fiction,Orbito,163.12,261.79,3.7
+P01577,Aster Bags R180,Sports & Fitness,Bags,Aster,1785.89,3127.92,3.7
+P01578,Nexa Bedding S897,Home & Kitchen,Unknown,Nexa,1580.3,2130.72,3.5
+P01579,Cresta Fiction T296,Books,Fiction,Cresta,410.55,498.97,4.5
+P01580,Rivon Outdoor U647,Fashion,Unknown,Rivon,2020.62,3829.96,4.2
+P01581,Altura Footwear V906,Fashion,Footwear,Altura,498.24,601.77,4.6
+P01582,Zenova Non-Fiction W138,Books,Non-Fiction,Zenova,689.88,1340.7,5.0
+P01583,Zenova Smartphones X14,Electronics,Smartphones,Zenova,5380.39,8831.6,4.3
+P01584,Cresta Smart Watches Y240,Electronics,Smart Watches,Cresta,5709.26,10233.14,4.3
+P01585,Aster Smartphones Z826,Electronics,Smartphones,Aster,5651.01,10338.66,3.5
+P01586,Solace Makeup A229,Appliances,Makeup,Solace,408.65,562.65,3.7
+P01587,Rivon Smart Watches B956,Electronics,Smart Watches,Rivon,8685.94,17489.59,3.3
+P01588,Nexa Smart Watches C730,Electronics,Smart Watches,Nexa,9792.22,16821.78,4.0
+P01589,Orbito Furniture D81,Home & Kitchen,Furniture,Unknown,3903.54,5340.13,3.0
+P01590,Zenix Nutrition Accessories E767,Sports & Fitness,Nutrition Accessories,Zenix,2931.34,5675.3,3.0
+P01591,Nova Headphones F469,Electronics,Headphones,Nova,16812.71,0.0,4.4
+P01592,Cresta Outdoor G527,Sports & Fitness,Outdoor,Cresta,1751.59,3174.9,3.9
+P01593,BlueArc Sportswear H777,Sports & Fitness,Sportswear,Bluearc,1855.53,2686.13,4.5
+P01594,Aster Outdoor I476,Sports & Fitness,Outdoor,Aster,1023.77,1727.91,3.8
+P01595,BlueArc Home Appliances J275,Appliances,Home Appliances,Bluearc,4402.4,5449.91,4.2
+P01596,Nexa Personal Care K204,Beauty,Personal Care,Nexa,346.86,442.25,4.2
+P01597,Mira Bags L709,Fashion,Bags,Mira,834.59,1390.34,3.6
+P01598,Aster Staples M607,Grocery,Staples,Aster,539.49,1049.76,3.8
+P01599,Aster Outdoor N656,Sports & Fitness,Outdoor,Aster,1699.65,3399.92,3.6
+P01600,Cresta Bags O953,Fashion,Bags,Cresta,1501.07,2258.82,3.5
+P01601,Rivon Bags P377,Fashion,Bags,Rivon,929.28,1167.76,3.1
+P01602,Luma Small Appliances Q379,Appliances,Small Appliances,Luma,5730.93,8236.82,4.2
+P01603,BlueArc Snacks R487,Grocery,Snacks,Bluearc,514.91,996.72,4.8
+P01604,Luma Fitness Equipment S776,Sports & Fitness,Fitness Equipment,Luma,3706.66,7423.17,3.8
+P01605,Nexa Skin Care T163,Beauty,Skin Care,Nexa,484.79,1011.56,3.7
+P01606,Zenova Yoga U743,Sports & Fitness,Yoga,Zenova,780.56,1079.04,3.9
+P01607,Nova Outdoor V284,Sports & Fitness,Outdoor,Nova,1049.68,1407.38,3.6
+P01608,Altura Hair Care W163,Beauty,Hair Care,Altura,716.68,1040.59,3.5
+P01609,Aster Smart Watches X764,Home & Kitchen,Smart Watches,Aster,5962.59,10355.9,4.7
+P01610,Cresta Furniture Y92,Home & Kitchen,Furniture,Cresta,1009.54,1497.68,4.0
+P01611,Altura Makeup Z859,Beauty,Makeup,Altura,507.54,934.26,4.9
+P01612,Solace Cookware A382,Home & Kitchen,Cookware,Solace,894.57,1263.5,4.3
+P01613,Luma Footwear B74,Fashion,Footwear,Luma,1059.36,4055.81,3.5
+P01614,Cresta Home Decor C802,Home & Kitchen,Home Decor,Cresta,4553.93,5623.85,4.5
+P01615,MintLeaf Furniture D295,Home & Kitchen,Furniture,Mintleaf,1357.37,2071.0,4.3
+P01616,Zenova Fitness Equipment E604,Sports & Fitness,Fitness Equipment,Zenova,1707.06,2399.15,3.8
+P01617,Zenix Women Clothing F494,Fashion,Women Clothing,Zenix,1955.79,3462.5,4.8
+P01618,Kairo Watches G497,Fashion,Watches,Kairo,1084.99,1941.48,4.5
+P01619,Mira Packaged Food H710,Grocery,Packaged Food,Mira,371.11,575.15,3.6
+P01620,Vistara Watches I622,Fashion,Watches,Vistara,2425.43,4154.13,4.1
+P01621,BlueArc Business J442,Books,Business,Bluearc,247.9,417.53,4.0
+P01622,Nexa Skin Care K579,Beauty,Skin Care,Nexa,0.0,865.26,4.9
+P01623,Aster Smartphones L93,Electronics,Smartphones,Aster,25483.7,53411.97,4.3
+P01624,Echo Snacks M856,Grocery,Snacks,Echo,290.61,489.97,3.9
+P01625,Echo Fitness Equipment N592,Sports & Fitness,Fitness Equipment,Echo,1667.53,3267.87,3.1
+P01626,MintLeaf Men Clothing O825,Fashion,Men Clothing,Mintleaf,1118.16,1429.74,3.7
+P01627,Zenova Skin Care P855,Beauty,Skin Care,Zenova,466.88,895.15,3.9
+P01628,Altura Personal Care Q984,Beauty,Personal Care,Altura,545.7,671.18,4.5
+P01629,Echo Watches R396,Fashion,Watches,Echo,996.83,1833.35,4.1
+P01630,Altura Home Decor S191,Home & Kitchen,Home Decor,Altura,2445.28,4849.24,4.7
+P01631,Nexa Men Clothing T909,Fashion,Men Clothing,Nexa,2726.01,2038.73,3.6
+P01632,Kairo Snacks U595,Grocery,Snacks,Kairo,407.13,837.94,3.9
+P01633,Orbito Packaged Food V387,Grocery,Packaged Food,Orbito,327.58,477.08,4.2
+P01634,PrimeNest Smart Watches W364,Electronics,Smart Watches,Primenest,12118.06,24258.39,3.6
+P01635,Vistara Watches X763,Fashion,Unknown,Unknown,1856.0,2644.74,4.4
+P01636,Luma Sportswear Y442,Sports & Fitness,Sportswear,Luma,1191.71,1638.84,3.8
+P01637,Vertex Skin Care Z438,Beauty,Skin Care,Vertex,794.35,1127.4,3.4
+P01638,Nova Women Clothing A433,Fashion,Women Clothing,Nova,1042.57,1875.3,4.0
+P01639,Luma Staples B856,Unknown,Staples,Luma,512.45,943.36,5.0
+P01640,BlueArc Men Clothing C328,Fashion,Men Clothing,Bluearc,1100.16,1579.44,3.5
+P01641,Nexa Men Clothing D879,Fashion,Men Clothing,Nexa,856.0,1286.12,4.4
+P01642,Altura Footwear E733,Fashion,Footwear,Altura,964.94,1675.57,4.8
+P01643,Zenova Breakfast F514,Grocery,Breakfast,Zenova,396.58,593.41,3.8
+P01644,Zenova Bags G878,Fashion,Bags,Zenova,652.01,1256.17,3.8
+P01645,Mira Laptops H463,Electronics,Laptops,Mira,5056.69,7933.72,4.8
+P01646,UrbanPeak Hair Care I878,Beauty,Hair Care,Urbanpeak,1014.35,1407.11,4.3
+P01647,Mira Makeup J546,Beauty,Makeup,Mira,716.81,1960.73,3.6
+P01648,Orbito Beverages K438,Grocery,Beverages,Unknown,228.5,320.67,4.0
+P01649,Vertex Fitness Equipment L195,Sports & Fitness,Fitness Equipment,Vertex,3004.73,4724.16,3.1
+P01650,Zenova Accessories M70,Electronics,Accessories,Zenova,6954.22,14231.83,2.9
+P01651,Zenova Home Appliances N241,Appliances,Home Appliances,Zenova,4641.28,8302.68,3.6
+P01652,Nova Laptops O700,Electronics,Laptops,Nova,12813.29,18333.01,3.8
+P01653,Cresta Laptops P830,Electronics,Laptops,Cresta,16904.43,16927.83,3.5
+P01654,Mira Makeup Q989,Beauty,Makeup,Mira,518.65,1081.57,4.0
+P01655,MintLeaf Footwear R26,Fashion,Footwear,Mintleaf,1377.31,1674.13,3.8
+P01656,Kairo Headphones S462,Electronics,Headphones,Kairo,9486.28,11311.02,4.2
+P01657,VERTEX SMART WATCHES T399,Electronics,Smart Watches,Vertex,5375.19,4280.22,4.8
+P01658,Vertex Headphones U805,Electronics,Headphones,Vertex,13715.93,25502.59,3.8
+P01659,Echo Bedding V533,Home & Kitchen,Bedding,Echo,2322.83,5354.96,4.0
+P01660,Nexa Headphones W233,Electronics,Headphones,Nexa,12185.06,21807.9,4.1
+P01661,MintLeaf Hair Care X120,Beauty,Hair Care,Mintleaf,1584.92,2301.63,4.4
+P01662,Nova Watches Y987,Fashion,Watches,Nova,1987.35,2872.81,4.7
+P01663,Mira Breakfast Z161,Grocery,Breakfast,Mira,261.44,438.67,4.5
+P01664,Aster Fitness Equipment A439,Sports & Fitness,Fitness Equipment,Aster,1625.09,2750.82,4.4
+P01665,Rivon Nutrition Accessories B823,Sports & Fitness,Nutrition Accessories,Rivon,1789.05,3133.92,3.8
+P01666,Vertex Footwear C488,Fashion,Footwear,Vertex,1440.91,1733.54,5.0
+P01667,Echo Storage D626,Home & Kitchen,Storage,Echo,2535.16,4602.06,4.3
+P01668,Echo Storage E317,Home & Kitchen,Storage,Echo,2273.19,3766.92,3.6
+P01669,BlueArc Fiction F370,Books,Fiction,Bluearc,670.93,1372.24,4.3
+P01670,Aster Cleaning G84,Appliances,Cleaning,Aster,3508.85,5539.83,3.7
+P01671,Orbito Cleaning H178,Appliances,Cleaning,Orbito,2643.64,3410.36,3.2
+P01672,Kairo Hair Care I837,Beauty,Hair Care,Kairo,1054.51,1407.99,3.5
+P01673,Nova Outdoor J88,Sports & Fitness,Outdoor,Nova,1699.65,2457.2,3.1
+P01674,Luma Home Appliances K991,Appliances,Home Appliances,Luma,6489.4,8894.47,4.5
+P01675,Altura Sportswear L89,Sports & Fitness,Sportswear,Altura,5514.02,3118.82,4.7
+P01676,BlueArc Storage M747,Home & Kitchen,Storage,Bluearc,1292.62,1897.49,4.5
+P01677,Rivon Smartphones N963,Electronics,Smartphones,Rivon,10253.88,12761.97,3.5
+P01678,Luma Watches O928,Fashion,Watches,Luma,1264.92,2221.32,4.3
+P01679,Aster Footwear P852,Fashion,Footwear,Aster,1152.24,2109.85,3.9
+P01680,MintLeaf Accessories Q87,Electronics,Accessories,Mintleaf,14781.37,29284.0,3.1
+P01681,Altura Personal Care R756,Beauty,Personal Care,Altura,441.98,583.54,3.6
+P01682,MintLeaf Headphones S243,Electronics,Headphones,Mintleaf,17327.81,26381.98,3.4
+P01683,Vistara Smartphones T36,Electronics,Smartphones,Unknown,11299.45,17665.33,4.4
+P01684,Aster Headphones U913,Electronics,Headphones,Aster,5504.83,6714.26,3.5
+P01685,Zenova Laptops V470,Electronics,Laptops,Zenova,5728.17,8267.83,4.7
+P01686,Kairo Makeup W633,Beauty,Makeup,Kairo,344.42,410.95,4.1
+P01687,Cresta Storage X760,Home & Kitchen,Storage,Cresta,2002.59,3670.62,3.5
+P01688,Nexa Makeup Y117,Beauty,Makeup,Nexa,1278.29,2216.03,4.1
+P01689,Echo Beverages Z361,Grocery,Beverages,Echo,321.48,635.1,4.1
+P01690,Vistara Yoga A77,Sports & Fitness,Yoga,Vistara,2887.69,3934.04,4.2
+P01691,UrbanPeak Academic B286,Books,Academic,Urbanpeak,408.56,802.43,4.5
+P01692,Orbito Furniture C714,Home & Kitchen,Furniture,Orbito,2771.0,4244.18,3.5
+P01693,Luma Watches D612,Fashion,Watches,Luma,790.72,998.94,4.0
+P01694,Unknown,Home & Kitchen,Bedding,Mintleaf,2129.81,2912.35,4.2
+P01695,Solace Smartphones F74,Electronics,Smartphones,Solace,11015.28,20377.67,3.7
+P01696,Altura Smart Watches G863,Electronics,Smart Watches,Altura,12146.09,22376.35,3.7
+P01697,Orbito Sportswear H316,Sports & Fitness,Sportswear,Orbito,2064.29,3077.42,4.3
+P01698,Vistara Cookware I345,Home & Kitchen,Cookware,Vistara,1481.3,2127.45,4.5
+P01699,Aster Hair Care J672,Beauty,Hair Care,Aster,409.5,629.34,4.2
+P01700,Luma Smart Watches K225,Electronics,Smart Watches,Luma,6877.82,11954.19,4.1
+P01701,Unknown,Fashion,Bags,Mintleaf,1171.65,2153.92,3.9
+P01702,Vistara Sportswear M72,Sports & Fitness,Sportswear,Vistara,2043.09,4070.39,3.6
+P01703,UrbanPeak Headphones N729,Electronics,Headphones,Urbanpeak,9102.71,16375.22,3.5
+P01704,Zenix Hair Care O828,Beauty,Hair Care,Zenix,0.0,532.51,4.6
+P01705,Nexa Smart Watches P838,Electronics,Smart Watches,Nexa,16933.41,35444.71,5.0
+P01706,Zenix Laptops Q535,Electronics,Laptops,Zenix,10379.05,15831.99,3.1
+P01707,MintLeaf Bags R682,Home & Kitchen,Bags,Mintleaf,892.65,1500.97,5.0
+P01708,Luma Cookware S282,Home & Kitchen,Cookware,Luma,2744.15,5178.65,4.2
+P01709,Altura Fiction T480,Books,Fiction,Altura,636.13,1064.45,3.8
+P01710,BlueArc Kitchen Appliances U446,Appliances,Kitchen Appliances,Bluearc,6641.65,12963.37,4.7
+P01711,Solace Fragrance V818,Beauty,Fragrance,Solace,1026.05,1945.0,4.1
+P01712,Echo Sportswear W519,Sports & Fitness,Sportswear,Echo,616.18,856.45,3.9
+P01713,Kairo Women Clothing X653,Fashion,Women Clothing,Kairo,1343.24,1943.03,3.7
+P01714,Luma Fragrance Y306,Beauty,Fragrance,Luma,587.93,963.05,4.4
+P01715,Mira Yoga Z122,Sports & Fitness,Yoga,Mira,486.53,845.76,4.0
+P01716,BlueArc Sportswear A758,Sports & Fitness,Sportswear,Bluearc,2686.97,4641.16,4.1
+P01717,Nexa Kitchen Appliances B549,Appliances,Kitchen Appliances,Nexa,7586.59,14399.3,4.2
+P01718,Zenova Cleaning C317,Appliances,Cleaning,Zenova,2598.48,3776.74,3.9
+P01719,BlueArc Packaged Food D452,Grocery,Packaged Food,Bluearc,384.69,723.87,3.7
+P01720,Vertex Fragrance E301,Beauty,Fragrance,Vertex,717.76,1300.84,4.9
+P01721,Zenova Personal Care F924,Fashion,Personal Care,Zenova,1058.83,2171.35,3.1
+P01722,Kairo Beverages G935,Grocery,Beverages,Kairo,408.44,802.84,5.0
+P01723,Cresta Bedding H257,Home & Kitchen,Bedding,Cresta,2228.61,4034.65,4.8
+P01724,Luma Home Decor I658,Home & Kitchen,Home Decor,Luma,2180.7,4893.31,4.4
+P01725,Luma Children J327,Books,Children,Luma,607.56,860.83,3.7
+P01726,Luma Laptops K994,Electronics,Laptops,Luma,7030.88,13866.75,4.4
+P01727,BlueArc Academic L638,Books,Academic,Bluearc,337.5,529.77,4.0
+P01728,Cresta Small Appliances M918,Appliances,Small Appliances,Cresta,2636.62,3800.35,4.7
+P01729,Zenova Breakfast N867,Grocery,Breakfast,Zenova,362.57,750.81,4.4
+P01730,Vistara Women Clothing O538,Fashion,Women Clothing,Vistara,1361.89,2306.08,4.4
+P01731,Cresta Headphones P791,Electronics,Headphones,Cresta,6514.59,13235.55,3.7
+P01732,Nexa Women Clothing Q61,Fashion,Women Clothing,Nexa,1542.97,2887.7,3.8
+P01733,Zenix Storage R437,Home & Kitchen,Storage,Zenix,2234.39,1975.56,4.1
+P01734,Unknown,Fashion,Men Clothing,Zenova,2416.55,4832.32,4.5
+P01735,Solace Home Decor T317,Home & Kitchen,Home Decor,Solace,1994.78,3598.62,3.7
+P01736,Altura Cookware U117,Home & Kitchen,Cookware,Altura,2243.11,2711.15,4.2
+P01737,MintLeaf Storage V821,Home & Kitchen,Storage,Mintleaf,2604.54,3801.72,3.4
+P01738,Orbito Hair Care W994,Beauty,Hair Care,Orbito,484.08,672.92,3.0
+P01739,BlueArc Yoga X364,Sports & Fitness,Yoga,Bluearc,1947.83,2735.85,3.9
+P01740,MintLeaf Accessories Y926,Electronics,Accessories,Mintleaf,3873.18,6125.45,3.7
+P01741,Mira Home Appliances Z949,Appliances,Home Appliances,Mira,7247.94,11573.96,3.3
+P01742,Aster Home Decor A24,Home & Kitchen,Home Decor,Aster,2993.48,6218.9,4.3
+P01743,PrimeNest Laptops B739,Electronics,Laptops,Primenest,3282.0,6627.12,4.5
+P01744,Luma Women Clothing C260,Fashion,Women Clothing,Luma,1565.29,1894.84,3.7
+P01745,Luma Storage D113,Home & Kitchen,Storage,Luma,900.26,1765.82,4.0
+P01746,BlueArc Non-Fiction E75,Books,Non-Fiction,Bluearc,318.78,403.3,3.0
+P01747,Zenix Storage F821,Home & Kitchen,Storage,Zenix,1891.93,2958.78,3.6
+P01748,Vertex Personal Care G253,Beauty,Personal Care,Vertex,767.19,1332.72,5.0
+P01749,Zenix Men Clothing H949,Fashion,Men Clothing,Zenix,1277.72,2429.03,3.8
+P01750,Zenix Men Clothing I415,Fashion,Men Clothing,Zenix,1217.92,1698.19,4.3
+P01751,Vistara Fiction J818,Books,Fiction,Vistara,496.27,588.82,4.5
+P01752,Aster Smart Watches K934,Electronics,Smart Watches,Aster,9575.62,15670.38,4.3
+P01753,MintLeaf Beverages L797,Grocery,Beverages,Mintleaf,209.06,404.33,3.9
+P01754,Cresta Bedding M613,Home & Kitchen,Bedding,Cresta,1973.25,3116.47,5.0
+P01755,MintLeaf Smartphones N961,Electronics,Smartphones,Mintleaf,13913.65,19112.52,4.3
+P01756,Nova Fiction O347,Books,Fiction,Nova,292.21,514.31,4.8
+P01757,Orbito Storage P794,Home & Kitchen,Storage,Orbito,4361.07,5301.13,4.3
+P01758,Vistara Hair Care Q22,Beauty,Hair Care,Vistara,1058.02,1464.99,4.6
+P01759,Solace Accessories R667,Electronics,Accessories,Solace,2966.41,4229.34,3.7
+P01760,Zenix Small Appliances S747,Appliances,Small Appliances,Zenix,6369.61,7808.73,4.5
+P01761,Nexa Laptops T743,Electronics,Laptops,Nexa,5032.35,8387.34,3.8
+P01762,Vistara Home Decor U59,Home & Kitchen,Home Decor,Vistara,2485.58,4162.58,4.8
+P01763,Solace Bedding V158,Home & Kitchen,Bedding,Solace,1726.85,0.0,3.4
+P01764,Nova Staples W123,Grocery,Staples,Nova,194.17,255.99,3.3
+P01765,Solace Home Appliances X990,Appliances,Home Appliances,Solace,6083.33,8398.66,3.8
+P01766,Mira Home Decor Y72,Home & Kitchen,Home Decor,Mira,2903.9,4825.73,3.7
+P01767,Echo Cleaning Z755,Electronics,Cleaning,Echo,3180.11,5965.72,3.2
+P01768,Nexa Personal Care A494,Beauty,Personal Care,Nexa,897.4,1212.07,3.6
+P01769,Altura Nutrition Accessories B793,Sports & Fitness,Nutrition Accessories,Altura,1442.99,2123.14,3.8
+P01770,UrbanPeak Headphones C467,Electronics,Headphones,Urbanpeak,3328.69,6968.47,3.7
+P01771,Rivon Skin Care D143,Beauty,Skin Care,Rivon,316.3,482.04,3.6
+P01772,Kairo Fragrance E49,Beauty,Fragrance,Kairo,1745.7,2615.0,4.3
+P01773,Kairo Accessories F86,Electronics,Accessories,Kairo,10870.78,17560.49,4.1
+P01774,Echo Packaged Food G178,Grocery,Packaged Food,Echo,144.98,243.51,3.2
+P01775,Altura Breakfast H692,Grocery,Breakfast,Altura,150.66,290.96,3.4
+P01776,UrbanPeak Fragrance I939,Beauty,Fragrance,Urbanpeak,707.51,1378.23,4.0
+P01777,Zenova Children J72,Books,Children,Zenova,1043.81,1579.63,3.3
+P01778,Echo Beverages K893,Grocery,Beverages,Echo,331.16,534.6,4.3
+P01779,Vistara Smartphones L66,Electronics,Smartphones,Vistara,7123.57,13430.5,3.7
+P01780,Nexa Smartphones M411,Electronics,Smartphones,Nexa,4316.54,8023.44,2.7
+P01781,Aster Men Clothing N567,Fashion,Men Clothing,Aster,1786.59,2815.67,3.9
+P01782,Rivon Smartphones O255,Electronics,Smartphones,Rivon,6953.74,10989.66,3.3
+P01783,UrbanPeak Packaged Food P139,Grocery,Packaged Food,Urbanpeak,400.81,491.82,4.0
+P01784,UrbanPeak Smart Watches Q833,Unknown,Smart Watches,Urbanpeak,5846.05,10900.59,4.7
+P01785,Vertex Hair Care R511,Beauty,Hair Care,Vertex,1165.51,2252.73,3.1
+P01786,Cresta Cleaning S773,Appliances,Cleaning,Cresta,3020.51,3829.25,3.6
+P01787,Zenova Business T282,Books,Business,Zenova,538.27,643.53,4.5
+P01788,UrbanPeak Home Appliances U249,Appliances,Home Appliances,Urbanpeak,4245.92,7213.53,3.7
+P01789,Vertex-Yoga-V643,Sports & Fitness,Yoga,Vertex,2242.85,4343.2,3.4
+P01790,Cresta Storage W380,Home & Kitchen,Storage,Cresta,1606.24,3193.51,4.0
+P01791,Aster Women Clothing X841,Fashion,Women Clothing,Aster,647.99,839.84,3.6
+P01792,Nexa Home Appliances Y184,Appliances,Home Appliances,Nexa,5458.69,8141.3,4.1
+P01793,UrbanPeak Skin Care Z727,Beauty,Skin Care,Urbanpeak,756.55,1153.9,2.9
+P01794,BlueArc Laptops A595,Electronics,Laptops,Bluearc,12581.43,17582.94,4.7
+P01795,Zenova Furniture B369,Home & Kitchen,Furniture,Zenova,2116.36,2279.89,3.7
+P01796,Orbito Accessories C99,Electronics,Accessories,Orbito,8029.45,15410.14,4.6
+P01797,Nexa Packaged Food D721,Grocery,Packaged Food,Nexa,172.57,319.88,3.1
+P01798,Unknown,Home & Kitchen,Cookware,Vistara,3526.2,5749.68,3.0
+P01799,Zenix Women Clothing F374,Fashion,Women Clothing,Zenix,2285.75,3523.49,3.5
+P01800,Aster Small Appliances G72,Appliances,Small Appliances,Aster,4045.51,5169.09,4.0
+P01801,Aster Bags H498,Fashion,Bags,Aster,1688.22,2349.87,4.5
+P01802,Orbito Breakfast I271,Grocery,Breakfast,Orbito,276.56,375.44,3.1
+P01803,Solace Footwear J974,Fashion,Footwear,Solace,1051.96,2148.66,3.7
+P01804,Orbito Smartphones K335,Electronics,Smartphones,Orbito,4589.74,9205.33,2.7
+P01805,UrbanPeak Storage L763,Home & Kitchen,Storage,Urbanpeak,2923.07,4048.79,4.6
+P01806,BlueArc Makeup M485,Beauty,Makeup,Bluearc,732.46,891.4,4.2
+P01807,Nova Outdoor N974,Sports & Fitness,Outdoor,Nova,2319.23,2457.2,4.0
+P01808,PrimeNest Storage O897,Home & Kitchen,Storage,Primenest,4195.31,7687.46,5.0
+P01809,Vertex Smart Watches P725,Electronics,Smart Watches,Vertex,7353.55,11056.74,4.8
+P01810,ZENIX HEADPHONES Q174,Electronics,Headphones,Zenix,3713.87,5439.72,3.9
+P01811,Orbito Furniture R833,Home & Kitchen,Furniture,Orbito,1578.11,2274.16,4.2
+P01812,Echo Academic S15,Books,Academic,Echo,209.97,286.65,4.7
+P01813,Zenova Kitchen Appliances T593,Appliances,Kitchen Appliances,Zenova,3940.21,5000.89,3.9
+P01814,Nexa Footwear U410,Fashion,Footwear,Nexa,1243.32,2269.05,3.8
+P01815,Altura Academic V875,Books,Academic,Altura,586.28,1203.49,4.4
+P01816,Vertex Men Clothing W649,Fashion,Men Clothing,Vertex,1616.14,2093.65,3.8
+P01817,Solace Bedding X945,Home & Kitchen,Bedding,Solace,3984.85,6784.0,4.8
+P01818,UrbanPeak Cleaning Y955,Appliances,Cleaning,Urbanpeak,0.0,10905.35,4.4
+P01819,Aster Cooling Z837,Appliances,Cooling,Aster,5370.23,10592.23,3.8
+P01820,Zenix Cookware A702,Home & Kitchen,Cookware,Zenix,4696.4,9743.94,3.8
+P01821,UrbanPeak Bedding B777,Home & Kitchen,Bedding,Urbanpeak,2114.16,3668.62,4.3
+P01822,kairo makeup c279,Beauty,Makeup,Kairo,954.42,1282.56,4.1
+P01823,Mira Business D530,Books,Business,Mira,608.94,1265.3,4.2
+P01824,Solace Men Clothing E631,Fashion,Men Clothing,Solace,1521.38,2577.24,4.9
+P01825,Mira Bags F603,Fashion,Bags,Mira,826.4,1570.76,5.0
+P01826,Kairo Bedding G899,Home & Kitchen,Bedding,Kairo,1617.13,4034.65,4.5
+P01827,Echo Small Appliances H53,Appliances,Small Appliances,Echo,2899.39,5578.12,3.8
+P01828,Altura Outdoor I431,Sports & Fitness,Outdoor,Altura,2578.68,4380.58,3.1
+P01829,MintLeaf Non-Fiction J719,Books,Non-Fiction,Unknown,353.57,525.49,3.4
+P01830,Kairo Bags K147,Fashion,Bags,Kairo,792.85,1529.05,4.4
+P01831,Cresta Laptops L790,Electronics,Laptops,Cresta,8175.94,35542.64,4.4
+P01832,Cresta Furniture M220,Home & Kitchen,Furniture,Cresta,2311.53,4491.2,5.0
+P01833,Zenix-Cooling-N111,Appliances,Cooling,Zenix,2707.06,4017.04,4.6
+P01834,Unknown,Fashion,Men Clothing,Solace,1016.11,1699.8,3.6
+P01835,Altura Home Decor P464,Home & Kitchen,Home Decor,Altura,2450.57,3064.29,3.4
+P01836,UrbanPeak Yoga Q616,Sports & Fitness,Yoga,Urbanpeak,1094.8,1445.19,4.5
+P01837,Echo Beverages R33,Grocery,Unknown,Echo,148.87,2549.37,4.4
+P01838,Cresta Fragrance S724,Beauty,Fragrance,Cresta,609.76,728.59,4.0
+P01839,UrbanPeak Storage T86,Home & Kitchen,Storage,Urbanpeak,1361.07,2104.75,4.1
+P01840,Cresta Women Clothing U549,Fashion,Women Clothing,Cresta,714.91,1044.45,4.5
+P01841,Kairo Fiction V413,Books,Fiction,Kairo,347.42,668.76,3.9
+P01842,Nexa Men Clothing W828,Fashion,Men Clothing,Nexa,3157.43,5050.42,3.8
+P01843,Luma Bags X421,Fashion,Bags,Luma,907.74,1230.92,4.0
+P01844,Solace Laptops Y993,Electronics,Laptops,Solace,25306.92,38815.19,4.5
+P01845,Altura Non-Fiction Z88,Books,Non-Fiction,Altura,421.59,673.57,4.3
+P01846,Cresta Kitchen Appliances A929,Appliances,Kitchen Appliances,Cresta,7934.95,14157.58,3.9
+P01847,Kairo Footwear B784,Fashion,Footwear,Unknown,842.73,1708.18,4.5
+P01848,Solace Smart Watches C530,Electronics,Smart Watches,Solace,5226.94,7757.05,4.3
+P01849,Unknown,Fashion,Women Clothing,Zenix,982.6,1789.27,4.4
+P01850,Altura Women Clothing E447,Fashion,Women Clothing,Altura,1182.08,1531.91,3.4
+P01851,kairo smart watches f603,Electronics,Smart Watches,Kairo,8573.7,17097.28,4.7
+P01852,MintLeaf Smartphones G419,Electronics,Smartphones,Mintleaf,10652.58,22367.52,5.0
+P01853,Zenix Fragrance H660,Beauty,Fragrance,Unknown,965.08,1332.59,3.7
+P01854,UrbanPeak Cooling I846,Appliances,Cooling,Urbanpeak,4773.91,9111.11,4.1
+P01855,zenova non-fiction j421,Books,Non-Fiction,Zenova,305.05,520.46,3.8
+P01856,UrbanPeak Fitness Equipment K234,Sports & Fitness,Fitness Equipment,Urbanpeak,1777.49,2863.2,3.9
+P01857,UrbanPeak Home Decor L220,Home & Kitchen,Home Decor,Urbanpeak,1599.18,3053.88,4.1
+P01858,Kairo Smart Watches M789,Electronics,Smart Watches,Kairo,4535.76,8520.82,4.0
+P01859,Kairo Fragrance N901,Beauty,Fragrance,Kairo,860.16,1115.4,4.6
+P01860,UrbanPeak Footwear O633,Fashion,Footwear,Urbanpeak,1435.0,1759.8,3.9
+P01861,Luma Furniture P737,Home & Kitchen,Furniture,Luma,2774.25,3760.13,3.9
+P01862,Cresta Headphones Q124,Electronics,Headphones,Cresta,10657.82,22133.44,4.7
+P01863,UrbanPeak Packaged Food R186,Grocery,Packaged Food,Urbanpeak,222.52,364.77,3.9
+P01864,Mira Bedding S583,Home & Kitchen,Bedding,Mira,1367.66,2096.92,4.0
+P01865,Mira Children T740,Books,Children,Mira,476.8,863.62,4.5
+P01866,Mira Laptops U759,Electronics,Laptops,Mira,8175.94,17957.99,5.0
+P01867,Echo Furniture V927,Home & Kitchen,Furniture,Echo,1094.87,1921.07,3.8
+P01868,Luma Accessories W982,Electronics,Accessories,Luma,10692.41,19155.08,4.6
+P01869,Mira Smart Watches X665,Electronics,Smart Watches,Mira,5277.84,7406.76,3.9
+P01870,Zenix Furniture Y524,Home & Kitchen,Furniture,Zenix,2103.97,0.0,3.9
+P01871,UrbanPeak Packaged Food Z794,Grocery,Packaged Food,Urbanpeak,239.54,389.61,4.0
+P01872,Aster Bags A478,Fashion,Bags,Aster,1297.01,2086.11,4.0
+P01873,Zenova Fiction B46,Books,Fiction,Zenova,376.05,714.34,4.7
+P01874,Kairo Men Clothing C732,Fashion,Men Clothing,Kairo,740.33,1416.04,3.5
+P01875,Zenix Men Clothing D211,Fashion,Men Clothing,Zenix,1203.34,1712.07,4.3
+P01876,PrimeNest Bedding E506,Home & Kitchen,Bedding,Primenest,1692.87,2122.4,4.0
+P01877,Zenova Footwear F862,Fashion,Footwear,Zenova,3632.0,4600.11,4.1
+P01878,BlueArc Bags G434,Fashion,Bags,Bluearc,656.65,805.95,3.8
+P01879,Kairo Laptops H285,Electronics,Laptops,Kairo,12415.33,19569.1,3.6
+P01880,Nova Skin Care I180,Beauty,Skin Care,Nova,642.07,1344.93,3.1
+P01881,Solace Nutrition Accessories J240,Sports & Fitness,Nutrition Accessories,Solace,1587.85,2685.43,4.1
+P01882,Nexa Women Clothing K192,Fashion,Women Clothing,Nexa,1673.97,2084.59,4.2
+P01883,Unknown,Home & Kitchen,Storage,Zenix,2473.24,3880.56,4.5
+P01884,Altura Storage M946,Home & Kitchen,Storage,Altura,4232.75,8181.42,3.6
+P01885,Zenix Bedding N390,Fashion,Bedding,Zenix,1322.62,2348.33,3.7
+P01886,Vertex Business O64,Books,Business,Vertex,799.89,1319.71,4.0
+P01887,Vertex Cooling P439,Appliances,Cooling,Vertex,2933.31,4140.51,3.7
+P01888,Vertex Furniture Q856,Home & Kitchen,Furniture,Unknown,4253.36,7548.14,4.0
+P01889,Echo Headphones R80,Electronics,Headphones,Echo,7322.35,10887.64,3.5
+P01890,Kairo Footwear S141,Fashion,Footwear,Kairo,891.8,1517.08,3.8
+P01891,Kairo Snacks T960,Grocery,Snacks,Kairo,271.14,380.43,4.5
+P01892,Mira Bags U750,Fashion,Bags,Mira,2213.7,3676.77,3.7
+P01893,UrbanPeak Home Appliances V118,Appliances,Home Appliances,Urbanpeak,4661.02,6306.55,3.7
+P01894,zenix packaged food w976,Grocery,Packaged Food,Zenix,695.0,913.56,4.4
+P01895,Orbito Fiction X818,Books,Fiction,Orbito,477.28,567.66,3.4
+P01896,Luma Breakfast Y593,Grocery,Breakfast,Luma,423.52,679.29,4.4
+P01897,Echo Snacks Z156,Grocery,Snacks,Echo,326.59,413.64,3.1
+P01898,Cresta Headphones A741,Electronics,Headphones,Cresta,8101.56,12736.31,3.8
+P01899,Echo Bags B183,Fashion,Bags,Echo,5749.28,7798.77,3.8
+P01900,PrimeNest Laptops C237,Electronics,Laptops,Primenest,7715.6,10580.74,4.4
+P01901,Nova Snacks D172,Grocery,Snacks,Nova,185.11,316.68,4.1
+P01902,Luma Non-Fiction E749,Books,Non-Fiction,Luma,661.83,858.67,3.8
+P01903,Nova Laptops F319,Electronics,Laptops,Nova,4157.99,8564.99,4.6
+P01904,Kairo Personal Care G616,Beauty,Personal Care,Kairo,1215.33,2053.26,4.0
+P01905,MintLeaf-Skin-Care-H515,Beauty,Skin Care,Mintleaf,726.76,1610.67,4.0
+P01906,Solace Sportswear I936,Sports & Fitness,Sportswear,Solace,5064.46,10007.74,4.0
+P01907,Mira Skin Care J617,Beauty,Skin Care,Mira,757.22,1085.7,4.0
+P01908,Vertex Yoga K211,Sports & Fitness,Yoga,Vertex,1323.85,1792.44,3.9
+P01909,Unknown,Electronics,Accessories,Kairo,7116.16,11177.23,3.1
+P01910,Zenix Children M338,Books,Children,Zenix,640.07,1260.83,3.8
+P01911,MintLeaf Laptops N660,Electronics,Laptops,Mintleaf,6393.52,13075.26,4.6
+P01912,Rivon Home Appliances O350,Appliances,Home Appliances,Rivon,6852.53,8981.99,4.1
+P01913,Vertex Smartphones P279,Electronics,Smartphones,Vertex,5160.39,10117.77,4.6
+P01914,Nexa Bags Q998,Fashion,Bags,Unknown,1039.58,1962.59,4.1
+P01915,BlueArc Fitness Equipment R798,Sports & Fitness,Fitness Equipment,Bluearc,1080.42,1810.97,4.1
+P01916,Zenix Home Decor S661,Home & Kitchen,Home Decor,Zenix,1430.42,2533.68,4.3
+P01917,Vistara Staples T989,Grocery,Staples,Vistara,257.64,318.29,4.3
+P01918,Zenova Smart Watches U700,Electronics,Smart Watches,Zenova,3717.81,7256.22,3.4
+P01919,Kairo Business V707,Books,Business,Kairo,649.99,1145.27,3.8
+P01920,Nova Skin Care W330,Beauty,Skin Care,Nova,427.9,826.45,4.2
+P01921,Zenova Snacks X216,Grocery,Snacks,Zenova,229.65,423.87,3.5
+P01922,Echo Smart Watches Y390,Electronics,Smart Watches,Echo,9564.23,12082.66,4.7
+P01923,Zenix Children Z83,Books,Children,Zenix,487.97,1020.3,4.7
+P01924,Altura Personal Care A532,Beauty,Personal Care,Altura,845.11,1731.79,3.8
+P01925,BlueArc Home Decor B16,Home & Kitchen,Home Decor,Bluearc,1586.02,2807.5,4.6
+P01926,Vistara Staples C259,Grocery,Staples,Vistara,506.55,627.55,4.3
+P01927,Kairo Women Clothing D724,Fashion,Women Clothing,Kairo,818.15,1132.83,4.5
+P01928,Mira Hair Care E982,Beauty,Hair Care,Mira,444.35,297.21,4.6
+P01929,UrbanPeak Footwear F18,Fashion,Footwear,Urbanpeak,901.6,1091.19,3.7
+P01930,Nexa Hair Care G573,Beauty,Hair Care,Nexa,1247.03,1541.83,4.3
+P01931,BlueArc Cookware H434,Home & Kitchen,Cookware,Bluearc,2422.38,4144.23,4.8
+P01932,MintLeaf Makeup I587,Beauty,Makeup,Mintleaf,640.36,0.0,3.4
+P01933,Solace Cleaning J368,Appliances,Cleaning,Solace,2847.21,3826.34,4.0
+P01934,Vertex Bags K793,Fashion,Bags,Vertex,842.0,1125.68,3.0
+P01935,Vertex Bedding L33,Home & Kitchen,Bedding,Vertex,2413.55,4138.85,3.6
+P01936,Zenova Fragrance M626,Beauty,Fragrance,Zenova,1060.36,1574.76,4.4
+P01937,Nova Academic N250,Books,Academic,Nova,271.31,347.51,4.6
+P01938,Mira Yoga O313,Sports & Fitness,Yoga,Mira,1944.25,2555.41,3.9
+P01939,Solace Storage P128,Home & Kitchen,Storage,Solace,1432.76,1804.05,4.1
+P01940,PrimeNest Laptops Q45,Electronics,Laptops,Primenest,12479.21,22244.18,4.0
+P01941,UrbanPeak Home Decor R175,Home & Kitchen,Home Decor,Urbanpeak,1091.43,1585.98,5.0
+P01942,UrbanPeak Storage S871,Home & Kitchen,Storage,Urbanpeak,2215.15,2573.43,3.7
+P01943,Luma Storage T717,Home & Kitchen,Storage,Luma,2234.39,3397.54,3.8
+P01944,UrbanPeak Outdoor U907,Sports & Fitness,Outdoor,Urbanpeak,1862.42,2374.54,3.2
+P01945,Altura Makeup V700,Beauty,Makeup,Altura,658.69,896.07,3.0
+P01946,BlueArc Makeup W843,Beauty,Makeup,Unknown,276.3,424.56,4.1
+P01947,Echo Hair Care X560,Beauty,Hair Care,Echo,1017.06,1676.61,5.0
+P01948,Zenix Men Clothing Y364,Fashion,Men Clothing,Zenix,776.89,1175.63,4.0
+P01949,Mira Storage Z915,Home & Kitchen,Storage,Mira,2253.63,3379.38,4.0
+P01950,UrbanPeak Footwear A130,Fashion,Footwear,Urbanpeak,883.37,1832.91,3.2
+P01951,Nova Furniture B490,Home & Kitchen,Furniture,Nova,783.3,1611.47,4.1
+P01952,Cresta-Fitness-Equipment-C645,Sports & Fitness,Fitness Equipment,Cresta,1777.49,3381.47,4.3
+P01953,Kairo Home Appliances D500,Appliances,Home Appliances,Kairo,5873.0,10428.97,3.8
+P01954,Orbito Skin Care E673,Beauty,Skin Care,Orbito,561.1,957.06,3.4
+P01955,BlueArc Women Clothing F327,Fashion,Women Clothing,Bluearc,432.64,582.17,4.6
+P01956,Nexa Women Clothing G488,Fashion,Women Clothing,Nexa,887.43,1639.16,2.6
+P01957,Luma Home Decor H488,Home & Kitchen,Home Decor,Luma,2127.93,3733.95,5.0
+P01958,Nova Headphones I921,Electronics,Headphones,Nova,7275.91,12647.18,4.2
+P01959,Orbito Laptops J721,Electronics,Laptops,Orbito,12927.54,20281.95,4.1
+P01960,Nova Watches K516,Fashion,Watches,Nova,1395.51,2342.05,4.1
+P01961,Altura Headphones L844,Electronics,Headphones,Altura,6629.93,9860.29,5.0
+P01962,Zenova Men Clothing M505,Fashion,Men Clothing,Zenova,1768.45,2883.66,4.1
+P01963,Altura Footwear N368,Fashion,Footwear,Altura,633.46,960.38,4.1
+P01964,Kairo Children O261,Books,Children,Kairo,739.65,1544.94,3.2
+P01965,Orbito Women Clothing P50,Fashion,Women Clothing,Orbito,1873.49,2962.04,4.0
+P01966,UrbanPeak Yoga Q199,Sports & Fitness,Yoga,Urbanpeak,1709.31,6317.94,3.4
+P01967,Luma Footwear R714,Fashion,Footwear,Luma,1320.03,2146.79,4.9
+P01968,Kairo Academic S623,Books,Academic,Kairo,631.4,831.37,3.9
+P01969,Vertex Smart Watches T671,Electronics,Smart Watches,Vertex,11689.09,19970.0,4.0
+P01970,BlueArc Bags U282,Fashion,Bags,Bluearc,1127.6,1647.04,4.3
+P01971,BlueArc Laptops V245,Electronics,Laptops,Bluearc,8175.94,14939.77,3.8
+P01972,Vertex Watches W608,Fashion,Watches,Vertex,1181.53,1886.06,4.6
+P01973,Zenix Home Decor X851,Home & Kitchen,Home Decor,Zenix,1724.9,3590.95,3.5
+P01974,Echo Fitness Equipment Y582,Sports & Fitness,Fitness Equipment,Echo,3940.28,6228.44,4.0
+P01975,BlueArc Breakfast Z814,Grocery,Breakfast,Bluearc,174.24,259.01,3.6
+P01976,Zenova Smartphones A877,Electronics,Smartphones,Zenova,0.0,15239.82,4.0
+P01977,Altura Nutrition Accessories B120,Sports & Fitness,Nutrition Accessories,Altura,1861.98,3476.57,4.4
+P01978,Nova Makeup C277,Beauty,Makeup,Nova,418.98,823.4,3.9
+P01979,Orbito Snacks D434,Grocery,Snacks,Orbito,182.84,258.95,3.7
+P01980,Cresta Children E360,Books,Children,Cresta,625.44,1030.22,4.8
+P01981,MintLeaf Makeup F182,Beauty,Makeup,Mintleaf,937.72,1232.64,4.4
+P01982,Zenix Furniture G143,Home & Kitchen,Furniture,Zenix,3414.92,6525.7,3.3
+P01983,Zenix Beverages H271,Grocery,Beverages,Zenix,402.77,644.02,4.0
+P01984,Altura Nutrition Accessories I695,Sports & Fitness,Nutrition Accessories,Altura,1889.52,3864.64,5.0
+P01985,Mira Home Decor J899,Home & Kitchen,Home Decor,Mira,1455.39,2792.19,3.6
+P01986,MintLeaf Bedding K914,Home & Kitchen,Bedding,Mintleaf,3214.48,4453.77,3.9
+P01987,PrimeNest Fitness Equipment L904,Sports & Fitness,Fitness Equipment,Primenest,2294.62,2863.2,3.6
+P01988,PrimeNest Home Appliances M479,Appliances,Home Appliances,Primenest,3709.86,5481.05,4.2
+P01989,Nova Non-Fiction N355,Books,Non-Fiction,Nova,615.6,1152.11,3.5
+P01990,Rivon Footwear O634,Fashion,Footwear,Rivon,837.99,1436.68,4.1
+P01991,Zenix Cleaning P734,Appliances,Cleaning,Zenix,2705.51,4803.58,4.5
+P01992,Aster Fragrance Q691,Beauty,Fragrance,Aster,630.98,1066.43,3.6
+P01993,UrbanPeak Headphones R247,Electronics,Headphones,Urbanpeak,5428.63,7732.01,3.7
+P01994,MintLeaf Footwear S816,Fashion,Footwear,Mintleaf,1001.89,1310.65,3.3
+P01995,Nova Footwear T443,Fashion,Footwear,Nova,662.38,1180.47,4.5
+P01996,Aster Cleaning U552,Appliances,Cleaning,Aster,11433.41,17935.41,4.0
+P01997,Kairo Smartphones V26,Electronics,Smartphones,Kairo,7941.24,13759.44,3.0
+P01998,Nexa Hair Care W527,Beauty,Hair Care,Nexa,190.5,284.16,4.0
+P01999,Aster Cookware X815,Home & Kitchen,Cookware,Aster,1180.49,2028.59,2.9
+P02000,Zenova Snacks Y379,Grocery,Snacks,Zenova,415.7,797.11,3.9
