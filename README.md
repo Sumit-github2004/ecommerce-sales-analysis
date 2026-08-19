@@ -1,5 +1,3 @@
-# ecommerce-sales-analysis
-
 # E-Commerce Sales Analysis
 
 ## 📊 Project Overview
